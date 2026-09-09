@@ -1,0 +1,71 @@
+{
+  "id": "tnpsc-geography-lithosphere-01",
+  "title": "Lithosphere Flashcards",
+  "description": "Key facts from TNPSC Group II Geography Lithosphere Chapter",
+  "cards": [
+    {
+      "q": "What is the name of the supercontinent that existed before the current continents formed?",
+      "a": "Pangea (meaning 'All Earth')."
+    },
+    {
+      "q": "What was the mega-ocean that surrounded Pangea called?",
+      "a": "Panthalassa (meaning 'All Ocean')."
+    },
+    {
+      "q": "What does SIAL stand for in the context of the Continental Crust?",
+      "a": "Silica + Aluminium."
+    },
+    {
+      "q": "What does NIFE stand for in the context of the Earth's Core?",
+      "a": "Nickel + Ferrous (Iron)."
+    },
+    {
+      "q": "Which layer of the Earth is known as the Asthenosphere?",
+      "a": "The Upper Mantle (extends up to 700 km)."
+    },
+    {
+      "q": "What type of earth movement is responsible for the formation of Block mountains and Rift valleys?",
+      "a": "Epirogenic (Vertical/Continental) Movement along faults."
+    },
+    {
+      "q": "What is the point of origin of an earthquake inside the Earth called?",
+      "a": "Focus (or Hypocenter)."
+    },
+    {
+      "q": "Which seismic wave travels the fastest and at what speed?",
+      "a": "P-Waves (Primary waves) at 8 km/sec."
+    },
+    {
+      "q": "Which seismic waves are responsible for the maximum visible damage on the surface?",
+      "a": "L-Waves (Surface waves)."
+    },
+    {
+      "q": "Who proposed the unified theory of Plate Tectonics in 1967?",
+      "a": "McKenzie, Parker, and Morgan."
+    },
+    {
+      "q": "What type of plate boundary is the Mid-Atlantic Ridge an example of?",
+      "a": "Divergent Boundary (spreading site)."
+    },
+    {
+      "q": "Which is the only active volcano in India?",
+      "a": "Barren Island."
+    },
+    {
+      "q": "What is the most abundant gas emitted during a volcanic eruption?",
+      "a": "Water vapour (more than 60%)."
+    },
+    {
+      "q": "What happens to a tsunami wave when it enters shallow water near the coast?",
+      "a": "Its wavelength gets reduced and wave height increases drastically (up to 15m or more)."
+    },
+    {
+      "q": "What metamorphic rock is formed from Limestone?",
+      "a": "Marble."
+    },
+    {
+      "q": "What metamorphic rock is formed from Coal?",
+      "a": "Graphite."
+    }
+  ]
+}

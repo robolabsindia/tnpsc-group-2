@@ -1,0 +1,106 @@
+{
+  "title": "Lithosphere Quiz",
+  "description": "Test your knowledge of Earth's interior, plate tectonics, earthquakes, and rocks.",
+  "questions": [
+    {
+      "question": "The uppermost layer of the Continental Crust is primarily composed of:",
+      "options": [
+        "SIMA",
+        "NIFE",
+        "SIAL",
+        "Asthenosphere"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which scale is used to measure the intensity (visible damage) of an earthquake?",
+      "options": [
+        "Richter Scale",
+        "Mercalli Scale",
+        "Beaufort Scale",
+        "Mohs Scale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The slow movement of hot, softened mantle that drives plate movement is called:",
+      "options": [
+        "Subduction",
+        "Orogenic movement",
+        "Convection cell / convective flow",
+        "Lithification"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is an example of an Extinct Volcano?",
+      "options": [
+        "Mauna Loa",
+        "Barren Island",
+        "Vesuvius",
+        "Mt. Kilimanjaro"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Tsunamis are also known as:",
+      "options": [
+        "Deep water waves",
+        "Harbor waves or seismic sea waves",
+        "Tidal bores",
+        "Spring tides"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When Sandstone undergoes metamorphism, it changes into:",
+      "options": [
+        "Slate",
+        "Marble",
+        "Quartzite",
+        "Gneiss"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which Indian region falls under the 'Very High Damage Risk Zone' (Zone 5) for earthquakes?",
+      "options": [
+        "Peninsular India",
+        "Kutch areas of Gujarat",
+        "Coastal districts of Tamil Nadu",
+        "Plains of Bihar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The point on the Earth's surface directly above the earthquake focus is called the:",
+      "options": [
+        "Hypocenter",
+        "Epicenter",
+        "Subduction zone",
+        "Transform fault"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of plate boundary is associated with the Circum-Pacific belt of explosive volcanoes?",
+      "options": [
+        "Divergent Boundaries",
+        "Transform Boundaries",
+        "Convergent Boundaries",
+        "Spreading Sites"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Rocks formed by the compaction and lithification of fragments are called:",
+      "options": [
+        "Igneous Rocks",
+        "Metamorphic Rocks",
+        "Sedimentary Rocks",
+        "Primary Rocks"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
