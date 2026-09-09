@@ -1,0 +1,167 @@
+{
+  "id": "tnpsc-geography-earth-universe-01",
+  "title": "Earth, Universe & Solar System Flashcards",
+  "description": "Key facts from TNPSC Group II Geography Chapter 1",
+  "cards": [
+    {
+      "q": "What is the center of the solar system?",
+      "a": "The Sun."
+    },
+    {
+      "q": "Which planet is the smallest and positioned nearest to the sun?",
+      "a": "Mercury."
+    },
+    {
+      "q": "What are the maximum and minimum temperatures on Mercury?",
+      "a": "Maximum 350°C, minimum -170°C."
+    },
+    {
+      "q": "Why is Mercury unable to hold the heat it receives during the daytime?",
+      "a": "Because of the absence of an atmosphere."
+    },
+    {
+      "q": "Which planet is the second densest planet after Earth?",
+      "a": "Mercury."
+    },
+    {
+      "q": "Which planet is known as the 'Hottest Planet' and what is its maximum temperature?",
+      "a": "Venus; about 480°C."
+    },
+    {
+      "q": "Why does Venus record the highest degree of temperature in the solar system?",
+      "a": "Because 98% of its atmosphere is covered by CO2."
+    },
+    {
+      "q": "What are the common names for Venus when seen before dawn and after sunset?",
+      "a": "'Morning Star' and 'Evening Star'."
+    },
+    {
+      "q": "Why is Venus called Earth's twin?",
+      "a": "Because it is similar to Earth in radius, mass, and density."
+    },
+    {
+      "q": "What percentage of Earth's surface is covered by water and land respectively?",
+      "a": "Water 71%, Land 29%."
+    },
+    {
+      "q": "What is the estimated age of the Earth from radioactive dating?",
+      "a": "4.6 × 10^9 years."
+    },
+    {
+      "q": "What is the duration of a Sidereal day on Earth?",
+      "a": "23 hrs, 56 min, 4 seconds."
+    },
+    {
+      "q": "What is the true period of the Moon's revolution around the Earth (Sidereal month)?",
+      "a": "27 1/3 days."
+    },
+    {
+      "q": "Why does Mars appear reddish?",
+      "a": "Due to a high amount of iron oxides (ferric oxides) in its soils and rocks."
+    },
+    {
+      "q": "What are the names of the two satellites of Mars?",
+      "a": "Deimos and Phobos."
+    },
+    {
+      "q": "What is the special feature of Jupiter known as the great 'Redspot'?",
+      "a": "A tremendous storm on its surface that sends strong bursts of radiowaves."
+    },
+    {
+      "q": "Which is the largest satellite in the solar system?",
+      "a": "Ganymede (satellite of Jupiter)."
+    },
+    {
+      "q": "Why does Jupiter not have any seasons like Earth?",
+      "a": "It has an almost perpendicular axis with an inclination of only about 2°."
+    },
+    {
+      "q": "How many rings are there around Saturn?",
+      "a": "Seven multi-coloured rings."
+    },
+    {
+      "q": "What is the specific gravity of Saturn, and what would happen if a large ocean were available?",
+      "a": "0.7; it would float in the ocean."
+    },
+    {
+      "q": "How does Uranus revolve around the sun due to its 98° axis tilt?",
+      "a": "It rolls on its sides."
+    },
+    {
+      "q": "Why do Neptune and Pluto appear blue?",
+      "a": "Because of the presence of methane gas in their atmosphere."
+    },
+    {
+      "q": "How long does it take Neptune to orbit the sun?",
+      "a": "Almost 165 earth years."
+    },
+    {
+      "q": "What are the first dwarf planets identified?",
+      "a": "Pluto, Eris, and the asteroid Ceres."
+    },
+    {
+      "q": "What is the main difference between a planet and a star?",
+      "a": "A star twinkles and a planet will glow without any flicker."
+    },
+    {
+      "q": "Which planets are classified as Solid planets?",
+      "a": "Mercury, Venus, Earth, Mars."
+    },
+    {
+      "q": "Which planets are classified as Gaseous planets?",
+      "a": "Jupiter, Saturn, Uranus, Neptune."
+    },
+    {
+      "q": "What is the closest star to Earth after the Sun?",
+      "a": "Alpha Centauri."
+    },
+    {
+      "q": "What is the maximum duration of totality for a Lunar Eclipse?",
+      "a": "Up to 1 hr and 40 minutes."
+    },
+    {
+      "q": "What is the maximum duration of a total Solar Eclipse?",
+      "a": "Rarely over 7 minutes and never more than 8 minutes."
+    },
+    {
+      "q": "What is the angle of the Moon's orbit to the ecliptic?",
+      "a": "About 5° (or 5° 9')."
+    },
+    {
+      "q": "Name the asteroids mentioned that have Tamil names.",
+      "a": "VynuPappu, Sarabai, Ramanuja."
+    },
+    {
+      "q": "At what distance does the Moon revolve around the Earth?",
+      "a": "Approximately 3,84,401 kms."
+    },
+    {
+      "q": "According to the source text, what are particles that withstand atmospheric friction and reach Earth's surface called?",
+      "a": "Meteors (Note: Source text anomaly; scientifically these are meteorites)."
+    },
+    {
+      "q": "What is a comet primarily made of?",
+      "a": "Dust and ice."
+    },
+    {
+      "q": "What is the 'Akash Ganga'?",
+      "a": "A white streak of light seen on a clear night (Milky Way galaxy)."
+    },
+    {
+      "q": "Which planet is the swiftest rotating planet?",
+      "a": "Jupiter."
+    },
+    {
+      "q": "Which planet is the slowest rotating planet?",
+      "a": "Venus."
+    },
+    {
+      "q": "Which planet is the swiftest revolving planet?",
+      "a": "Mercury."
+    },
+    {
+      "q": "Which planet is the slowest revolving planet?",
+      "a": "Pluto."
+    }
+  ]
+}

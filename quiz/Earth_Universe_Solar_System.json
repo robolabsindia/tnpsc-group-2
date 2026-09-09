@@ -1,0 +1,206 @@
+{
+  "title": "Earth, Universe & Solar System Quiz",
+  "description": "Test your knowledge of the solar system, planets, and universe based on the TNPSC study material.",
+  "questions": [
+    {
+      "question": "Which planet is positioned first from the sun and is the smallest planet?",
+      "options": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Earth"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why does Venus record the highest degree of temperature in the entire solar system?",
+      "options": [
+        "It is the closest planet to the sun",
+        "It has a thick layer of ammonia clouds",
+        "98% of its atmosphere is covered by CO2",
+        "It experiences continuous volcanic eruptions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What percentage of the Earth's total area is covered by water?",
+      "options": [
+        "29%",
+        "50%",
+        "71%",
+        "85%"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is the correct descending order of continents by area?",
+      "options": [
+        "Asia, Africa, North America, South America, Europe, Antarctica, Australia",
+        "Asia, Africa, South America, North America, Europe, Antarctica, Australia",
+        "Africa, Asia, North America, Europe, South America, Antarctica, Australia",
+        "Asia, Europe, Africa, North America, South America, Australia, Antarctica"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Why is Mars known as the 'Red Planet'?",
+      "options": [
+        "Due to the presence of methane gas in its atmosphere",
+        "Due to high amounts of iron oxides (ferric oxides) in its soils and rocks",
+        "Due to the reflection of the sun's red light",
+        "Due to continuous cyclonic winds of 1500 km/hr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the largest satellite in the solar system?",
+      "options": [
+        "Titan",
+        "Triton",
+        "Ganymede",
+        "Moon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the specific gravity of Saturn?",
+      "options": [
+        "0.7",
+        "1.2",
+        "0.9",
+        "1.5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "How does Uranus revolve around the sun due to its 98° axis tilt?",
+      "options": [
+        "It spins vertically like a top",
+        "It rolls on its sides",
+        "It rotates backwards",
+        "It moves in a highly elliptical zigzag path"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why do Neptune and Pluto appear blue in colour?",
+      "options": [
+        "Presence of ammonia gas",
+        "Presence of water vapour",
+        "Presence of methane gas",
+        "Presence of carbon dioxide"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following groups of planets are classified as 'Solid Planets'?",
+      "options": [
+        "Jupiter, Saturn, Uranus, Neptune",
+        "Mercury, Venus, Earth, Mars",
+        "Earth, Mars, Jupiter, Saturn",
+        "Venus, Earth, Neptune, Pluto"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the closest star to the Earth, after the Sun?",
+      "options": [
+        "Sirius",
+        "Proxima Centauri",
+        "Alpha Centauri",
+        "Betelgeuse"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the maximum duration of totality for a Lunar Eclipse?",
+      "options": [
+        "Up to 1 hr and 40 minutes",
+        "Up to 3 hrs and 40 minutes",
+        "Up to 7 minutes",
+        "Up to 8 minutes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the maximum duration a total Solar Eclipse can last at any place on Earth?",
+      "options": [
+        "1 hr and 40 minutes",
+        "3 hrs and 40 minutes",
+        "Never more than 8 minutes",
+        "Exactly 24 minutes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Where are thousands of asteroids primarily found in the solar system?",
+      "options": [
+        "Between Earth and Mars",
+        "Between Mars and Jupiter",
+        "Between Jupiter and Saturn",
+        "Between Saturn and Uranus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following asteroids is mentioned as having a Tamil name?",
+      "options": [
+        "Vesta",
+        "Pallas",
+        "VynuPappu",
+        "Hygiea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the approximate distance of the Moon from the Earth?",
+      "options": [
+        "1,50,000 kms",
+        "3,84,401 kms",
+        "4,60,000 kms",
+        "150 million kms"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the duration of a Sidereal day on Earth?",
+      "options": [
+        "24 hours exactly",
+        "23 hrs, 56 min, 4 seconds",
+        "24 hrs, 4 minutes",
+        "27 days 7 3/4 hrs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which planet is identified as the swiftest revolving planet in the solar system?",
+      "options": [
+        "Jupiter",
+        "Venus",
+        "Mercury",
+        "Mars"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which planet is the fastest rotating planet on its axis?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Earth",
+        "Uranus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "According to the text, what makes a comet's tail reflective?",
+      "options": [
+        "Friction with the Earth's atmosphere",
+        "Ice melting and reflecting the Sun's light as it comes near the Sun",
+        "Radioactive decay of dust particles",
+        "Interaction with the Earth's magnetic field"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
