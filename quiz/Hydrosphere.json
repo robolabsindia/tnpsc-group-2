@@ -1,0 +1,156 @@
+{
+  "title": "Hydrosphere Quiz",
+  "description": "Test your knowledge of oceanography, currents, tides, and marine resources.",
+  "questions": [
+    {
+      "question": "Which of the following is the deepest trench in the Atlantic Ocean?",
+      "options": [
+        "Romanche Deep",
+        "South Sandwich Trench",
+        "Puerto Rico Trench (Milwaukee Deep)",
+        "Cayman Trench"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What percentage of the ocean area is occupied by the Continental Shelf?",
+      "options": [
+        "8.5%",
+        "7.6%",
+        "15.2%",
+        "3.4%"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Sargasso Sea is located in which ocean?",
+      "options": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following water bodies has the highest salinity?",
+      "options": [
+        "Dead Sea",
+        "Red Sea",
+        "Great Salt Lake",
+        "Lake Van (Turkey)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the primary cause of the thick fog near Newfoundland?",
+      "options": [
+        "Meeting of the Kuroshio and Oyashio currents",
+        "Meeting of the Gulf Stream and Labrador currents",
+        "Meeting of the Brazil and Falkland currents",
+        "Meeting of the Agulhas and West Wind Drift"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which river in India is famous for experiencing 'Tidal Bores'?",
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Hooghly",
+        "Narmada"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the estimated tidal energy potential of the Gulf of Khambhat?",
+      "options": [
+        "1000 MW",
+        "7000 MW",
+        "100 MW",
+        "900 MW"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Coral polyps require specific conditions to thrive. Which of the following is NOT a favorable condition?",
+      "options": [
+        "Tropical oceans with high mean annual temperature",
+        "Clean, sediment-free water",
+        "Deep waters with low sunlight",
+        "Presence of ocean currents and waves for food supply"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is the only cold desert in India?",
+      "options": [
+        "Thar",
+        "Rann of Kutch",
+        "Ladakh",
+        "Spiti"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Where is the National Biodiversity Authority (NBA) headquartered?",
+      "options": [
+        "New Delhi",
+        "Chennai",
+        "Bengaluru",
+        "Dehradun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'Ninety East Ridge' is an important submarine ridge located in which ocean?",
+      "options": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which phenomenon is strongly associated with catastrophic coral bleaching events in 1983, 1987, and 1998?",
+      "options": [
+        "La Niña",
+        "El Niño",
+        "Indian Ocean Dipole",
+        "Madden-Julian Oscillation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What type of current is the 'Peru Current'?",
+      "options": [
+        "Warm Current",
+        "Cold Current",
+        "Neutral Current",
+        "Monsoon Drift"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Spring tides occur when:",
+      "options": [
+        "The Sun and Moon are at right angles to the Earth",
+        "The Earth, Moon, and Sun are in a straight line",
+        "The Moon is at its apogee",
+        "The Earth is at its aphelion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which Indian state produces 50% of the total common salt from the sea?",
+      "options": [
+        "Tamil Nadu",
+        "Maharashtra",
+        "Gujarat",
+        "Andhra Pradesh"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
