@@ -1,21 +1,16 @@
 # Atmosphere, Weather & Climate, Monsoon, Rainfall
 
-> **Source:** Government of Tamil Nadu — Department of Employment and Training, Virtual Learning Portal e-content
-> **Course:** TNPSC Group II Exam | **Subject:** Geography
-> **Pages:** 23 (PDF page 2 is blank)
 
----
-
+```
+```
 ## 1. Introduction: Weather and Climate
-```
-```
+
 
 - **Weather and Climate** are two terms used in day-to-day life because our daily routine is based on the prevailing weather conditions.
 - Human activity of any region is determined by weather and climate. Our food habits, customs, traditions, and even most common celebrations are associated with weather and climate.
 
 ### Definitions
-```
-```
+
 
 | Term | Definition |
 |---|---|
@@ -25,16 +20,14 @@
 - Weather differences are the outcome of the **angle of the sun** at any particular spot, which varies by latitude.
 
 ---
-
+```
+```
 ## 2. Factors Determining Weather and Climate
-```
-```
+
 
 Day-to-day factors affect the weather elements. The following factors affect the **climate** of a place:
-
 ### 1. Latitude
-```
-```
+
 - The equator receives **vertical rays** which fall over a small area.
 - Polar regions receive **slanting sunrays** which fall over a wide area.
 - **Result:** places near the equator are hotter than the poles.
@@ -42,40 +35,35 @@ Day-to-day factors affect the weather elements. The following factors affect the
 **Normal Lapse Rate:** Temperature decreases as altitude increases — at a rate of **1°C per 165 metres**, i.e. **6.5°C per kilometre** (0.65°C per 100 m).
 
 ### 2. Altitude
-```
-```
+
+
 - Places on high altitudes are always colder than their counterparts at lower altitudes.
 - Reason: air becomes **thinner** as altitude increases and absorbs less heat.
 
 ### 3. Distance from the Sea
-```
-```
+
 - The sea absorbs and retains heat for a long duration → coastal areas experience **cool, wet air** throughout the year → uniform weather in winter and summer → **equable (maritime) climate**.
 - Land absorbs and loses heat quickly → interior areas experience **warm, dry air**; very hot in summer, very cold in winter → **continental climate**.
 
 ### 4. Ocean Currents
-```
-```
+
 - Classified by temperature into **warm** and **cold** ocean currents.
 - **Warm currents** → make coastal areas warm, wet and free from ice.
 - **Cold currents** → make coastal areas cool, dry and bring in icebergs.
 
 ### 5. Direction of Prevailing Winds
-```
-```
+
 - Winds blowing **from the sea to land** contain more moisture → cool and wet (e.g., South-West Monsoon).
 - Winds blowing **from the land** are warm and dry (e.g., North-East Monsoon).
 
 ### 6. El Niño Effect
-```
-```
+
 - El Niño is formed **during Christmas time** and continues for a few months.
 - Once in **five or six years** (see note in Section 14: the source also gives "every three to seven years"), the temperature rises rapidly and a **low pressure system is formed along the coast of Peru and Ecuador**.
 - This low pressure attracts winds from all directions; **trade winds become weak** over the Indian and Pacific Oceans and are deflected, causing **prolonged dry periods** in many parts of the world.
 
 ### 7. Human Influence
-```
-```
+
 - The Industrial Revolution cleared forests and brought transport, concrete buildings and industries — making life easy but causing:
   - **Global warming**
   - **Greenhouse effect**
@@ -83,18 +71,17 @@ Day-to-day factors affect the weather elements. The following factors affect the
 - **Urban heat islands**: metropolitan areas significantly warmer than their surrounding areas — an effect of human influence.
 
 ---
-
+```
+```
 ## 3. The Atmosphere
-```
-```
+
 
 - Air is essential to the survival of all organisms.
 - The atmosphere is a **mixture of gases** that envelops the earth all around; it contains life-giving gases.
 - **99% of the total mass of the atmosphere is confined to 32 km** from the earth's surface.
 
 ### Composition of the Atmosphere (mixture of gases, water vapour and dust particles)
-```
-```
+
 
 | Constituent | Percentage by volume |
 |---|---:|
@@ -111,8 +98,7 @@ Day-to-day factors affect the weather elements. The following factors affect the
 - The proportion of gases **changes in higher layers**: the quantity of oxygen becomes negligible in higher layers; carbon dioxide and water are found **only up to 90 km** from the surface.
 
 ### Layers of the Atmosphere
-```
-```
+
 
 The source names **four major layers**: troposphere, stratosphere, ionosphere and exosphere (mesosphere and thermosphere are also described/shown in the figure).
 
@@ -130,10 +116,10 @@ Troposphere 0–12 km | Stratosphere 12–50 km | Mesosphere 50–80 km | Thermo
 > *Note:* The text's four-layer list and the figure's five-layer range differ slightly; both are preserved above as given in the source.
 
 ---
-
+```
+```
 ## 4. Temperature Distribution
-```
-```
+
 
 - The **sun is the source of light and heat** to the earth. Earth receives only a small amount of solar radiation which takes **eight minutes** to reach the earth's surface.
 - **Insolation** = incoming solar radiation.
@@ -144,8 +130,7 @@ Troposphere 0–12 km | Stratosphere 12–50 km | Mesosphere 50–80 km | Thermo
 - The earth's atmosphere is heated **more by terrestrial radiation** than by the insolation.
 
 ### Factors Controlling Temperature Distribution
-```
-```
+
 
 a) **Latitude** — temperature depends on insolation, which varies with latitude.
 
@@ -162,8 +147,7 @@ f) **El Niño Effect** — it is a warm oceanic current.
 g) **Human Influence** — deforestation and human development are felt as **global warming, greenhouse effect, and pollution** (increased CO₂).
 
 ### Distribution of Temperature (Maps)
-```
-```
+
 
 - Best understood by studying temperature distribution in **January and July**, shown on maps with **isotherms**.
 - **Isotherms** = lines joining places having **equal temperature**.
@@ -172,14 +156,12 @@ g) **Human Influence** — deforestation and human development are felt as **glo
 - **In January, isotherms deviate to the north over the ocean and to the south over the continent.**
 
 ### Diurnal (Daily) Range of Temperature
-```
-```
+
 - Difference between the **maximum and minimum temperatures of a day**.
 - **Low at the equator; high in desert areas and tropical interior land during summer.**
 
 ### Key Dates of the Year
-```
-```
+
 
 | Date | Event |
 |---|---|
@@ -189,14 +171,12 @@ g) **Human Influence** — deforestation and human development are felt as **glo
 | Dec 22 | Winter Solstice |
 
 ### Annual Range of Temperature
-```
-```
+
 - Difference between the **mean temperatures of the hottest and coldest months** of the year.
 - **Very small in the equatorial region**; increases from the equator to the **subpolar region**; **high in desert regions**.
 
 ### Inversion of Temperature
-```
-```
+
 - Normally temperature decreases with elevation (normal lapse rate). At times the situation is **reversed** → **inversion of temperature**. Usually of **short duration**.
 - **Ideal situation:** a long winter night with clear skies and still air. The heat of the day is radiated off during the night; by early morning the earth is cooler than the air above.
 - Over **polar areas**, temperature inversion is **normal throughout the year**.
@@ -204,10 +184,10 @@ g) **Human Influence** — deforestation and human development are felt as **glo
 - **Air drainage:** in hills and mountains, cold dense air produced during the night flows down under gravity and piles up in pockets and valley bottoms with warm air above. **Protects plants from frost damage.**
 
 ---
-
+```
+```
 ## 5. Pressure Belts
-```
-```
+
 
 - **Air pressure** = the pressure thrust by the **weight of the air** on the earth's surface.
 - **Average air pressure at sea level = 1,013 millibars.**
@@ -221,8 +201,7 @@ g) **Human Influence** — deforestation and human development are felt as **glo
 | **d) Polar High Pressure Belt** | At the poles | Sunrays fall very slanting → low temperature → heavy air accumulates → high pressure. |
 
 ### General Circulation of the Atmosphere
-```
-```
+
 The pattern of planetary winds largely depends on:
 1. Latitudinal variation of atmospheric heating
 2. Emergence of pressure belts
@@ -234,14 +213,13 @@ The pattern of planetary winds largely depends on:
 - Wind speed: **km/h or miles per hour at land; knots at sea.**
 
 ---
-
+```
+```
 ## 6. Winds
-```
-```
+
 
 ### Classification (per the source's wind tree)
-```
-```
+
 
 - **Planetary Winds:** Trade Winds, Westerlies, Polar Winds
 - **Seasonal & Periodic Winds:** Monsoon Winds, Land Breeze, Sea Breeze
@@ -249,20 +227,17 @@ The pattern of planetary winds largely depends on:
 - **Variable Winds:** Cyclones, Anticyclones
 
 ### Planetary Winds
-```
-```
+
 - Winds that blow **from a particular direction throughout the year**.
 - Their movement pattern = the **general circulation of the atmosphere**, which also sets in motion **ocean water circulation**, influencing earth's climate.
 
 ### Ferrel's Law (Coriolis Force)
-```
-```
+
 - All moving bodies like wind and ocean currents are **deflected to the right in the northern hemisphere** and to the **left in the southern hemisphere** due to the rotation of the earth.
 - **Coriolis force is zero at the Equator** and increases from the equator to the poles; rate of deflection increases with distance from the equator.
 
 ### Simplified General Circulation of the Atmosphere
-```
-```
+
 - Air at the **Inter Tropical Convergence Zone (ITCZ)** rises (convection due to high insolation) → low pressure; tropical winds converge and rise to the **top of the troposphere (~14 km)** and move poleward.
 - Air accumulates at about **30°N and 30°S**; part sinks (also due to cooling at 30° latitudes) → forms the **subtropical high**.
 - Near the surface, air flows back toward the equator as **easterlies**, converging again at the ITCZ.
@@ -274,8 +249,7 @@ The pattern of planetary winds largely depends on:
 - The general circulation also affects oceans: large-scale winds initiate large, slow-moving ocean currents; oceans return energy and water vapour to the air (slow, large-scale interaction).
 
 ### Seasonal and Periodic Winds
-```
-```
+
 Differences in heating and cooling of earth surfaces (daily/annual cycles) create local/regional winds.
 
 #### Land and Sea Breezes
@@ -306,8 +280,7 @@ Differences in heating and cooling of earth surfaces (daily/annual cycles) creat
 - In winter the **North-east monsoon** blows out of the continent towards the **Bay of Bengal and Indian Ocean**.
 
 ### Local Winds
-```
-```
+
 Blow over a small area for a short period; mostly seasonal and given local names.
 
 | Name | Location | Characteristics |
@@ -329,21 +302,19 @@ Blow over a small area for a short period; mostly seasonal and given local names
 | **Pampero** | Argentina | Cold wind. |
 
 ### Variable Winds
-```
-```
+
 - No definite location or direction; fluctuate in direction and speed; affect limited areas for a few days only.
 - **Cyclones and anti-cyclones** fall in this category.
 - **Regional names:** Cyclones in the **Indian Ocean**; **Hurricanes** in the **Atlantic**; **Typhoons** in the **Western Pacific and South China Sea**; **Willy-willies** in **Western Australia**.
 
 ---
-
+```
+```
 ## 7. Cyclones and Anti-Cyclones
-```
-```
+
 
 ### Tropical Cyclone
-```
-```
+
 - Violent storms originating over oceans in tropical areas that move to coastal areas, causing large-scale destruction through **violent winds, very heavy rainfall and storm surges** — one of the most devastating natural calamities.
 
 **Favourable conditions for formation and intensification:**
@@ -371,8 +342,7 @@ Blow over a small area for a short period; mostly seasonal and given local names
 **Figure labels (source diagram):** undisturbed winds, steering wind flow, tropopause, subsiding warm air, out flow, rain bands, eye wall, eye, direction of the storm; and "Eye of the Cyclone": eye, eye wall, bands of thunderstorms.
 
 ### List of Tropical Cyclones that Affected India (as per source)
-```
-```
+
 
 | # | Year | Name | Affected State | Named Country |
 |---|---|---|---|---|
@@ -388,15 +358,13 @@ Blow over a small area for a short period; mostly seasonal and given local names
 | 10 | Oct 2014 | Nilofar | — | Gujarat – Pakistan |
 
 ### Temperate Cyclone
-```
-```
+
 - Formed in **temperate areas**
 - Formed in **both land and ocean areas**
 - Formed due to **frontal development**
 
 ### Anti-Cyclone
-```
-```
+
 - Centres of **high pressure** from which wind movement takes place **outward**.
 - Associated with **clear weather and no rainfall**.
 - Move **clockwise in the northern hemisphere** and **anti-clockwise in the southern hemisphere**.
@@ -405,29 +373,25 @@ Blow over a small area for a short period; mostly seasonal and given local names
 ---
 
 ## 8. Humidity, Condensation and Precipitation
-```
-```
+
 
 - **Humidity** = water vapour present in the air, expressed quantitatively in different ways.
 
 ### Absolute Humidity
-```
-```
+
 - The **actual amount** of water vapour present in the atmosphere.
 - Weight of water vapour per unit volume of air → expressed in **grams per cubic metre**.
 - The ability of air to hold water vapour depends **entirely on temperature**; differs from place to place.
 
 ### Relative Humidity
-```
-```
+
 - The **percentage of moisture** present in the atmosphere compared to its full capacity at a given temperature.
 - Changes with air temperature; **greater over oceans, least over continents**.
 - **Saturated air** = air containing moisture to its full capacity at a given temperature.
 - **Dew point** = the temperature at which saturation occurs in a given sample of air.
 
 ### Evaporation and Condensation
-```
-```
+
 - Water vapour in the atmosphere is **added by evaporation** and **withdrawn by condensation**.
 - **Evaporation**: liquid → gaseous state; **heat is the main cause**. The temperature at which water starts evaporating is referred to as the **latent heat of vapourisation**.
 - Higher temperature → greater water absorption and retention capacity of a parcel of air; low moisture content → greater potential to absorb.
@@ -442,8 +406,7 @@ Blow over a small area for a short period; mostly seasonal and given local names
 - **Most favourable condition: decrease in air temperature.**
 
 ### Forms of Condensation (dew, frost, fog, clouds)
-```
-```
+
 
 **Dew**
 - Moisture deposited as **water droplets on cooler surfaces** of solid objects (stones, grass blades, plant leaves) — rather than nuclei in air above the surface.
@@ -463,8 +426,7 @@ Blow over a small area for a short period; mostly seasonal and given local names
 - Mists are frequent over mountains (rising warm air meets cold surface). Fogs are drier than mist and prevalent where **warm and cold air currents meet**. Fogs are mini clouds.
 
 ### Clouds
-```
-```
+
 - A **cloud** = a mass of **small water droplets or ice crystals** formed by condensation of water vapour in the atmosphere.
 - Classified by **shape and altitude**: **Cirrus, Stratus, Cumulus, Nimbus**.
 
@@ -476,49 +438,45 @@ Blow over a small area for a short period; mostly seasonal and given local names
 | **Nimbus** | Vertical clouds | Thick dark/gray/black; **continuous rainfall** → **storm or rain clouds**. |
 
 ---
-
+```
+```
 ## 9. Rainfall
-```
-```
+
 
 - **Rainfall** = water drops that fall from the clouds to the earth.
 - Mechanism: **evaporation → condensation at considerable heights → clouds → rainfall**.
 - **Three types: Convectional, Relief (Orographic) and Cyclonic.**
 
 ### 1. Convectional Rainfall
-```
-```
+
 - Equatorial regions receive vertical sunrays → hot air expands and rises vertically → cools as temperature reduces → clouds form → at the dew point, rainfall occurs.
 - **Accompanied by thunder and lightning.**
 - Usually occurs **around 4 o'clock** → called **"4 O'clock rainfall"**.
 - *Diagram (Conventional Rainfall):* solar radiation heats water (lake) → warmer air rises → air cools and condenses with height, forming clouds → cumulo-nimbus clouds form; water droplets accumulate and fall as rain due to gravity; the dew point is marked in between.
 
 ### 2. Relief / Orographic Rainfall
-```
-```
+
 - Moisture-laden winds from the sea climb the hills across their paths → cool → **heavy rainfall on the windward side**.
 - On the **leeward side**, descending winds cause **low to no rainfall** (rain shadow).
 - *Diagram (Relief or Orographic Rainfall) labels:* prevailing wind; moist warm air rises (temperature ~20°C) over the ocean; moisture condenses as air cools (relative humidity increases); temperature at 2000 m ~7°C; rainy windward slope; dry leeward slope / rain shadow; cool air depleted of moisture sinks and warms (relative humidity decreases).
 
 ### 3. Cyclonic Rainfall
-```
-```
+
 - Warm air from hot areas is further heated and rises → **low pressure area** develops and attracts air from adjacent high-pressure areas.
 - Due to earth's rotation the wind is deflected → **circular motion**; air rises in a **funnel** form, cools, condenses → **heavy rainfall in the low-pressure centres**.
 - **Example:** during **October, November and December** (North-East Monsoon period), many cyclones form along the coasts of **Tamil Nadu, Andhra Pradesh and Orissa (Odisha)**.
 
 ---
-
+```
+```
 ## 10. Indian Climate
-```
-```
+
 
 - India has a **'Monsoon' type of climate**.
 - 'Monsoon' is derived from the **Arabic word 'mausim'** — seasonal reversal of winds during the year; implies a **rhythmic change in wind direction and in the distribution of temperature and rainfall** with the seasons.
 
 ### Factors Determining the Climate of India
-```
-```
+
 
 1. **Latitude**
    - Mainland India extends roughly **8°N to 37°N**; the **Tropic of Cancer (23½°N)** passes through the **middle** of the country.
@@ -545,8 +503,7 @@ Blow over a small area for a short period; mostly seasonal and given local names
    - **Windward sides of the Western Ghats and Assam receive high rainfall** during **June–September**; the **southern plateau remains dry** due to its **leeward situation** along the Western Ghats.
 
 ### Seasons
-```
-```
+
 
 **a) Winter Season**
 - Indian weather in winter is influenced by **high atmospheric pressure in Central and West Asia** → flow of surface winds from the north to the sub-continent.
@@ -562,14 +519,13 @@ iii. **Retreat of the Monsoon:**
    - The **retreating monsoon picks up moisture from the Bay of Bengal** and establishes itself over the **Tamil Nadu coast in December**, causing rainfall there.
 
 ---
-
+```
+```
 ## 11. El Niño, La Niña and Southern Oscillation
-```
-```
+
 
 ### El Niño and the Indian Monsoon
-```
-```
+
 - **El Niño** = a **narrow warm current** which appears **off the coast of Peru in December**.
 - **Spanish: "The Child Christ"** (because it appears around Christmas).
 - A **temporary replacement of the cold Peruvian (Humboldt) current** which normally flows along the coast.
@@ -584,25 +540,23 @@ iii. **Retreat of the Monsoon:**
 > *Source note:* the factor list (Section 2) describes El Niño as forming once in **five or six years**, while this section says **three to seven years** — both statements are as given in the source.
 
 ### La Niña
-```
-```
+
 - After El Niño, weather conditions return to normal; sometimes the **trade winds become so strong** that they cause **abnormal accumulation of cold water** in the **central and eastern Pacific**.
 - This event is **La Niña** — the **complete opposite of El Niño**.
 - A La Niña also marks an **active hurricane season**.
 - **In India, La Niña is the harbinger of heavy monsoon showers.**
 
 ### Southern Oscillation (S.O.)
-```
-```
+
 - A **seesaw pattern of meteorological changes observed between the Pacific and the Indian Oceans**.
 - When surface pressure is **high over the Indian Ocean**, it is **low over the Pacific** — and vice-versa.
 - When the **winter pressure is high over the Pacific Ocean and low over the Indian Ocean**, the **south-west monsoons in India tend to be stronger**; in the reverse case, the monsoons are **most likely to be weaker**.
 
 ---
-
+```
+```
 ## 12. Some Famous Local Storms of the Hot Weather Season
-```
-```
+
 
 1. **Mango Shower** — towards the end of summer, **pre-monsoon showers** are common in **Kerala and coastal Karnataka**. Known locally as *mango showers* because they help the **early ripening of mangoes**.
 2. **Blossom Shower** — with this shower **coffee flowers blossom** in **Kerala and nearby areas**.
@@ -610,10 +564,10 @@ iii. **Retreat of the Monsoon:**
 4. **Loo** — hot, dry and oppressing winds blowing in the **Northern plains from Punjab to Bihar**, with **higher intensity between Delhi and Patna**.
 
 ---
-
+```
+```
 ## 13. Exam-Oriented Points
-```
-```
+
 
 - **Weather = 24 hours; Climate = 30-year average.**
 - **Lapse rate = 1°C / 165 m = 6.5°C / km = 0.65°C / 100 m.**
@@ -644,10 +598,10 @@ iii. **Retreat of the Monsoon:**
 - **Local storms:** Mango showers (Kerala/Karnataka), Blossom showers (coffee, Kerala), Nor'westers/Kalbaisakhi/Bardoli Chheerha (Bengal/Assam), Loo (Punjab–Bihar; strongest Delhi–Patna).
 
 ---
-
+```
+```
 ## 14. Quick Revision
-```
-```
+
 
 - **24 hours** → weather | **30 years** → climate
 - **1°C/165 m** → normal lapse rate
@@ -663,10 +617,10 @@ iii. **Retreat of the Monsoon:**
 - **Blood Rain** → Sirocco | **Snow Eater** → Chinook | **Kalbaisakhi** → Nor'westers
 
 ---
-
+```
+```
 ## Competitive Exam Quick Revision
-```
-```
+
 
 | Topic | Key Information |
 |---|---|

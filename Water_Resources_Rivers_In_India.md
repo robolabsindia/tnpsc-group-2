@@ -1,5 +1,6 @@
 # Water Resources & Rivers in India (TNPSC Group II Geography)
-
+```
+```
 ## 1. India: Location, Size & Boundaries
 * **Location**: 8°4’N to 37°6’N Latitudes; 68°7’E to 97°25’E Longitudes. The Tropic of Cancer (23½°) passes through the middle.
 * **Coastline**: Mainland = 6,100 km; Total (with islands) = **7,516 km**.
@@ -9,7 +10,8 @@
   * **McMahon Line**: India-China Eastern boundary (1140 km, 1913-14 Shimla convention).
   * **Radcliff Line**: India-Pakistan (1947 partition).
 * **Key Agreements**: Panchsheel (1954, India-China), Tashkant (1966, India-Pak), Shimla (1972, India-Pak).
-
+```
+```
 ## 2. Physiography of India
 * **Relief Distribution**: Mountains (10.7%), Hilly (18.6%), Plateau (27.7%), Plains (43%).
 * **The Himalayas**:
@@ -29,7 +31,8 @@
   * **Andaman & Nicobar**: Volcanic. **Indira Point** (formerly Pigmalion Point) is the southernmost tip, submerged in the 2004 Tsunami.
   * **Lakshadweep**: Coral origin.
   * **Majuli**: Largest river island in the world *[Source Note: Text states Manipur, geographically Assam]*.
-
+```
+```
 ## 3. Water Resources & Drainage Patterns
 * **Global Water**: 96.5% in oceans, 2.5% fresh water (76% locked in ice/glaciers). India receives 4% of global precipitation and ranks **133rd** in per capita water availability.
 * **Drainage Patterns**:
@@ -37,7 +40,8 @@
   * **Consequent**: Follow the general slope (Most Peninsular rivers).
   * **Subsequent**: Erode weak rock layers and meet main rivers at right angles (Chambal, Sind, Ken, Betwa, Son).
   * **Dendritic**: Tree-like branching (Indo-Gangetic plains).
-
+```
+```
 ## 4. Major River Systems
 ### Himalayan Rivers
 * **Indus**: Originates at Bokhar Chu (Mansarovar). Length: 2880 km (709 km in India).
@@ -55,7 +59,8 @@
   * **Luni**: Originates in Pushkar, lost in the Rann of Kutch.
   * **Shravati**: Forms **Jog/Gersoppe Falls** (Highest in India).
   * **Bharathpuza**: Longest river in Kerala.
-
+```
+```
 ## 5. Geography of Tamil Nadu
 * **Size**: 11th largest state (1,30,058 sq.km).
 * **Rainfall**: Normal annual rainfall is **945 mm**. **48%** from NE Monsoon, **32%** from SW Monsoon.
@@ -63,7 +68,8 @@
 * **Coastline**: **1,076 km** (2nd longest in India after Gujarat). Forms the Coromandel Coast. 13 coastal districts. Pamban Island separates the Gulf of Mannar and Palk Strait.
 
 ---
-
+```
+```
 ## Competitive Exam Quick Revision
 
 | Topic | Key Information |
