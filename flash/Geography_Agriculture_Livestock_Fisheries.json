@@ -1,0 +1,24 @@
+{
+  "id": "tnpsc-geography-agriculture-livestock-01",
+  "title": "Agriculture, Livestock & Fisheries Flashcards",
+  "description": "Key facts from TNPSC Group II Geography Agriculture & Livestock Chapter",
+  "cards": [
+    { "q": "What percentage of India's total geographical area is classified as Agricultural Land (Net sown + Fallow)?", "a": "54% (Net sown area 46% + Fallow land 8%)." },
+    { "q": "What is the formula to calculate the Intensity of Cropping?", "a": "(Total cropped area / Net sown area) * 100." },
+    { "q": "Which Indian state has the highest intensity of cropping at 189%?", "a": "Punjab." },
+    { "q": "Which crop season spans from June to September and includes crops like Rice, Jute, and Cotton?", "a": "Kharif season." },
+    { "q": "Which crop season spans from April to June and primarily consists of fruits, vegetables, and fodder crops?", "a": "Zaid season." },
+    { "q": "What is India's global rank in the production and consumption of Rice?", "a": "2nd largest producer and consumer." },
+    { "q": "What are the ideal temperature and rainfall requirements for Wheat cultivation?", "a": "Temperature: 10-15°C; Annual Rainfall: 100 cm." },
+    { "q": "Which millet requires a dry and warm climate with 40-50 cm of rainfall and is heavily produced in Maharashtra and Gujarat?", "a": "Bajra." },
+    { "q": "Which cash crop requires at least 210 frost-free days and a temperature of 21-30°C?", "a": "Cotton." },
+    { "q": "Why is Tamil Nadu highly suitable for Sugarcane cultivation despite not being the largest producer?", "a": "It has a long crushing period, high yield, and high sucrose content." },
+    { "q": "What is the maximum altitude limit for the cultivation of Rubber?", "a": "Not above 700 meters (ideal is 300-450m)." },
+    { "q": "In which year was the first Livestock Census conducted in India?", "a": "1919." },
+    { "q": "Which state has the largest population of Cattle in India?", "a": "Madhya Pradesh." },
+    { "q": "Which state has the largest population of Sheep and Camels respectively?", "a": "Sheep: Andhra Pradesh; Camels: Rajasthan." },
+    { "q": "What percentage of India's total fish production comes from the inland sector?", "a": "55% (3.4 mmt out of 6.4 mmt total)." },
+    { "q": "According to the India State of Forest Report, what percentage of the country's geographical area is covered by forests?", "a": "21.06% (6,92,394 sq.km)." },
+    { "q": "Which three states have the maximum area under forest cover in India?", "a": "1. Madhya Pradesh, 2. Arunachal Pradesh, 3. Chhattisgarh." }
+  ]
+}

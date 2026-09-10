@@ -1,0 +1,81 @@
+{
+  "title": "Social Geography & Population Quiz",
+  "description": "Test your knowledge of Indian demographics, census 2011 data, and tribal groups.",
+  "questions": [
+    {
+      "question": "What percentage of the world's total population does India represent according to the 2011 Census?",
+      "options": [ "15.50%", "17.31%", "18.25%", "20.10%" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which state has the highest population density in India (1,102 persons/sq.km)?",
+      "options": [ "West Bengal", "Uttar Pradesh", "Bihar", "Kerala" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the only state in India with a sex ratio of more than 1000 females per 1000 males?",
+      "options": [ "Tamil Nadu", "Kerala", "Meghalaya", "Mizoram" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the average literacy rate of India according to the 2011 Census?",
+      "options": [ "65.91%", "74.04%", "82.14%", "78.50%" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which state recorded a negative population growth rate (-0.47%) during the 2001-2011 decade?",
+      "options": [ "Kerala", "Goa", "Nagaland", "Sikkim" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which Union Territory recorded the highest decadal population growth rate (55.50%) in 2001-2011?",
+      "options": [ "Daman and Diu", "Dadra & Nagar Haveli", "Chandigarh", "Puducherry" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'Sentinelese' and 'Jarawas' are indigenous tribes of which region?",
+      "options": [ "North-East India", "Lakshadweep", "Andaman & Nicobar Islands", "Nilgiri Hills" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which tribe is primarily associated with the Nilgiri Hills in Tamil Nadu?",
+      "options": [ "Santhals", "Todas", "Bhils", "Gonds" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the Child Sex Ratio of Tamil Nadu according to the 2011 Census?",
+      "options": [ "946", "995", "1041", "877" ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is the largest district in Tamil Nadu in terms of geographical area?",
+      "options": [ "Chennai", "Tirunelveli", "Viluppuram", "Kanyakumari" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which district in Tamil Nadu has the highest literacy rate?",
+      "options": [ "Chennai", "Kanyakumari", "Thoothukkudi", "Coimbatore" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which district in Tamil Nadu records the lowest sex ratio?",
+      "options": [ "Salem", "Dharmapuri", "Krishnagiri", "Vellore" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'Bakkarwals' and 'Gujjars' of J&K and Himachal Pradesh are primarily known for which occupation?",
+      "options": [ "Terrace farming", "Rearing sheep and goats", "Bamboo crafting", "Fishing" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which decade is known as the only period of negative population growth in India's census history prior to 1921?",
+      "options": [ "1901-1911", "1911-1921", "1921-1931", "1941-1951" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which state has the lowest population density (17 persons/sq.km) in India?",
+      "options": [ "Sikkim", "Mizoram", "Arunachal Pradesh", "Meghalaya" ],
+      "correctIndex": 2
+    }
+  ]
+}

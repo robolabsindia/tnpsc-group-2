@@ -1,0 +1,81 @@
+{
+  "title": "Natural Resources Quiz",
+  "description": "Test your knowledge of resource classification, soil, forests, and conservation strategies.",
+  "questions": [
+    {
+      "question": "Resources that are obtained from the biosphere and have life, such as fisheries and livestock, are classified as:",
+      "options": [ "Abiotic Resources", "Biotic Resources", "Renewable Resources", "Potential Resources" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Minerals and fossil fuels, which take millions of years to form, are classified under which category of exhaustibility?",
+      "options": [ "Renewable Resources", "Continuous Resources", "Non-Renewable Resources", "Community Resources" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Village commons, grazing grounds, and public parks are examples of:",
+      "options": [ "Individual Resources", "National Resources", "International Resources", "Community Owned Resources" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following crops are primarily grown in the Black Soil regions of Maharashtra, Gujarat, and Tamil Nadu?",
+      "options": [ "Wheat and Rice", "Cotton and Sugarcane", "Tea and Coffee", "Jute and Mustard" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Unscientific irrigation leads to soil alkalinity and renders it unsuitable for cultivation. What physical process causes this?",
+      "options": [ "Leaching", "Capillary action", "Surface runoff", "Nitrogen fixation" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following organizations is primarily engaged in the exploration of mineral resources in India?",
+      "options": [ "National Green Tribunal", "Indian Bureau of Mines (IBM)", "Forest Research Institute", "National Biodiversity Authority" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the context of resource management, why is 'Reuse' considered better than 'Recycle'?",
+      "options": [ "It generates more waste", "It requires complex chemical processes", "It saves the energy that would otherwise be used in the recycling process", "It only applies to biotic resources" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Forests are commonly referred to as:",
+      "options": [ "White Gold", "Green Gold", "Blue Gold", "Black Gold" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Forests help regulate the climate and combat the poisons of urbanization by acting as a natural 'sponge' and eating up:",
+      "options": [ "Oxygen", "Nitrogen", "Carbon Dioxide (CO2)", "Argon" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Forest (Conservation) Act, which mandates that no forest can be diverted for non-forest purposes, was enacted in which year?",
+      "options": [ "1972", "1980", "1986", "1991" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Where is the Forest Research Institute (FRI) located?",
+      "options": [ "New Delhi", "Dehradun", "Shimla", "Bengaluru" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "World Forestry Day is observed every year on:",
+      "options": [ "June 5", "April 22", "March 21", "September 16" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Plantation crops like tea, coffee, and rubber fall under which broad agricultural category mentioned in the text?",
+      "options": [ "Sericulture", "Horticulture", "Silviculture", "Aquaculture" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of an Abiotic Resource?",
+      "options": [ "Fisheries", "Livestock", "Flora", "Rocks and Metals" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the primary reason for afforestation schemes like observing World Forestry Day by planting trees?",
+      "options": [ "To increase urbanization", "To combat the diminishing forest cover at an alarming rate", "To promote fossil fuel extraction", "To reduce groundwater levels" ],
+      "correctIndex": 1
+    }
+  ]
+}
