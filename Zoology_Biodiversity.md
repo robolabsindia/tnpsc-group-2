@@ -1,5 +1,6 @@
 # Bio-Diversity & Its Conservation (TNPSC Group II Zoology)
-
+```
+```
 ## 1. Environmental Organizations
 * **Worldwide Organizations**:
   * **CSD**: Commission on Sustainable Development
@@ -11,7 +12,8 @@
   * **NGT**: National Green Tribunal
   * **TERI**: Tata Energy Research Institute
   * **BRAI**: Biotechnology Regulatory Authority of India
-
+```
+```
 ## 2. National & State Symbols
 ### India
 * **National Animal**: Bengal Tiger (*Panthera tigris*)
@@ -28,7 +30,8 @@
 * **State Tree**: Palmyra Palm
 * **State Flower**: Gloriosa Lily (Glory Lily)
 * **Special Flower**: Kurinji
-
+```
+```
 ## 3. Biodiversity Statistics in India
 * **Total Plant Species**: 
   * Phanerogams: 15,000 | Fungi: 12,480 | Bryophytes: 2,813
@@ -36,7 +39,8 @@
 * **Total Animal Species**: **81,251**
   * Insects: 60,000 | Mollusca: 5,000 | Fishes: 2,546
   * Birds: 1,228 | Reptiles: 446 | Mammals: 372 | Amphibians: 204
-
+```
+```
 ## 4. Protected Areas: National Parks vs. Wildlife Sanctuaries
 | Feature | National Park | Wildlife Sanctuary |
 | :--- | :--- | :--- |
@@ -45,7 +49,8 @@
 | **Resource Extraction** | Harvesting timber, cultivation, and collection of forest products are restricted. | Allowed with permission. |
 | **Conversion** | Cannot be changed into a Wildlife Sanctuary. | Can be upgraded/changed into a National Park. |
 | **Total in India** | **166** | **442** |
-
+```
+```
 ## 5. Biosphere Reserves (MAB Programme)
 * **Man and Biosphere (MAB)**: India has **18** Biosphere Reserves, out of which **11 are recognized by UNESCO**.
 * **First Biosphere Reserve in India**: **Nilgiri** (Established in 1986; UNESCO recognized in 2000).
@@ -62,7 +67,8 @@
 9. Great Nicobar (A&N) - 2013
 10. Agasthyamalai (Kerala, TN) - 2016
 11. Khangchendzonga (Sikkim) - 2018
-
+```
+```
 ## 6. Protected Areas in Tamil Nadu
 ### National Parks
 * **Mudumalai** (Nilgiri, 1940): First Modern National Park in South India.
@@ -92,7 +98,8 @@
 * **Suchindram Theroor** (Kanyakumari, 1999).
 
 ---
-
+```
+```
 ## Competitive Exam Quick Revision
 
 | Topic | Key Information |

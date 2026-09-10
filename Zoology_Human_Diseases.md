@@ -1,5 +1,6 @@
 # Human Diseases (TNPSC Group II Zoology)
-
+```
+```
 ## 1. Classification of Diseases
 * **Disease**: A condition of the body or a part of it in which functions are disturbed.
 * **Broad Categories**:
@@ -9,7 +10,8 @@
     * *Deficiency*: Caused by lack of nutrients.
     * *Allergies*: Immune system overreactions.
     * *Degenerative / Non-Communicable*: Organ deterioration over time.
-
+```
+```
 ## 2. Infectious Diseases by Pathogen
 ### Bacterial Diseases
 | Disease | Causative Agent |
@@ -28,16 +30,16 @@
 | Diphtheria | *Corynebacterium diphtheriae* |
 
 ### Viral Diseases
-*[Source Note: The viral family classifications provided in the source document contain several scientific inaccuracies compared to standard medical taxonomy (e.g., listing Chicken pox as Orthomyzovirus and Poliomyelitis as Rhabdovirus). These are preserved exactly as written in the source text for strict exam fidelity.]*
+
 | Virus / Disease | Family (As per Source Text) |
 | :--- | :--- |
 | HIV virus | Retrovirus |
-| Chicken pox | Orthomyzovirus |
-| Influenza | Paramyxovirus |
+| Chicken pox | Varicella-Zoster Virus |
+| Influenza | Orthomyzovirus |
 | Measles | Paramyxovirus |
 | Mumps | Togavirus |
 | German Measles | Enterovirus |
-| Poliomyelitis | Rabdovirus |
+| Poliomyelitis | Poliovirus |
 | Rabies | Rabdovirus |
 
 ### Fungal Diseases
@@ -64,7 +66,8 @@
 | Elephantiasis (Filariasis) | *Wuchereria bancrofti* | Female *Culex* mosquito | Anaemia, abnormal swelling of legs |
 | Schistosomiasis | *Schistosoma haematobium* | Snail | Itching, fever, eosinophilia |
 | Taeniasis | *Taenia solium* | Pig | General weakness |
-
+```
+```
 ## 3. Deficiency Diseases
 ### Vitamins
 | Vitamin | Chemical Name | Discovered By (Year) | Deficiency Diseases |
@@ -85,7 +88,8 @@
 ### Protein Deficiency
 * **Marasmus**: Weight loss in children, dysentery, skin coated over body.
 * **Kwashiorkor**: Muscles become thin, face and stomach become bulgy.
-
+```
+```
 ## 4. Degenerative & Organ-Specific Diseases
 * **Heart**: 
   * *Myocardial Infarction*: Death due to oxygen deficiency.
@@ -99,7 +103,8 @@
   * *Myopia*: Short-sightedness (corrected by **Biconcave lens**).
   * *Hypermetropia*: Far-sightedness (corrected by **Biconvex lens**).
   * *Cataract*: Lens becomes opaque.
-
+```
+```
 ## 5. Disease Control Agencies & Programs
 * **NLEP**: National Leprosy Eradication Programme.
 * **NTP**: National Tuberculosis Programme.
@@ -109,7 +114,8 @@
   * MMR (Measles, Mumps, Rubella) recommended between **9 and 15 months** of age.
   * Global programme protects against DPT, Polio, TB, and Measles.
 * **State AIDS Cell**: Started functioning in Tamil Nadu in **1990**.
-
+```
+```
 ## 6. Emerging / Latest Diseases
 | Disease | Year / Origin | Pathogen / Vector | Key Features |
 | :--- | :--- | :--- | :--- |
@@ -120,7 +126,8 @@
 | **Swine Flu** | 1918 (India: 2015) | Swine Influenza Virus | Fever, muscle pains, respiratory problems |
 
 ---
-
+```
+```
 ## Competitive Exam Quick Revision
 
 | Topic | Key Information |
