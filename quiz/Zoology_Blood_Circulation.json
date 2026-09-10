@@ -1,0 +1,81 @@
+{
+  "title": "Zoology : Blood Circulation Quiz",
+  "description": "Test your knowledge of the heart, blood vessels, cardiac cycle, and medical instruments.",
+  "questions": [
+    {
+      "question": "Who among the following first reported the presence of valves in veins?",
+      "options": [ "William Harvey", "Fabricius", "Rene Laennec", "Einthoven" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The middle layer of the heart wall, which is made up of muscle tissues, is called the:",
+      "options": [ "Epicardium", "Endocardium", "Myocardium", "Pericardium" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following blood vessels carries oxygenated (pure) blood?",
+      "options": [ "Pulmonary artery", "Pulmonary vein", "Superior vena cava", "Hepatic portal vein" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The blood circulation for the wall of the blood vessels is conducted by the:",
+      "options": [ "Bundle of His", "Vasa vasorum", "Purkinje fibers", "Coronary sinus" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which valve is situated at the opening of the aorta from the ventricle?",
+      "options": [ "Tricuspid valve", "Bicuspid valve", "Semilunar valve", "Thebesian valve" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The 'Pacemaker' of the heart is also known as the:",
+      "options": [ "AV Node", "Bundle of His", "Purkinje fibers", "SA Node / Keith & Flack Node" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the normal heart beat rate for an adult man?",
+      "options": [ "60 per minute", "72 per minute", "100 per minute", "120 per minute" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A single cardiac cycle takes how much time?",
+      "options": [ "0.5 sec", "0.8 sec", "1.0 sec", "1.2 sec" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first heart sound 'LUBB' is created by the closure of which valves?",
+      "options": [ "Semilunar valves", "Atrio-ventricular valves", "Eustachian valves", "Haversian valves" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who invented the stethoscope?",
+      "options": [ "Korotkoff", "Rene Laennec", "Einthoven", "Waller" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Blood pressure is measured using a Sphygmomanometer, which was invented by:",
+      "options": [ "Korotkoff (1905)", "Einthoven (1906)", "Waller (1907)", "Harvey (1628)" ],
+      "correctIndex": 0
+    },
+    {
+      "question": "In an ECG, the P wave represents:",
+      "options": [ "Ventricular ejection", "Activation of the SA node", "Speed of impulse from AV node", "Atrial relaxation" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who performed the first successful heart transplant operation?",
+      "options": [ "Dr. Alexis Carrel", "Dr. William Harvey", "Dr. Christian Barnard", "Dr. Rene Laennec" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following conditions refers to a heart beat rate that is MORE than normal?",
+      "options": [ "Bradycardia", "Tachycardia", "Arteriosclerosis", "Heart block" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The normal systolic and diastolic blood pressure of a healthy human is:",
+      "options": [ "80 / 120 mm Hg", "120 / 80 mm Hg", "140 / 90 mm Hg", "90 / 60 mm Hg" ],
+      "correctIndex": 1
+    }
+  ]
+}

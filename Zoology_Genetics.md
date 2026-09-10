@@ -1,5 +1,6 @@
 # Genetics (TNPSC Group II Zoology)
-
+```
+```
 ## 1. Historical Background
 * **Genetics**: Branch of science that deals with heredity (transmission of characters from parents to offspring).
 * **Father of Genetics**: G.J. Mendel
@@ -11,7 +12,8 @@
   * Hugo de Vries (Holland) – worked on *Oenothera lamarckiana*
   * Carl Correns (Germany) – worked on Xenia, peas, maize
   * Erich Von Tschermak (Austria) – worked on flowering plants
-
+```
+```
 ## 2. Mendel's Experiments
 * **Plant Used**: *Pisum sativum* (Garden Peas)
 * **Reasons for Choosing Pisum sativum**:
@@ -47,7 +49,8 @@
 | Dihybrid Test Cross Ratio | 1:1:1:1 |
 
 * **Punnett Square**: Made by Punnett to prove Mendel's results. Also called **Chequered Square**.
-
+```
+```
 ## 3. Mendel's Laws
 ### From Monohybrid Cross:
 1. **Law of Dominance**: In F1, only the dominant character is expressed; the recessive is suppressed.
@@ -55,13 +58,15 @@
 
 ### From Dihybrid Cross:
 3. **Law of Independent Assortment** (Law of Random Assortment): Characters are inherited independently.
-
+```
+```
 ## 4. Jumping Genes
 * **Discovered by**: Barbara McClintock
 * **Organism**: Maize
 * **Discovery**: Presence of movable genetic elements which could detach from one site and move to new positions in either the same or different chromosomes.
 * **Also called**: Transposable elements, transposons, insertion elements, or jumping genes.
-
+```
+```
 ## 5. Glossary of Genetics Terms
 | Term | Definition |
 | :--- | :--- |
@@ -78,20 +83,23 @@
 | **Emasculation** | Neutering a male animal by removing the testicles |
 | **Back Cross** | Mate a hybrid of F1 generation with one of its parents |
 | **Test Cross** | Cross between an organism with unknown genotype and a homozygous recessive organism |
-
+```
+```
 ## 6. Gene Therapy
 * **Definition**: Replacement of corrective genes in place of defective genes in humans.
 * **Types**:
   1. Somatic cell gene therapy
   2. Germ line cell gene therapy
 * Both may be employed for treating inherited diseases.
-
+```
+```
 ## 7. Human Chromosomes
 * **Male**: XY
 * **Female**: XX
 * **Total**: 23 pairs
 * Pedigree analysis is used to study inheritance patterns.
-
+```
+```
 ## 8. Genetic Engineering
 * **Definition**: Technology of preparing recombinant DNA in vitro by cutting up DNA molecules and splicing together fragments from more than one organism.
 * **Basic Principle**: Gene transfer, achieved by various methods to produce recombinant proteins, genetically modified microorganisms, transgenic plants, and transgenic animals.
@@ -114,7 +122,8 @@
 6. Manufacture of vaccines
 7. Manufacture of steroids
 8. Manufacture of monoclonal antibodies
-
+```
+```
 ## 9. Genetic Diseases
 | Category | Diseases |
 | :--- | :--- |
@@ -129,7 +138,8 @@
 | Linked – Recessive | Haemophilia, Christmas Disease, Colour blindness |
 | Linked – Dominant | Hypertrichosis |
 | Linked – Dominant | Total colour blindness |
-
+```
+```
 ## 10. Types of Cloning
 | Type | Description |
 | :--- | :--- |
@@ -145,7 +155,8 @@
 | Plasmid | Bacillus |
 | Cosmid | Streptomyces |
 | Ti Plasmid | Yeast |
-
+```
+```
 ## 11. Bio-Sensors & Bio-Chips
 ### Bio-Sensors
 * **Definition**: A device which uses a living organism or biological molecules (enzymes or antibodies) to detect the presence of chemicals.
@@ -154,7 +165,8 @@
 ### Bio-Chips
 * **Definition**: A microchip designed to function in a biological environment, especially inside a living organism.
 * **Uses**: Multi-purpose tracking device, Medical/Scientific device, Identification system, Military/Defence mechanism, Business.
-
+```
+```
 ## 12. Stem Cells
 * **Definition**: Undifferentiated biological cells that can differentiate into specialized cells and can divide (through mitosis) to produce more stem cells.
 * **Types in Mammals**:
@@ -165,7 +177,8 @@
   * **Totipotent (Omnipotent)**: Can give rise to any of the 220 cell types + extra-embryonic cells (placenta).
   * **Pluripotent**: Can give rise to all cell types of the body (but NOT the placenta).
   * **Multipotent**: Can develop into a limited number of cell types in a particular lineage.
-
+```
+```
 ## 13. Key Enzymes in Genetic Engineering
 | Enzyme | Function |
 | :--- | :--- |
@@ -176,7 +189,8 @@
 | **Recombinant DNA (r-DNA)** | Product of genetic engineering |
 
 ---
-
+```
+```
 ## Competitive Exam Quick Revision
 
 | Topic | Key Information |

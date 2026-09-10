@@ -1,0 +1,81 @@
+{
+  "title": "Zoology :Endocrine Glands Quiz",
+  "description": "Test your knowledge of the endocrine system, hormones, and related disorders.",
+  "questions": [
+    {
+      "question": "Who is considered the Father of Endocrine Glands?",
+      "options": [ "E.H. Starling", "T. Addision", "Sanger", "Vesalius" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The surgical removal of the pituitary gland is known as:",
+      "options": [ "Thyroidectomy", "Hypophysectomy", "Adrenalectomy", "Gonadectomy" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypersecretion of Somatotrophic Hormone (STH) in children leads to:",
+      "options": [ "Dwarfism", "Acromegaly", "Gigantism", "Simmond's disease" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which hormone is responsible for the contraction of the smooth muscle of the uterus during parturition?",
+      "options": [ "Vasopressin", "Prolactin", "Oxytocin", "Relaxin" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Myxoedema (Gull's Disease) is caused by the hyposecretion of which gland?",
+      "options": [ "Pituitary", "Thyroid", "Parathyroid", "Adrenal" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an 'Emergency Hormone' associated with the 3F (Fear, Fight, Flight) response?",
+      "options": [ "Thyroxine", "Insulin", "Adrenaline", "Melatonin" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Adrenal Cortex is divided into three zones. Which zone secretes sex hormones?",
+      "options": [ "Zona glomerulosa", "Zona fasciculata", "Zona reticularis", "Medulla" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which hormone prepares the endometrium for implantation and maintains pregnancy?",
+      "options": [ "Estrogen", "Progesterone", "LH", "FSH" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hassell's corpuscles are found in which endocrine gland?",
+      "options": [ "Pineal", "Thymus", "Pancreas", "Thyroid" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Pineal gland secretes Melatonin, which primarily regulates:",
+      "options": [ "Blood sugar levels", "Calcium metabolism", "Sleep and wakefulness", "Water balance" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the Islets of Langerhans, which cells are responsible for producing Glucagon?",
+      "options": [ "Alpha cells", "Beta cells", "Gamma cells", "Delta cells" ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Diabetes insipidus is caused by the hyposecretion of:",
+      "options": [ "Insulin", "Vasopressin (ADH)", "Thyroxine", "Glucagon" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which scientist was awarded the Nobel Prize for determining the molecular structure of Insulin in 1954?",
+      "options": [ "Banting", "Kendall", "Sanger", "Harrington" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Calcitonin, which lowers blood calcium levels, is secreted by the:",
+      "options": [ "Parathyroid gland", "Thyroid gland", "Adrenal gland", "Pituitary gland" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the normal range for fasting blood glucose levels?",
+      "options": [ "80-120 mg/dl", "70-110 mg/dl", "140-150 mg/dl", "300-400 mg/dl" ],
+      "correctIndex": 1
+    }
+  ]
+}

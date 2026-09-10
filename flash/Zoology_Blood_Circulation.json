@@ -1,0 +1,26 @@
+{
+  "id": "tnpsc-zoology-blood-circulation-01",
+  "title": "Zoology : Blood Circulation Flashcards",
+  "description": "Key facts from TNPSC Group II Zoology Blood Circulation Chapter",
+  "cards": [
+    { "q": "Who discovered that the heart acts as a pump?", "a": "William Harvey." },
+    { "q": "Who first reported the presence of valves in veins?", "a": "Fabricius." },
+    { "q": "What are the three layers of the heart wall from outer to inner?", "a": "Epicardium, Myocardium, and Endocardium." },
+    { "q": "What is the normal weight and length of the human heart?", "a": "Weight: 230-280 gms; Length: 12 cm." },
+    { "q": "Which blood vessels supply blood to the walls of the blood vessels themselves?", "a": "Vasa vasorum." },
+    { "q": "Which is the only artery in the body that carries deoxygenated (impure) blood?", "a": "Pulmonary artery." },
+    { "q": "Which valve is located at the left auriculo-ventricular opening?", "a": "Bicuspid or Mitral valve." },
+    { "q": "What is the SA Node also known as?", "a": "Pacemaker or Keith & Flack Node." },
+    { "q": "What is the normal heart beat rate for an adult man?", "a": "72 beats per minute." },
+    { "q": "What is the total duration of a single cardiac cycle?", "a": "0.8 seconds (or minutes as written in source text)." },
+    { "q": "What term is used for a heart beat rate that is lower than normal?", "a": "Bradycardia." },
+    { "q": "Who invented the stethoscope used to hear heart sounds?", "a": "Rene Laennec." },
+    { "q": "What heart sound is produced by the closure of semilunar valves?", "a": "The second sound, 'DUBB'." },
+    { "q": "Who invented the Sphygmomanometer to measure blood pressure and in what year?", "a": "Korotkoff in 1905." },
+    { "q": "What is the normal blood pressure of a human?", "a": "120 (systolic) / 80 (diastolic) mm Hg." },
+    { "q": "Who invented the ECG and who first recorded it?", "a": "Invented by Einthoven (1906); First recorded by Waller (1907)." },
+    { "q": "In an ECG, what does the P wave represent?", "a": "Activation of the SA node." },
+    { "q": "Who performed the first heart transplant operation?", "a": "Dr. Christian Barnard (Text: Bernad)." },
+    { "q": "Who performed the first artificial heart operation?", "a": "Dr. Alexis Carrel (Text: Koral)." }
+  ]
+}
