@@ -1,0 +1,81 @@
+{
+  "title": "Soil Resources Quiz",
+  "description": "Test your knowledge of Indian soils, soil profiles, and Tamil Nadu state symbols.",
+  "questions": [
+    {
+      "question": "Which horizon of the soil profile is considered the 'transition zone' between the topsoil and the parent material?",
+      "options": [ "Horizon A", "Horizon B", "Horizon C", "Bedrock" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the USDA Soil Taxonomy, which soil order occupies the largest area in India (approx. 39.74%)?",
+      "options": [ "Vertisols", "Alfisols", "Inceptisols", "Entisols" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Khadar and Bhangar are two distinct types of which kind of soil?",
+      "options": [ "Black Soil", "Laterite Soil", "Alluvial Soil", "Red Soil" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What are the calcareous concretions found in Alluvial soils commonly known as?",
+      "options": [ "Boulders", "Kankars", "Nodules", "Regur" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Black Soil is widely known for its 'self-ploughing' characteristic. What causes this?",
+      "options": [ "High sand content", "Presence of earthworms", "Swelling when wet and developing wide cracks when dried", "Intense leaching by heavy rains" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Black soils are generally deficient in which of the following essential nutrients?",
+      "options": [ "Lime and Iron", "Magnesia and Alumina", "Phosphorous, Nitrogen, and Organic Matter", "Potash and Calcium" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The reddish colour of Red Soils is primarily due to the wide diffusion of which element?",
+      "options": [ "Aluminium", "Iron", "Magnesium", "Silica" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The formation of Laterite soils is primarily the result of which process in areas with high temperature and heavy rainfall?",
+      "options": [ "Capillary action", "Intense leaching", "Wind deposition", "Volcanic activity" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Red laterite soils in Tamil Nadu, Andhra Pradesh, and Kerala are particularly suitable for cultivating which crop?",
+      "options": [ "Tea", "Coffee", "Cashewnut", "Rubber" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "To combat soil salinity caused by excessive irrigation and capillary action in states like Punjab and Haryana, farmers are advised to add:",
+      "options": [ "Lime", "Gypsum", "Urea", "Potash" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Peaty soils are characterized by a very high accumulation of dead organic matter. What percentage of organic matter can they contain?",
+      "options": [ "10-20%", "20-30%", "40-50%", "70-80%" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In which year was the National Green Tribunal Act enacted?",
+      "options": [ "1986", "1991", "2002", "2010" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the State Animal of Tamil Nadu?",
+      "options": [ "Spotted Deer", "Indian Elephant", "Nilgiri Tahr", "Lion-tailed Macaque" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is the State Bird of Tamil Nadu?",
+      "options": [ "Peacock", "Emerald Dove", "Sparrow", "Parrot" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the official State Tree of Tamil Nadu?",
+      "options": [ "Banyan Tree", "Neem Tree", "Palm Tree", "Sandalwood Tree" ],
+      "correctIndex": 2
+    }
+  ]
+}
