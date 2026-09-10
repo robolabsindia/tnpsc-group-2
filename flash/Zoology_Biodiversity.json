@@ -1,0 +1,22 @@
+{
+  "id": "tnpsc-zoology-biodiversity-01",
+  "title": "Bio-Diversity & Its Conservation Flashcards",
+  "description": "Key facts from TNPSC Group II Zoology Bio-Diversity Chapter",
+  "cards": [
+    { "q": "What does IUCN stand for in the context of worldwide environmental organizations?", "a": "International Union for Conservation of Nature." },
+    { "q": "What is the National Aquatic Animal of India?", "a": "Gangetic Dolphin (Platanista gangetica)." },
+    { "q": "What is the State Animal and State Bird of Tamil Nadu?", "a": "State Animal: Nilgiri Tahr; State Bird: Emerald Dove." },
+    { "q": "According to the text, what is the total number of animal species recorded in India?", "a": "81,251 species." },
+    { "q": "What is the primary difference in resource extraction between a National Park and a Wildlife Sanctuary?", "a": "In a National Park, harvesting timber and collection of forest products are restricted, whereas in a Wildlife Sanctuary, they are allowed with permission." },
+    { "q": "How many National Parks and Wildlife Sanctuaries are there in India according to the text?", "a": "166 National Parks and 442 Wildlife Sanctuaries." },
+    { "q": "Which was the first Biosphere Reserve established in India and in which year?", "a": "Nilgiri Biosphere Reserve, established in 1986." },
+    { "q": "Which is the first Marine Biosphere Reserve in India?", "a": "Gulf of Mannar (established in 1989)." },
+    { "q": "How many Biosphere Reserves in India are recognized by UNESCO?", "a": "11 out of the 18 total Biosphere Reserves in India." },
+    { "q": "Which National Park in Tamil Nadu was created specifically to protect the keystone species, the Nilgiri Tahr?", "a": "Mukurthi National Park (established in 1982)." },
+    { "q": "Which is the largest National Park in Tamil Nadu?", "a": "Indira Gandhi National Park (formerly Annamalai NP) in Coimbatore." },
+    { "q": "Which Wildlife Sanctuary in Tamil Nadu is known for the Grizzled Giant Squirrel?", "a": "Srivilliputhur Wildlife Sanctuary (established in 1988)." },
+    { "q": "Which is the largest Wildlife Sanctuary in Tamil Nadu and also has the maximum tiger resident area?", "a": "Sathyamangalam Tiger & Wildlife Sanctuary." },
+    { "q": "Which is the oldest bird sanctuary in Tamil Nadu, established in 1936?", "a": "Vedanthangal Bird Sanctuary." },
+    { "q": "Under Project Elephant (1992), name the four elephant reserves located in Tamil Nadu.", "a": "Srivilliputhur, Nilgiri, Coimbatore, and Annamalai." }
+  ]
+}
