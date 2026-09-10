@@ -1,21 +1,63 @@
 {
   "id": "tnpsc-geography-natural-resources-01",
-  "title": "Natural Resources Flashcards",
+  "title": "Geography: Natural Resources Flashcards",
   "description": "Key facts from TNPSC Group II Geography Natural Resources Chapter",
   "cards": [
-    { "q": "Resources obtained from the biosphere that have life, such as flora and fauna, are called what?", "a": "Biotic Resources." },
-    { "q": "Resources composed of non-living things, such as rocks and metals, are known as what?", "a": "Abiotic Resources." },
-    { "q": "Solar energy, wind energy, water, and forests are examples of which type of resources based on exhaustibility?", "a": "Renewable (or replenishable) Resources." },
-    { "q": "Which type of resources occur over a very long geological time and include minerals and fossil fuels?", "a": "Non-Renewable Resources." },
-    { "q": "Village commons, grazing grounds, and public parks are examples of which type of resource ownership?", "a": "Community Owned Resources." },
-    { "q": "Which major crops are primarily grown in the Black Soil regions of Maharashtra, Andhra Pradesh, Tamil Nadu, and Gujarat?", "a": "Cotton and sugarcane." },
-    { "q": "What is the primary cause of soil becoming alkaline and unsuitable for cultivation due to unscientific irrigation?", "a": "Capillary action." },
-    { "q": "Name the two major organizations engaged in the exploration and development of mineral resources in India.", "a": "Geological Survey of India (GSI) and Indian Bureau of Mines (IBM)." },
-    { "q": "Which resource management strategy is considered better than recycling because it does not consume additional energy?", "a": "Reuse." },
-    { "q": "Forests are often referred to by what valuable term due to their economic and ecological importance?", "a": "'Green Gold'." },
-    { "q": "Forests act as a natural 'sponge' and help regulate the climate by absorbing which gas?", "a": "Carbon dioxide (CO2)." },
-    { "q": "In which year was the Forest (Conservation) Act enacted in India to prevent the diversion of forests for non-forest purposes?", "a": "1980." },
-    { "q": "Where is the Forest Research Institute (FRI) established for research in forestry development located?", "a": "Dehradun." },
-    { "q": "On what date is World Forestry Day observed every year?", "a": "March 21." }
+    {
+      "q": "Resources obtained from the biosphere that have life, such as flora and fauna, are called what?",
+      "a": "Biotic Resources."
+    },
+    {
+      "q": "Resources composed of non-living things, such as rocks and metals, are known as what?",
+      "a": "Abiotic Resources."
+    },
+    {
+      "q": "Solar energy, wind energy, water, and forests are examples of which type of resources based on exhaustibility?",
+      "a": "Renewable (or replenishable) Resources."
+    },
+    {
+      "q": "Which type of resources occur over a very long geological time and include minerals and fossil fuels?",
+      "a": "Non-Renewable Resources."
+    },
+    {
+      "q": "Village commons, grazing grounds, and public parks are examples of which type of resource ownership?",
+      "a": "Community Owned Resources."
+    },
+    {
+      "q": "Which major crops are primarily grown in the Black Soil regions of Maharashtra, Andhra Pradesh, Tamil Nadu, and Gujarat?",
+      "a": "Cotton and sugarcane."
+    },
+    {
+      "q": "What is the primary cause of soil becoming alkaline and unsuitable for cultivation due to unscientific irrigation?",
+      "a": "Capillary action."
+    },
+    {
+      "q": "Name the two major organizations engaged in the exploration and development of mineral resources in India.",
+      "a": "Geological Survey of India (GSI) and Indian Bureau of Mines (IBM)."
+    },
+    {
+      "q": "Which resource management strategy is considered better than recycling because it does not consume additional energy?",
+      "a": "Reuse."
+    },
+    {
+      "q": "Forests are often referred to by what valuable term due to their economic and ecological importance?",
+      "a": "'Green Gold'."
+    },
+    {
+      "q": "Forests act as a natural 'sponge' and help regulate the climate by absorbing which gas?",
+      "a": "Carbon dioxide (CO2)."
+    },
+    {
+      "q": "In which year was the Forest (Conservation) Act enacted in India to prevent the diversion of forests for non-forest purposes?",
+      "a": "1980."
+    },
+    {
+      "q": "Where is the Forest Research Institute (FRI) established for research in forestry development located?",
+      "a": "Dehradun."
+    },
+    {
+      "q": "On what date is World Forestry Day observed every year?",
+      "a": "March 21."
+    }
   ]
 }

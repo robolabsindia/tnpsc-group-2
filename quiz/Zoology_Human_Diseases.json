@@ -1,80 +1,155 @@
 {
-  "title": "Human Diseases Quiz",
+  "title": "Zoology: Human Diseases Quiz",
   "description": "Test your knowledge of pathogens, deficiency diseases, and emerging viruses.",
   "questions": [
     {
       "question": "Which of the following is the causative agent of Tuberculosis?",
-      "options": [ "Mycobacterium leprae", "Mycobacterium tuberculosis", "Bacillus yersinia pestis", "Corynebacterium diphtheriae" ],
+      "options": [
+        "Mycobacterium leprae",
+        "Mycobacterium tuberculosis",
+        "Bacillus yersinia pestis",
+        "Corynebacterium diphtheriae"
+      ],
       "correctIndex": 1
     },
     {
       "question": "African sleeping sickness is transmitted by which vector?",
-      "options": [ "Sand fly", "Female Culex mosquito", "Tse-tse fly", "Female Anopheles mosquito" ],
+      "options": [
+        "Sand fly",
+        "Female Culex mosquito",
+        "Tse-tse fly",
+        "Female Anopheles mosquito"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Deficiency of Vitamin D (Calciferol) leads to which of the following diseases?",
-      "options": [ "Scurvy", "Beri-beri", "Rickets and Osteomalacia", "Pellagra" ],
+      "options": [
+        "Scurvy",
+        "Beri-beri",
+        "Rickets and Osteomalacia",
+        "Pellagra"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Who discovered Vitamin B12 (Cyanocobalamin) in 1948?",
-      "options": [ "McCollum", "Smith & Parker", "Dam", "Williams" ],
+      "options": [
+        "McCollum",
+        "Smith & Parker",
+        "Dam",
+        "Williams"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which instrument is used to measure blood pressure?",
-      "options": [ "Sphygmomanometer", "Stethoscope", "Electrocardiogram", "Thermometer" ],
+      "options": [
+        "Sphygmomanometer",
+        "Stethoscope",
+        "Electrocardiogram",
+        "Thermometer"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Hypermetropia (far-sightedness) is corrected using which type of lens?",
-      "options": [ "Biconcave lens", "Cylindrical lens", "Biconvex lens", "Plano-concave lens" ],
+      "options": [
+        "Biconcave lens",
+        "Cylindrical lens",
+        "Biconvex lens",
+        "Plano-concave lens"
+      ],
       "correctIndex": 2
     },
     {
       "question": "The National Malaria Eradication Programme (NMEP) aims to stamp out Malaria. What is the causative agent of Malaria?",
-      "options": [ "Leishmania donovani", "Wuchereria bancrofti", "Plasmodium sp.", "Trypanosoma gambiense" ],
+      "options": [
+        "Leishmania donovani",
+        "Wuchereria bancrofti",
+        "Plasmodium sp.",
+        "Trypanosoma gambiense"
+      ],
       "correctIndex": 2
     },
     {
       "question": "In which year was the State AIDS cell established in Tamil Nadu?",
-      "options": [ "1986", "1990", "1995", "2002" ],
+      "options": [
+        "1986",
+        "1990",
+        "1995",
+        "2002"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which emerging virus is known to cause microcephaly in infants if the mother is infected during pregnancy?",
-      "options": [ "Ebola Virus", "SARS Corona virus", "Zika Virus", "Swine Influenza Virus" ],
+      "options": [
+        "Ebola Virus",
+        "SARS Corona virus",
+        "Zika Virus",
+        "Swine Influenza Virus"
+      ],
       "correctIndex": 2
     },
     {
       "question": "The Ebola Virus outbreak (2013-2015) primarily affected which region?",
-      "options": [ "Southern China", "West Africa", "Uganda", "South America" ],
+      "options": [
+        "Southern China",
+        "West Africa",
+        "Uganda",
+        "South America"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Ergotism (listed as 'Drug' disease in the text) is caused by which fungal agent?",
-      "options": [ "Candida albicans", "Epidermophyton", "Aspergillus flavus", "Claviceps purpurea" ],
+      "options": [
+        "Candida albicans",
+        "Epidermophyton",
+        "Aspergillus flavus",
+        "Claviceps purpurea"
+      ],
       "correctIndex": 3
     },
     {
       "question": "Which protein deficiency disease is characterized by thin muscles but a bulgy face and stomach?",
-      "options": [ "Marasmus", "Kwashiorkor", "Anaemia", "Goitre" ],
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Anaemia",
+        "Goitre"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Swine Influenza Virus (SIV) caused a major outbreak in India in which year?",
-      "options": [ "2002", "2013", "2015", "2018" ],
+      "options": [
+        "2002",
+        "2013",
+        "2015",
+        "2018"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Under the National Immunisation Programme, the MMR vaccine is recommended between which ages?",
-      "options": [ "0 and 6 months", "9 and 15 months", "2 and 5 years", "15 and 18 years" ],
+      "options": [
+        "0 and 6 months",
+        "9 and 15 months",
+        "2 and 5 years",
+        "15 and 18 years"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which of the following diseases is caused by a defect in blood coagulation due to Vitamin K deficiency?",
-      "options": [ "Haemorrhage", "Tetany", "Nyctalopia", "Cheilosis" ],
+      "options": [
+        "Haemorrhage",
+        "Tetany",
+        "Nyctalopia",
+        "Cheilosis"
+      ],
       "correctIndex": 0
     }
   ]

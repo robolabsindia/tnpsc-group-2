@@ -1,0 +1,206 @@
+{
+  "title": "Zoology: Reproductive System Quiz",
+  "description": "Test your knowledge of reproductive biology, male and female reproductive organs, and key discoveries.",
+  "questions": [
+    {
+      "question": "In which type of cells does asexual reproduction take place?",
+      "options": [
+        "Reproductive cells",
+        "Body cells",
+        "Stem cells",
+        "Germ cells"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the mode of reproduction in Hydra?",
+      "options": [
+        "Binary fission",
+        "Multiple fission",
+        "Budding",
+        "Gemmules"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Syngamy refers to:",
+      "options": [
+        "Fusion of germ cells",
+        "Fusion of male and female cells",
+        "Cytoplasmic fusion",
+        "Nucleus fusion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following animals is viviparous?",
+      "options": [
+        "Reptiles",
+        "Birds",
+        "Most mammals",
+        "Fish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which animal has the longest gestation period listed in the text?",
+      "options": [
+        "Buffalo (310 days)",
+        "Elephant (610 days)",
+        "Whale (365 days)",
+        "Horse (340 days)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Human eggs are classified as which type based on yolk content?",
+      "options": [
+        "Micro lecithal",
+        "Meso lecithal",
+        "Mega lecithal",
+        "Alecithal"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Who discovered male sperm cells?",
+      "options": [
+        "Karl Von Baer",
+        "A.V. Leeuwenhoek",
+        "Bouveri",
+        "Bateson"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who coined the term 'Zygote'?",
+      "options": [
+        "Bouveri",
+        "Danielli",
+        "Bateson",
+        "Ronald Edwards"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who is credited with the first test tube baby?",
+      "options": [
+        "Danielli",
+        "Ronald Edwards",
+        "Robert Furchgott",
+        "Karl Von Baer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What percentage of seminal fluid is contributed by the seminal vesicles?",
+      "options": [
+        "30%",
+        "50%",
+        "70%",
+        "90%"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the approximate weight of the prostate gland?",
+      "options": [
+        "3 g",
+        "5 g",
+        "8 g",
+        "15 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which part of the male urethra is the shortest?",
+      "options": [
+        "Prostatic urethra",
+        "Membranous urethra",
+        "Spongy urethra",
+        "Penile urethra"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the expanded end of the Corpus Spongiosum Penis called?",
+      "options": [
+        "Corona Glandis",
+        "Glans Penis",
+        "Prepuce",
+        "Radix"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the longest part of the uterine (Fallopian) tube?",
+      "options": [
+        "Infundibulum",
+        "Ampulla",
+        "Isthmus",
+        "Intramural part"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the innermost functional layer of the uterus called?",
+      "options": [
+        "Perimetrium",
+        "Myometrium",
+        "Endometrium",
+        "Mesometrium"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Approximately how many oocytes are present at birth?",
+      "options": [
+        "400",
+        "40,000",
+        "1 million",
+        "7 million"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "If pregnancy does not occur, the corpus luteum degenerates after:",
+      "options": [
+        "3-5 days",
+        "10-12 days",
+        "20-25 days",
+        "30 days"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The clitoris is homologous to which male structure?",
+      "options": [
+        "Testis",
+        "Scrotum",
+        "Penis",
+        "Prostate"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the approximate length of the vagina?",
+      "options": [
+        "5 cm",
+        "7 cm",
+        "10 cm",
+        "15 cm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The hymen has:",
+      "options": [
+        "A protective function",
+        "A reproductive function",
+        "No established function",
+        "A hormonal function"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

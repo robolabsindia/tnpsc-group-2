@@ -1,80 +1,155 @@
 {
-  "title": "Health & Hygiene Quiz",
+  "title": "Zoology: Health & Hygiene Quiz",
   "description": "Test your knowledge of nutrition, immunity, medical systems, and vaccination schedules.",
   "questions": [
     {
       "question": "Which of the following nutrients acts as 'stored energy' and provides 9.3 kcal/gm?",
-      "options": [ "Protein", "Carbohydrate", "Fat", "Vitamins" ],
+      "options": [
+        "Protein",
+        "Carbohydrate",
+        "Fat",
+        "Vitamins"
+      ],
       "correctIndex": 2
     },
     {
       "question": "According to the text, how many grams of protein are present in 100 grams of Soya?",
-      "options": [ "10 g", "20 g", "40 g", "60 g" ],
+      "options": [
+        "10 g",
+        "20 g",
+        "40 g",
+        "60 g"
+      ],
       "correctIndex": 2
     },
     {
       "question": "A person with a BMI of 28 falls under which category?",
-      "options": [ "Low weight", "Correct weight", "Excess weight", "Obesity" ],
+      "options": [
+        "Low weight",
+        "Correct weight",
+        "Excess weight",
+        "Obesity"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Who is recognized as the Father of Ayurvedic medicine?",
-      "options": [ "Agasthiar", "Charaka", "Hippocrates", "Patanjali" ],
+      "options": [
+        "Agasthiar",
+        "Charaka",
+        "Hippocrates",
+        "Patanjali"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Where is the National Institute of Yoga located?",
-      "options": [ "Jaipur", "West Bengal", "Bengaluru", "Delhi" ],
+      "options": [
+        "Jaipur",
+        "West Bengal",
+        "Bengaluru",
+        "Delhi"
+      ],
       "correctIndex": 3
     },
     {
       "question": "Viral-infected cells producing interferons is an example of which type of innate immunity barrier?",
-      "options": [ "Physical barrier", "Physiological barrier", "Cellular barrier", "Cytokine barrier" ],
+      "options": [
+        "Physical barrier",
+        "Physiological barrier",
+        "Cellular barrier",
+        "Cytokine barrier"
+      ],
       "correctIndex": 3
     },
     {
       "question": "The transfer of antibodies from mother to child via the placenta is an example of:",
-      "options": [ "Natural Active Immunity", "Artificial Active Immunity", "Natural Passive Immunity", "Artificial Passive Immunity" ],
+      "options": [
+        "Natural Active Immunity",
+        "Artificial Active Immunity",
+        "Natural Passive Immunity",
+        "Artificial Passive Immunity"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which antibody is abundantly present in the yellowish fluid of mother's milk known as colostrum?",
-      "options": [ "IgG", "IgA", "IgM", "IgE" ],
+      "options": [
+        "IgG",
+        "IgA",
+        "IgM",
+        "IgE"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which vaccine is administered to a newborn baby?",
-      "options": [ "Polio", "BCG", "DPT", "Measles" ],
+      "options": [
+        "Polio",
+        "BCG",
+        "DPT",
+        "Measles"
+      ],
       "correctIndex": 1
     },
     {
       "question": "At what age is the MMR vaccine administered?",
-      "options": [ "6th week", "9-12 months", "1-2 years", "4-6 years" ],
+      "options": [
+        "6th week",
+        "9-12 months",
+        "1-2 years",
+        "4-6 years"
+      ],
       "correctIndex": 2
     },
     {
       "question": "What is the daily caloric requirement for an Indian woman doing moderate work?",
-      "options": [ "1790 kcal", "2080 kcal", "2430 kcal", "2980 kcal" ],
+      "options": [
+        "1790 kcal",
+        "2080 kcal",
+        "2430 kcal",
+        "2980 kcal"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Injection of an actual immune serum (Gamma globulin) provides which type of immunity?",
-      "options": [ "Natural Active", "Artificial Active", "Natural Passive", "Artificial Passive" ],
+      "options": [
+        "Natural Active",
+        "Artificial Active",
+        "Natural Passive",
+        "Artificial Passive"
+      ],
       "correctIndex": 3
     },
     {
       "question": "Which medical system was founded by Hippocrates?",
-      "options": [ "Siddha", "Ayurveda", "Unani", "Homoeopathy" ],
+      "options": [
+        "Siddha",
+        "Ayurveda",
+        "Unani",
+        "Homoeopathy"
+      ],
       "correctIndex": 2
     },
     {
       "question": "What is the basal activity caloric requirement for an average Indian man?",
-      "options": [ "354 kcal", "460 kcal", "610 kcal", "750 kcal" ],
+      "options": [
+        "354 kcal",
+        "460 kcal",
+        "610 kcal",
+        "750 kcal"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which vaccine is given at 15 days after birth?",
-      "options": [ "BCG", "Polio", "Triple Antigen", "Typhoid" ],
+      "options": [
+        "BCG",
+        "Polio",
+        "Triple Antigen",
+        "Typhoid"
+      ],
       "correctIndex": 1
     }
   ]

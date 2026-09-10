@@ -1,205 +1,405 @@
 {
-  "title": "Atmosphere, Weather & Climate, Monsoon, Rainfall",
+  "title": "Geography: Atmosphere, Weather & Climate, Monsoon, Rainfall",
   "description": "TNPSC Group II Geography ",
   "questions": [
     {
       "question": "Over what period is 'climate' defined as the average of weather?",
-      "options": ["10 years", "20 years", "50 years", "30 years"],
+      "options": [
+        "10 years",
+        "20 years",
+        "50 years",
+        "30 years"
+      ],
       "correctIndex": 3
     },
     {
       "question": "Weather refers to the physical state of the atmosphere within...",
-      "options": ["a week", "a season", "24 hours", "a year"],
+      "options": [
+        "a week",
+        "a season",
+        "24 hours",
+        "a year"
+      ],
       "correctIndex": 2
     },
     {
       "question": "What is the Normal Lapse Rate of temperature with altitude?",
-      "options": ["1°C per 100 metres", "1°C per 165 metres (6.5°C per km)", "2°C per 165 metres", "1°C per 300 metres"],
+      "options": [
+        "1°C per 100 metres",
+        "1°C per 165 metres (6.5°C per km)",
+        "2°C per 165 metres",
+        "1°C per 300 metres"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Coastal areas that experience cool, wet air from the sea throughout the year are said to have which climate?",
-      "options": ["Continental climate", "Polar climate", "Desert climate", "Equable (maritime) climate"],
+      "options": [
+        "Continental climate",
+        "Polar climate",
+        "Desert climate",
+        "Equable (maritime) climate"
+      ],
       "correctIndex": 3
     },
     {
       "question": "According to the source, the creation of urban heat islands is an effect of...",
-      "options": ["El Niño", "Ocean currents", "Human influence", "Latitude"],
+      "options": [
+        "El Niño",
+        "Ocean currents",
+        "Human influence",
+        "Latitude"
+      ],
       "correctIndex": 2
     },
     {
       "question": "What percentage of the total mass of the atmosphere is confined to 32 km from the earth's surface?",
-      "options": ["99%", "90%", "95%", "99.5%"],
+      "options": [
+        "99%",
+        "90%",
+        "95%",
+        "99.5%"
+      ],
       "correctIndex": 0
     },
     {
       "question": "What is the percentage by volume of nitrogen in the atmosphere?",
-      "options": ["20.95%", "78.08%", "0.93%", "0.036%"],
+      "options": [
+        "20.95%",
+        "78.08%",
+        "0.93%",
+        "0.036%"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The ionosphere extends from...",
-      "options": ["0-12 km", "80-500 km", "12-50 km", "50-80 km"],
+      "options": [
+        "0-12 km",
+        "80-500 km",
+        "12-50 km",
+        "50-80 km"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which layer of the atmosphere reflects radio waves back to the earth?",
-      "options": ["Troposphere", "Ionosphere", "Stratosphere", "Exosphere"],
+      "options": [
+        "Troposphere",
+        "Ionosphere",
+        "Stratosphere",
+        "Exosphere"
+      ],
       "correctIndex": 1
     },
     {
       "question": "How long does solar radiation take to reach the earth's surface?",
-      "options": ["Four minutes", "Twelve minutes", "Eight minutes", "Twenty minutes"],
+      "options": [
+        "Four minutes",
+        "Twelve minutes",
+        "Eight minutes",
+        "Twenty minutes"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Isotherms are lines joining places having...",
-      "options": ["Equal pressure", "Equal temperature", "Equal humidity", "Equal wind speed"],
+      "options": [
+        "Equal pressure",
+        "Equal temperature",
+        "Equal humidity",
+        "Equal wind speed"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The difference between the maximum and minimum temperatures of a day is called...",
-      "options": ["Diurnal range of temperature", "Annual range of temperature", "Lapse rate", "Dew point"],
+      "options": [
+        "Diurnal range of temperature",
+        "Annual range of temperature",
+        "Lapse rate",
+        "Dew point"
+      ],
       "correctIndex": 0
     },
     {
       "question": "22 June is known as...",
-      "options": ["Vernal Equinox", "Summer Solstice", "Autumnal Equinox", "Winter Solstice"],
+      "options": [
+        "Vernal Equinox",
+        "Summer Solstice",
+        "Autumnal Equinox",
+        "Winter Solstice"
+      ],
       "correctIndex": 1
     },
     {
       "question": "What is the average air pressure at sea level?",
-      "options": ["998 millibars", "1,050 millibars", "1,100 millibars", "1,013 millibars"],
+      "options": [
+        "998 millibars",
+        "1,050 millibars",
+        "1,100 millibars",
+        "1,013 millibars"
+      ],
       "correctIndex": 3
     },
     {
       "question": "The equatorial low pressure belt (5°N-5°S) is otherwise called...",
-      "options": ["Horse latitudes", "Doldrums (belt of calm)", "Subtropical highs", "Sub-polar lows"],
+      "options": [
+        "Horse latitudes",
+        "Doldrums (belt of calm)",
+        "Subtropical highs",
+        "Sub-polar lows"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The 'Horse Latitudes' correspond to which pressure belt?",
-      "options": ["Equatorial low pressure belt", "Polar high pressure belt", "Subtropical high pressure belt", "Sub-polar low pressure belt"],
+      "options": [
+        "Equatorial low pressure belt",
+        "Polar high pressure belt",
+        "Subtropical high pressure belt",
+        "Sub-polar low pressure belt"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Sub-polar low pressure belts lie between which latitudes in both hemispheres?",
-      "options": ["5°-10°", "25°-35°", "70°-80°", "60°-65°"],
+      "options": [
+        "5°-10°",
+        "25°-35°",
+        "70°-80°",
+        "60°-65°"
+      ],
       "correctIndex": 3
     },
     {
       "question": "According to Ferrel's law, the Coriolis force is zero at...",
-      "options": ["The poles", "The equator", "30° latitude", "60° latitude"],
+      "options": [
+        "The poles",
+        "The equator",
+        "30° latitude",
+        "60° latitude"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The circulation cell in the tropics, in which air rises at the ITCZ and sinks at about 30°N and 30°S, is called...",
-      "options": ["Ferrel cell", "Polar cell", "Hadley cell", "Westerly cell"],
+      "options": [
+        "Ferrel cell",
+        "Polar cell",
+        "Hadley cell",
+        "Westerly cell"
+      ],
       "correctIndex": 2
     },
     {
       "question": "At sea, the speed of wind is generally measured in...",
-      "options": ["Kilometres per hour", "Knots", "Miles per hour", "Feet per second"],
+      "options": [
+        "Kilometres per hour",
+        "Knots",
+        "Miles per hour",
+        "Feet per second"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The term 'monsoon' is derived from the Arabic word...",
-      "options": ["Mansab", "Mukim", "Muzaffar", "Mausim"],
+      "options": [
+        "Mansab",
+        "Mukim",
+        "Muzaffar",
+        "Mausim"
+      ],
       "correctIndex": 3
     },
     {
       "question": "The South-West monsoon brings heavy to moderate rain to the Indian landmass from...",
-      "options": ["June to September", "March to June", "October to December", "November to February"],
+      "options": [
+        "June to September",
+        "March to June",
+        "October to December",
+        "November to February"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Which local wind is known as the 'Snow eater'?",
-      "options": ["Loo", "Sirocco", "Pampero", "Chinook"],
+      "options": [
+        "Loo",
+        "Sirocco",
+        "Pampero",
+        "Chinook"
+      ],
       "correctIndex": 3
     },
     {
       "question": "The rainfall brought by the Sirocco winds is usually brown in colour and is called...",
-      "options": ["Blood Rain", "Black rain", "Acid rain", "Monsoon rain"],
+      "options": [
+        "Blood Rain",
+        "Black rain",
+        "Acid rain",
+        "Monsoon rain"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Tropical cyclones are called 'Willy-willies' in...",
-      "options": ["The Atlantic", "The Western Pacific", "Western Australia", "The South China Sea"],
+      "options": [
+        "The Atlantic",
+        "The Western Pacific",
+        "Western Australia",
+        "The South China Sea"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which of the following is a favourable condition for the formation of tropical cyclones?",
-      "options": ["A sea surface temperature higher than 17°C", "Large variations in vertical wind speed", "A sea surface temperature higher than 27°C", "Absence of the Coriolis force"],
+      "options": [
+        "A sea surface temperature higher than 17°C",
+        "Large variations in vertical wind speed",
+        "A sea surface temperature higher than 27°C",
+        "Absence of the Coriolis force"
+      ],
       "correctIndex": 2
     },
     {
       "question": "In a mature tropical cyclone, the wind velocity in the eye wall reaches as high as...",
-      "options": ["About 250 km per hour", "About 200 km per hour", "About 150 km per hour", "About 300 km per hour"],
+      "options": [
+        "About 250 km per hour",
+        "About 200 km per hour",
+        "About 150 km per hour",
+        "About 300 km per hour"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Anti-cyclones move in which direction in the northern hemisphere?",
-      "options": ["Clockwise", "Anti-clockwise", "They do not move", "The direction changes daily"],
+      "options": [
+        "Clockwise",
+        "Anti-clockwise",
+        "They do not move",
+        "The direction changes daily"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Absolute humidity is expressed in terms of...",
-      "options": ["Percentage", "Grams per cubic metre", "Millibars", "Celsius"],
+      "options": [
+        "Percentage",
+        "Grams per cubic metre",
+        "Millibars",
+        "Celsius"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Fog mixed with smoke is described as...",
-      "options": ["Mist", "Dew", "Frost", "Smog"],
+      "options": [
+        "Mist",
+        "Dew",
+        "Frost",
+        "Smog"
+      ],
       "correctIndex": 3
     },
     {
       "question": "Which clouds are high clouds formed above 5,000 metres, consist of ice crystals and never bring rainfall?",
-      "options": ["Cirrus", "Stratus", "Cumulus", "Nimbus"],
+      "options": [
+        "Cirrus",
+        "Stratus",
+        "Cumulus",
+        "Nimbus"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Rainfall that usually occurs around 4 o'clock in equatorial regions, accompanied by thunder and lightning, is...",
-      "options": ["Cyclonic rainfall", "Orographic rainfall", "Convectional rainfall", "Frontal rainfall"],
+      "options": [
+        "Cyclonic rainfall",
+        "Orographic rainfall",
+        "Convectional rainfall",
+        "Frontal rainfall"
+      ],
       "correctIndex": 2
     },
     {
       "question": "The dry area on the leeward side of a mountain range, where descending winds cause low to no rainfall, is called...",
-      "options": ["Doldrums", "Eye wall", "Jet stream", "Rain shadow"],
+      "options": [
+        "Doldrums",
+        "Eye wall",
+        "Jet stream",
+        "Rain shadow"
+      ],
       "correctIndex": 3
     },
     {
       "question": "The mainland of India extends roughly between which latitudes?",
-      "options": ["5°N-25°N", "8°N-37°N", "10°N-30°N", "15°N-40°N"],
+      "options": [
+        "5°N-25°N",
+        "8°N-37°N",
+        "10°N-30°N",
+        "15°N-40°N"
+      ],
       "correctIndex": 1
     },
     {
       "question": "As per the source, the January temperatures of Agra and Darjeeling, which lie on the same latitude, are respectively...",
-      "options": ["16°C and 10°C", "4°C and 16°C", "16°C and 4°C", "20°C and 4°C"],
+      "options": [
+        "16°C and 10°C",
+        "4°C and 16°C",
+        "16°C and 4°C",
+        "20°C and 4°C"
+      ],
       "correctIndex": 2
     },
     {
       "question": "In summer, with the northwards shift of the ITCZ, what happens to the westerly jet stream?",
-      "options": ["It moves closer to the Indian plain", "It strengthens over the Indian plain", "It withdraws from the Indian plain", "It splits into two streams"],
+      "options": [
+        "It moves closer to the Indian plain",
+        "It strengthens over the Indian plain",
+        "It withdraws from the Indian plain",
+        "It splits into two streams"
+      ],
       "correctIndex": 2
     },
     {
       "question": "The retreating monsoon picks up moisture from the Bay of Bengal and establishes itself over the Tamil Nadu coast, causing rainfall in the month of...",
-      "options": ["October", "December", "November", "January"],
+      "options": [
+        "October",
+        "December",
+        "November",
+        "January"
+      ],
       "correctIndex": 1
     },
     {
       "question": "In Spanish, 'El Niño' means...",
-      "options": ["The warm sea", "The Child Christ", "The red water", "The child of the sea"],
+      "options": [
+        "The warm sea",
+        "The Child Christ",
+        "The red water",
+        "The child of the sea"
+      ],
       "correctIndex": 1
     },
     {
       "question": "El Niño is a temporary replacement of which cold current?",
-      "options": ["Peruvian (Humboldt) current", "California current", "Labrador current", "Canary current"],
+      "options": [
+        "Peruvian (Humboldt) current",
+        "California current",
+        "Labrador current",
+        "Canary current"
+      ],
       "correctIndex": 0
     },
     {
       "question": "In India, the presence of La Niña is the harbinger of...",
-      "options": ["Deficient monsoon rainfall", "An active hurricane season over the Indian Ocean", "A dry spell over Kerala", "Heavy monsoon showers"],
+      "options": [
+        "Deficient monsoon rainfall",
+        "An active hurricane season over the Indian Ocean",
+        "A dry spell over Kerala",
+        "Heavy monsoon showers"
+      ],
       "correctIndex": 3
     }
   ]

@@ -1,80 +1,155 @@
 {
-  "title": "Natural Calamities & Disaster Management Quiz",
+  "title": "Geography: Natural Calamities & Disaster Management Quiz",
   "description": "Test your knowledge of disaster types, management frameworks, and key events.",
   "questions": [
     {
       "question": "The term 'Disaster' is derived from the French word 'Disastre'. What does it mean?",
-      "options": [ "A great storm", "An evil star", "A broken land", "A dark sky" ],
+      "options": [
+        "A great storm",
+        "An evil star",
+        "A broken land",
+        "A dark sky"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which coast of India is more vulnerable to cyclones?",
-      "options": [ "Western Coast (Arabian Sea)", "Eastern Coast (Bay of Bengal)", "Southern Coast (Indian Ocean)", "Both equally vulnerable" ],
+      "options": [
+        "Western Coast (Arabian Sea)",
+        "Eastern Coast (Bay of Bengal)",
+        "Southern Coast (Indian Ocean)",
+        "Both equally vulnerable"
+      ],
       "correctIndex": 1
     },
     {
       "question": "When rainfall is significantly less than the climatological mean of a region, it is classified as which type of drought?",
-      "options": [ "Agricultural Drought", "Hydrological Drought", "Meteorological Drought", "Famine" ],
+      "options": [
+        "Agricultural Drought",
+        "Hydrological Drought",
+        "Meteorological Drought",
+        "Famine"
+      ],
       "correctIndex": 2
     },
     {
       "question": "When soil moisture and rainfall are inadequate to support healthy crop growth, it is termed as:",
-      "options": [ "Meteorological Drought", "Hydrological Drought", "Agricultural Drought", "Economic Drought" ],
+      "options": [
+        "Meteorological Drought",
+        "Hydrological Drought",
+        "Agricultural Drought",
+        "Economic Drought"
+      ],
       "correctIndex": 2
     },
     {
       "question": "On which date did the devastating Indian Ocean Tsunami of 2004 occur?",
-      "options": [ "11th March 2004", "26th December 2004", "15th January 2005", "8th October 2005" ],
+      "options": [
+        "11th March 2004",
+        "26th December 2004",
+        "15th January 2005",
+        "8th October 2005"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The Bhopal Gas Tragedy occurred on 3rd December 1984. Which gas was leaked?",
-      "options": [ "Ammonia", "Chlorine", "Methyl Isocyanate (MIC)", "Phosgene" ],
+      "options": [
+        "Ammonia",
+        "Chlorine",
+        "Methyl Isocyanate (MIC)",
+        "Phosgene"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Who heads the National Disaster Management Authority (NDMA) in India?",
-      "options": [ "Home Minister", "Prime Minister", "President", "Defence Minister" ],
+      "options": [
+        "Home Minister",
+        "Prime Minister",
+        "President",
+        "Defence Minister"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Who heads the State Disaster Management Authority (SDMA)?",
-      "options": [ "Governor", "Chief Minister", "Chief Secretary", "Home Minister" ],
+      "options": [
+        "Governor",
+        "Chief Minister",
+        "Chief Secretary",
+        "Home Minister"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Who heads the District Disaster Management Authority (DDMA)?",
-      "options": [ "Superintendent of Police", "District Collector/Magistrate", "Block Development Officer", "Tahsildar" ],
+      "options": [
+        "Superintendent of Police",
+        "District Collector/Magistrate",
+        "Block Development Officer",
+        "Tahsildar"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The National Executive Committee (NEC) for disaster management is headed by the:",
-      "options": [ "Prime Minister", "Home Secretary", "Chief Secretary", "Cabinet Secretary" ],
+      "options": [
+        "Prime Minister",
+        "Home Secretary",
+        "Chief Secretary",
+        "Cabinet Secretary"
+      ],
       "correctIndex": 1
     },
     {
       "question": "In which year was the Disaster Management Act enacted in India?",
-      "options": [ "2001", "2003", "2005", "2009" ],
+      "options": [
+        "2001",
+        "2003",
+        "2005",
+        "2009"
+      ],
       "correctIndex": 2
     },
     {
       "question": "In which year was the National Policy on Disaster Management formulated?",
-      "options": [ "2005", "2007", "2009", "2011" ],
+      "options": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which of the following is NOT one of the four main phases of Disaster Management?",
-      "options": [ "Prevention", "Preparedness", "Prosecution", "Recovery" ],
+      "options": [
+        "Prevention",
+        "Preparedness",
+        "Prosecution",
+        "Recovery"
+      ],
       "correctIndex": 2
     },
     {
       "question": "FACT, deployed by the IFRC in disaster-affected countries, stands for:",
-      "options": [ "First Aid and Crisis Team", "Federal Assessment and Control Taskforce", "Field Assessment and Coordination Team", "Fast Action and Command Team" ],
+      "options": [
+        "First Aid and Crisis Team",
+        "Federal Assessment and Control Taskforce",
+        "Field Assessment and Coordination Team",
+        "Fast Action and Command Team"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which of the following is a recommended drought mitigation measure mentioned in the text?",
-      "options": [ "Building more thermal power plants", "Rooftop water harvesting in every house", "Expanding mining operations", "Increasing use of groundwater" ],
+      "options": [
+        "Building more thermal power plants",
+        "Rooftop water harvesting in every house",
+        "Expanding mining operations",
+        "Increasing use of groundwater"
+      ],
       "correctIndex": 1
     }
   ]

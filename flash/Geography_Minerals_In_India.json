@@ -1,27 +1,87 @@
 {
   "id": "tnpsc-geography-minerals-01",
-  "title": "Minerals in India",
+  "title": "Geography: Minerals in India",
   "description": "TNPSC Group II Geography",
   "cards": [
-    { "q": "What is a rock with a large concentration of a specific mineral called?", "a": "An ore." },
-    { "q": "Which metal was probably the first that man learned to mine, starting the Copper Age?", "a": "Copper." },
-    { "q": "What are the two main categories of metallic minerals?", "a": "Ferrous (contain iron) and Non-ferrous (do not contain iron)." },
-    { "q": "Which type of iron ore has the highest iron content (70%) and magnetic properties?", "a": "Magnetite (Black ore)." },
-    { "q": "Which type of iron ore is known as 'red-ochre' due to its reddish color?", "a": "Haematite." },
-    { "q": "What percentage of the world's total iron ore reserves does India possess?", "a": "About 20%." },
-    { "q": "Which Indian state has the largest reserves of iron ore (25.7%)?", "a": "Jharkhand." },
-    { "q": "What is India's global rank in manganese production?", "a": "5th largest producer (after Brazil, Gabon, South Africa, and Australia)." },
-    { "q": "Which state is the largest producer of manganese in India (33%)?", "a": "Orissa." },
-    { "q": "Bauxite is the primary ore of which highly useful metal?", "a": "Aluminium." },
-    { "q": "What percentage of India's total limestone consumption is used by the cement industry?", "a": "75%." },
-    { "q": "Which type of coal has the highest carbon content (80-90%) and heating capacity?", "a": "Anthracite." },
-    { "q": "Which type of coal is commonly known as 'bunker coal' and is widely used to make coke?", "a": "Bituminous coal." },
-    { "q": "Where is 75% of India's lignite coal production located?", "a": "Neyveli in Tamil Nadu." },
-    { "q": "What are the two main geological classifications of coalfields in India?", "a": "Gondwana Coalfields and Tertiary Coalfields." },
-    { "q": "What is India's global rank in coal production?", "a": "4th largest producer." },
-    { "q": "Where was the first oil refinery in India commissioned, and in what year?", "a": "Digboi (Assam) in 1901." },
-    { "q": "Which off-shore oilfield was discovered by ONGC in 1974?", "a": "Mumbai High." },
-    { "q": "Which region is the oldest oil-producing region in India?", "a": "The Brahmaputra Valley (Assam)." },
-    { "q": "In which year was the Jamnagar refinery (RIL) in Gujarat commissioned?", "a": "1999." }
+    {
+      "q": "What is a rock with a large concentration of a specific mineral called?",
+      "a": "An ore."
+    },
+    {
+      "q": "Which metal was probably the first that man learned to mine, starting the Copper Age?",
+      "a": "Copper."
+    },
+    {
+      "q": "What are the two main categories of metallic minerals?",
+      "a": "Ferrous (contain iron) and Non-ferrous (do not contain iron)."
+    },
+    {
+      "q": "Which type of iron ore has the highest iron content (70%) and magnetic properties?",
+      "a": "Magnetite (Black ore)."
+    },
+    {
+      "q": "Which type of iron ore is known as 'red-ochre' due to its reddish color?",
+      "a": "Haematite."
+    },
+    {
+      "q": "What percentage of the world's total iron ore reserves does India possess?",
+      "a": "About 20%."
+    },
+    {
+      "q": "Which Indian state has the largest reserves of iron ore (25.7%)?",
+      "a": "Jharkhand."
+    },
+    {
+      "q": "What is India's global rank in manganese production?",
+      "a": "5th largest producer (after Brazil, Gabon, South Africa, and Australia)."
+    },
+    {
+      "q": "Which state is the largest producer of manganese in India (33%)?",
+      "a": "Orissa."
+    },
+    {
+      "q": "Bauxite is the primary ore of which highly useful metal?",
+      "a": "Aluminium."
+    },
+    {
+      "q": "What percentage of India's total limestone consumption is used by the cement industry?",
+      "a": "75%."
+    },
+    {
+      "q": "Which type of coal has the highest carbon content (80-90%) and heating capacity?",
+      "a": "Anthracite."
+    },
+    {
+      "q": "Which type of coal is commonly known as 'bunker coal' and is widely used to make coke?",
+      "a": "Bituminous coal."
+    },
+    {
+      "q": "Where is 75% of India's lignite coal production located?",
+      "a": "Neyveli in Tamil Nadu."
+    },
+    {
+      "q": "What are the two main geological classifications of coalfields in India?",
+      "a": "Gondwana Coalfields and Tertiary Coalfields."
+    },
+    {
+      "q": "What is India's global rank in coal production?",
+      "a": "4th largest producer."
+    },
+    {
+      "q": "Where was the first oil refinery in India commissioned, and in what year?",
+      "a": "Digboi (Assam) in 1901."
+    },
+    {
+      "q": "Which off-shore oilfield was discovered by ONGC in 1974?",
+      "a": "Mumbai High."
+    },
+    {
+      "q": "Which region is the oldest oil-producing region in India?",
+      "a": "The Brahmaputra Valley (Assam)."
+    },
+    {
+      "q": "In which year was the Jamnagar refinery (RIL) in Gujarat commissioned?",
+      "a": "1999."
+    }
   ]
 }

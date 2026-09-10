@@ -1,22 +1,67 @@
 {
   "id": "tnpsc-zoology-human-diseases-01",
-  "title": "Human Diseases Flashcards",
+  "title": "Zoology: Human Diseases Flashcards",
   "description": "Key facts from TNPSC Group II Zoology Human Diseases Chapter",
   "cards": [
-    { "q": "What is the causative agent of Typhoid?", "a": "Salmonella typhosa." },
-    { "q": "Which mosquito acts as the vector for Malaria?", "a": "Female Anopheles mosquito." },
-    { "q": "What is the vector for Kala Azar?", "a": "Sand fly." },
-    { "q": "Which vitamin deficiency causes Scurvy and malformation of teeth and gums?", "a": "Vitamin C (Ascorbic acid)." },
-    { "q": "Who discovered Vitamin C and in which year?", "a": "Szent-Györgyi in 1928." },
-    { "q": "Pellagra is caused by the deficiency of which B-complex vitamin?", "a": "Vitamin B5 (Nicotinic acid / Niacin)." },
-    { "q": "What is the normal average blood pressure in humans and what instrument is used to measure it?", "a": "120/80 mm Hg; measured by a Sphygmomanometer." },
-    { "q": "Which type of lens is used to correct Myopia (short-sightedness)?", "a": "Biconcave lens." },
-    { "q": "In which year did the State AIDS cell start functioning in Tamil Nadu?", "a": "1990." },
-    { "q": "At what age is the MMR vaccination recommended under the National Immunisation Programme?", "a": "Between 9 and 15 months of age." },
-    { "q": "Where and when was the Zika Virus first identified?", "a": "Zika forest of Uganda in 1947." },
-    { "q": "Which disease is caused by the SARS Corona virus and originated in Southern China in 2002?", "a": "Severe Acute Respiratory Syndrome (SARS)." },
-    { "q": "What is the specific congenital defect caused in infants if the mother is infected with the Zika Virus during pregnancy?", "a": "Microcephaly." },
-    { "q": "Which helminth causes Elephantiasis (Filariasis) and what is its vector?", "a": "Wuchereria bancrofti; Vector is the Female Culex mosquito." },
-    { "q": "What are the primary symptoms of Kwashiorkor protein deficiency?", "a": "Muscles become thin, while the face and stomach become bulgy." }
+    {
+      "q": "What is the causative agent of Typhoid?",
+      "a": "Salmonella typhosa."
+    },
+    {
+      "q": "Which mosquito acts as the vector for Malaria?",
+      "a": "Female Anopheles mosquito."
+    },
+    {
+      "q": "What is the vector for Kala Azar?",
+      "a": "Sand fly."
+    },
+    {
+      "q": "Which vitamin deficiency causes Scurvy and malformation of teeth and gums?",
+      "a": "Vitamin C (Ascorbic acid)."
+    },
+    {
+      "q": "Who discovered Vitamin C and in which year?",
+      "a": "Szent-Györgyi in 1928."
+    },
+    {
+      "q": "Pellagra is caused by the deficiency of which B-complex vitamin?",
+      "a": "Vitamin B5 (Nicotinic acid / Niacin)."
+    },
+    {
+      "q": "What is the normal average blood pressure in humans and what instrument is used to measure it?",
+      "a": "120/80 mm Hg; measured by a Sphygmomanometer."
+    },
+    {
+      "q": "Which type of lens is used to correct Myopia (short-sightedness)?",
+      "a": "Biconcave lens."
+    },
+    {
+      "q": "In which year did the State AIDS cell start functioning in Tamil Nadu?",
+      "a": "1990."
+    },
+    {
+      "q": "At what age is the MMR vaccination recommended under the National Immunisation Programme?",
+      "a": "Between 9 and 15 months of age."
+    },
+    {
+      "q": "Where and when was the Zika Virus first identified?",
+      "a": "Zika forest of Uganda in 1947."
+    },
+    {
+      "q": "Which disease is caused by the SARS Corona virus and originated in Southern China in 2002?",
+      "a": "Severe Acute Respiratory Syndrome (SARS)."
+    },
+    {
+      "q": "What is the specific congenital defect caused in infants if the mother is infected with the Zika Virus during pregnancy?",
+      "a": "Microcephaly."
+    },
+    {
+      "q": "Which helminth causes Elephantiasis (Filariasis) and what is its vector?",
+      "a": "Wuchereria bancrofti; Vector is the Female Culex mosquito."
+    },
+    {
+      "q": "What are the primary symptoms of Kwashiorkor protein deficiency?",
+      "a": "Muscles become thin, while the face and stomach become bulgy."
+    }
   ]
 }

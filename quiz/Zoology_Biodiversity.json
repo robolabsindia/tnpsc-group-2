@@ -1,80 +1,155 @@
 {
-  "title": "Bio-Diversity & Its Conservation Quiz",
+  "title": "Zoology: Bio-Diversity & Its Conservation Quiz",
   "description": "Test your knowledge of environmental organizations, protected areas, and biodiversity statistics.",
   "questions": [
     {
       "question": "Which of the following is the National Aquatic Animal of India?",
-      "options": [ "Saltwater Crocodile", "Gangetic Dolphin", "Gharial", "Olive Ridley Turtle" ],
+      "options": [
+        "Saltwater Crocodile",
+        "Gangetic Dolphin",
+        "Gharial",
+        "Olive Ridley Turtle"
+      ],
       "correctIndex": 1
     },
     {
       "question": "What is the State Flower of Tamil Nadu?",
-      "options": [ "Kurinji", "Gloriosa Lily", "Lotus", "Jasmine" ],
+      "options": [
+        "Kurinji",
+        "Gloriosa Lily",
+        "Lotus",
+        "Jasmine"
+      ],
       "correctIndex": 1
     },
     {
       "question": "According to the provided text, what is the total number of Wildlife Sanctuaries in India?",
-      "options": [ "166", "234", "442", "515" ],
+      "options": [
+        "166",
+        "234",
+        "442",
+        "515"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which of the following statements is TRUE regarding National Parks and Wildlife Sanctuaries?",
-      "options": [ "A National Park can be changed into a Wildlife Sanctuary.", "Human habitation is freely permitted in National Parks.", "A Wildlife Sanctuary can be upgraded and changed into a National Park.", "Harvesting timber is strictly allowed without permission in Sanctuaries." ],
+      "options": [
+        "A National Park can be changed into a Wildlife Sanctuary.",
+        "Human habitation is freely permitted in National Parks.",
+        "A Wildlife Sanctuary can be upgraded and changed into a National Park.",
+        "Harvesting timber is strictly allowed without permission in Sanctuaries."
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which was the first Biosphere Reserve established in India?",
-      "options": [ "Sundarbans", "Nilgiri", "Gulf of Mannar", "Nanda Devi" ],
+      "options": [
+        "Sundarbans",
+        "Nilgiri",
+        "Gulf of Mannar",
+        "Nanda Devi"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which of the following Biosphere Reserves is India's first Marine Biosphere Reserve?",
-      "options": [ "Great Nicobar", "Sundarbans", "Gulf of Mannar", "Agasthyamalai" ],
+      "options": [
+        "Great Nicobar",
+        "Sundarbans",
+        "Gulf of Mannar",
+        "Agasthyamalai"
+      ],
       "correctIndex": 2
     },
     {
       "question": "How many Biosphere Reserves in India are currently recognized by UNESCO?",
-      "options": [ "8", "11", "14", "18" ],
+      "options": [
+        "8",
+        "11",
+        "14",
+        "18"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which National Park in Tamil Nadu is the first Modern National Park in South India (established in 1940)?",
-      "options": [ "Guindy", "Mukurthi", "Mudumalai", "Indira Gandhi" ],
+      "options": [
+        "Guindy",
+        "Mukurthi",
+        "Mudumalai",
+        "Indira Gandhi"
+      ],
       "correctIndex": 2
     },
     {
       "question": "The Mukurthi National Park was primarily created to protect which keystone species?",
-      "options": [ "Bengal Tiger", "Asian Elephant", "Nilgiri Tahr", "Lion-tailed Macaque" ],
+      "options": [
+        "Bengal Tiger",
+        "Asian Elephant",
+        "Nilgiri Tahr",
+        "Lion-tailed Macaque"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which is the largest National Park in Tamil Nadu?",
-      "options": [ "Mudumalai National Park", "Indira Gandhi National Park", "Gulf of Mannar Marine NP", "Mukurthi National Park" ],
+      "options": [
+        "Mudumalai National Park",
+        "Indira Gandhi National Park",
+        "Gulf of Mannar Marine NP",
+        "Mukurthi National Park"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The Srivilliputhur Wildlife Sanctuary in Tamil Nadu was established to protect which specific animal?",
-      "options": [ "Blackbuck", "Grizzled Giant Squirrel", "Lion-tailed Macaque", "Nilgiri Tahr" ],
+      "options": [
+        "Blackbuck",
+        "Grizzled Giant Squirrel",
+        "Lion-tailed Macaque",
+        "Nilgiri Tahr"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which is the largest Wildlife Sanctuary in Tamil Nadu, known for having the maximum tiger resident area?",
-      "options": [ "Kalakkadu Mundanthurai", "Annamalai", "Sathyamangalam", "Meghamalai" ],
+      "options": [
+        "Kalakkadu Mundanthurai",
+        "Annamalai",
+        "Sathyamangalam",
+        "Meghamalai"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which is the oldest bird sanctuary in Tamil Nadu, established in 1936?",
-      "options": [ "Pulicat Lake", "Vedanthangal", "Kodiakkarai", "Suchindram Theroor" ],
+      "options": [
+        "Pulicat Lake",
+        "Vedanthangal",
+        "Kodiakkarai",
+        "Suchindram Theroor"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Under Project Elephant, which of the following is NOT one of the 4 elephant reserves in Tamil Nadu?",
-      "options": [ "Srivilliputhur", "Nilgiri", "Mudumalai", "Coimbatore" ],
+      "options": [
+        "Srivilliputhur",
+        "Nilgiri",
+        "Mudumalai",
+        "Coimbatore"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which is the latest (last declared) Wildlife Sanctuary in Tamil Nadu, established in 2012?",
-      "options": [ "Meghamalai", "Kanyakumari", "Sathyamangalam", "Vallanadu" ],
+      "options": [
+        "Meghamalai",
+        "Kanyakumari",
+        "Sathyamangalam",
+        "Vallanadu"
+      ],
       "correctIndex": 0
     }
   ]

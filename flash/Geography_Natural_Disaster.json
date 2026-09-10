@@ -1,27 +1,87 @@
 {
   "id": "tnpsc-geography-disaster-management-01",
-  "title": "Natural Calamities & Disaster Management Flashcards",
+  "title": "Geography: Natural Calamities & Disaster Management Flashcards",
   "description": "Key facts from TNPSC Group II Geography Disaster Management Chapter",
   "cards": [
-    { "q": "From which French word is the term 'Disaster' derived, and what does it mean?", "a": "'Disastre', meaning 'an evil star'." },
-    { "q": "What are the two broad categories of disasters?", "a": "Natural Disasters (earthquakes, floods, cyclones, etc.) and Man-Made Disasters (industrial/chemical accidents, nuclear accidents, etc.)." },
-    { "q": "Which coast of India is more vulnerable to cyclones - Eastern or Western?", "a": "The Eastern Coast (Bay of Bengal) is more cyclone-prone than the Western Coast (Arabian Sea)." },
-    { "q": "What are the three types of drought?", "a": "Meteorological Drought, Hydrological Drought, and Agricultural Drought." },
-    { "q": "What rooftop method is recommended for drought mitigation to retain water for various uses?", "a": "Rooftop water harvesting." },
-    { "q": "When did the 2004 Indian Ocean Tsunami occur and how many lives were lost?", "a": "26th December 2004; more than 3,00,000 lives were lost." },
-    { "q": "Which international system did India join after the 2004 Tsunami disaster?", "a": "The International Tsunami Warning System." },
-    { "q": "When did the Bhopal Gas Tragedy occur and which gas was leaked?", "a": "3rd December 1984; Methyl Isocyanate (MIC) gas leaked from the Union Carbide plant." },
-    { "q": "What are the four main phases of Disaster Management?", "a": "Prevention, Preparedness, Response, and Recovery/Rehabilitation." },
-    { "q": "Who heads the National Disaster Management Authority (NDMA)?", "a": "The Prime Minister." },
-    { "q": "Who heads the State Disaster Management Authority (SDMA)?", "a": "The Chief Minister." },
-    { "q": "Who heads the District Disaster Management Authority (DDMA)?", "a": "The District Collector/Magistrate." },
-    { "q": "Who heads the National Executive Committee (NEC) for disaster management?", "a": "The Home Secretary." },
-    { "q": "Who heads the State Executive Committee (SEC) for disaster management?", "a": "The Chief Secretary." },
-    { "q": "In which year was the Disaster Management Act enacted?", "a": "2005." },
-    { "q": "In which year was the National Policy on Disaster Management formulated?", "a": "2009." },
-    { "q": "What does FACT stand for in the context of the IFRC's disaster response?", "a": "Field Assessment and Coordination Team." },
-    { "q": "What does IEC stand for in the context of disaster awareness?", "a": "Information, Education, and Communication." },
-    { "q": "What specialized force has been established in India for disaster response?", "a": "National Disaster Response Force (NDRF)." },
-    { "q": "Name two key afforestation-related drought mitigation measures mentioned in the text.", "a": "1. Afforestation to retain humidity and promote precipitation. 2. Ban on cutting of trees and clearing of forests." }
+    {
+      "q": "From which French word is the term 'Disaster' derived, and what does it mean?",
+      "a": "'Disastre', meaning 'an evil star'."
+    },
+    {
+      "q": "What are the two broad categories of disasters?",
+      "a": "Natural Disasters (earthquakes, floods, cyclones, etc.) and Man-Made Disasters (industrial/chemical accidents, nuclear accidents, etc.)."
+    },
+    {
+      "q": "Which coast of India is more vulnerable to cyclones - Eastern or Western?",
+      "a": "The Eastern Coast (Bay of Bengal) is more cyclone-prone than the Western Coast (Arabian Sea)."
+    },
+    {
+      "q": "What are the three types of drought?",
+      "a": "Meteorological Drought, Hydrological Drought, and Agricultural Drought."
+    },
+    {
+      "q": "What rooftop method is recommended for drought mitigation to retain water for various uses?",
+      "a": "Rooftop water harvesting."
+    },
+    {
+      "q": "When did the 2004 Indian Ocean Tsunami occur and how many lives were lost?",
+      "a": "26th December 2004; more than 3,00,000 lives were lost."
+    },
+    {
+      "q": "Which international system did India join after the 2004 Tsunami disaster?",
+      "a": "The International Tsunami Warning System."
+    },
+    {
+      "q": "When did the Bhopal Gas Tragedy occur and which gas was leaked?",
+      "a": "3rd December 1984; Methyl Isocyanate (MIC) gas leaked from the Union Carbide plant."
+    },
+    {
+      "q": "What are the four main phases of Disaster Management?",
+      "a": "Prevention, Preparedness, Response, and Recovery/Rehabilitation."
+    },
+    {
+      "q": "Who heads the National Disaster Management Authority (NDMA)?",
+      "a": "The Prime Minister."
+    },
+    {
+      "q": "Who heads the State Disaster Management Authority (SDMA)?",
+      "a": "The Chief Minister."
+    },
+    {
+      "q": "Who heads the District Disaster Management Authority (DDMA)?",
+      "a": "The District Collector/Magistrate."
+    },
+    {
+      "q": "Who heads the National Executive Committee (NEC) for disaster management?",
+      "a": "The Home Secretary."
+    },
+    {
+      "q": "Who heads the State Executive Committee (SEC) for disaster management?",
+      "a": "The Chief Secretary."
+    },
+    {
+      "q": "In which year was the Disaster Management Act enacted?",
+      "a": "2005."
+    },
+    {
+      "q": "In which year was the National Policy on Disaster Management formulated?",
+      "a": "2009."
+    },
+    {
+      "q": "What does FACT stand for in the context of the IFRC's disaster response?",
+      "a": "Field Assessment and Coordination Team."
+    },
+    {
+      "q": "What does IEC stand for in the context of disaster awareness?",
+      "a": "Information, Education, and Communication."
+    },
+    {
+      "q": "What specialized force has been established in India for disaster response?",
+      "a": "National Disaster Response Force (NDRF)."
+    },
+    {
+      "q": "Name two key afforestation-related drought mitigation measures mentioned in the text.",
+      "a": "1. Afforestation to retain humidity and promote precipitation. 2. Ban on cutting of trees and clearing of forests."
+    }
   ]
 }

@@ -1,80 +1,155 @@
 {
-  "title": "Agriculture, Livestock & Fisheries Quiz",
+  "title": "Geography: Agriculture, Livestock & Fisheries Quiz",
   "description": "Test your knowledge of Indian agricultural patterns, crop requirements, livestock census, and fisheries.",
   "questions": [
     {
       "question": "What is the total percentage of 'Agricultural Land' (Net sown area + Fallow land) in India?",
-      "options": [ "46%", "54%", "60%", "68%" ],
+      "options": [
+        "46%",
+        "54%",
+        "60%",
+        "68%"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which state records the highest 'Intensity of Cropping' (189%) in India?",
-      "options": [ "Uttar Pradesh", "Haryana", "Punjab", "West Bengal" ],
+      "options": [
+        "Uttar Pradesh",
+        "Haryana",
+        "Punjab",
+        "West Bengal"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Crops like Wheat, Gram, Rapeseeds, and Mustard are primarily grown during which season?",
-      "options": [ "Kharif", "Rabi", "Zaid", "Perennial" ],
+      "options": [
+        "Kharif",
+        "Rabi",
+        "Zaid",
+        "Perennial"
+      ],
       "correctIndex": 1
     },
     {
       "question": "India holds which global rank in the production of Wheat?",
-      "options": [ "2nd", "3rd", "4th", "5th" ],
+      "options": [
+        "2nd",
+        "3rd",
+        "4th",
+        "5th"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which of the following millets cannot tolerate high heat and humidity and requires a temperature of 10-15°C?",
-      "options": [ "Jowar", "Bajra", "Ragi", "Barley" ],
+      "options": [
+        "Jowar",
+        "Bajra",
+        "Ragi",
+        "Barley"
+      ],
       "correctIndex": 3
     },
     {
       "question": "Which cash crop requires a minimum of 210 frost-free days for cultivation?",
-      "options": [ "Jute", "Sugarcane", "Cotton", "Tobacco" ],
+      "options": [
+        "Jute",
+        "Sugarcane",
+        "Cotton",
+        "Tobacco"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Tamil Nadu is noted for high yields and high sucrose content in which cash crop due to its long crushing period?",
-      "options": [ "Tea", "Coffee", "Sugarcane", "Rubber" ],
+      "options": [
+        "Tea",
+        "Coffee",
+        "Sugarcane",
+        "Rubber"
+      ],
       "correctIndex": 2
     },
     {
       "question": "What is the ideal altitude range for the cultivation of Coffee?",
-      "options": [ "300 - 450 m", "600 - 1600 m", "1000 - 2000 m", "Below 300 m" ],
+      "options": [
+        "300 - 450 m",
+        "600 - 1600 m",
+        "1000 - 2000 m",
+        "Below 300 m"
+      ],
       "correctIndex": 1
     },
     {
       "question": "In which year was the first Livestock Census conducted in India?",
-      "options": [ "1919", "1921", "1931", "1947" ],
+      "options": [
+        "1919",
+        "1921",
+        "1931",
+        "1947"
+      ],
       "correctIndex": 0
     },
     {
       "question": "According to the 2012 Livestock Census, which state has the largest population of Cattle?",
-      "options": [ "Uttar Pradesh", "Rajasthan", "Madhya Pradesh", "Andhra Pradesh" ],
+      "options": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Andhra Pradesh"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which state has the largest population of Sheep in India?",
-      "options": [ "Rajasthan", "Andhra Pradesh", "Karnataka", "Tamil Nadu" ],
+      "options": [
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
       "correctIndex": 1
     },
     {
       "question": "What percentage of India's total fish production is contributed by the inland sector?",
-      "options": [ "35%", "45%", "55%", "65%" ],
+      "options": [
+        "35%",
+        "45%",
+        "55%",
+        "65%"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which of the following states is NOT among the top 5 fish-producing states in India?",
-      "options": [ "Gujarat", "Kerala", "West Bengal", "Karnataka" ],
+      "options": [
+        "Gujarat",
+        "Kerala",
+        "West Bengal",
+        "Karnataka"
+      ],
       "correctIndex": 2
     },
     {
       "question": "According to the India State of Forest Report, what percentage of the country's total geographical area is covered by forests?",
-      "options": [ "18.50%", "21.06%", "23.40%", "25.15%" ],
+      "options": [
+        "18.50%",
+        "21.06%",
+        "23.40%",
+        "25.15%"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which state has the maximum area under forest cover in India?",
-      "options": [ "Arunachal Pradesh", "Chhattisgarh", "Madhya Pradesh", "Maharashtra" ],
+      "options": [
+        "Arunachal Pradesh",
+        "Chhattisgarh",
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
       "correctIndex": 2
     }
   ]

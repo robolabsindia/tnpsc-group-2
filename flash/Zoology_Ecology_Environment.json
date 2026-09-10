@@ -1,25 +1,79 @@
 {
   "id": "tnpsc-zoology-ecology-environment-01",
-  "title": "Ecology & Environment Flashcards",
+  "title": "Zoology: Ecology & Environment Flashcards",
   "description": "Key facts from TNPSC Group II Zoology Ecology & Environment Chapter",
   "cards": [
-    { "q": "Who is known as the Father of Ecology?", "a": "Ernst Haeckel (1869)." },
-    { "q": "Who is known as the Father of Indian Ecology?", "a": "R. Misra." },
-    { "q": "Who introduced the term 'Ecosystem' and in what year?", "a": "A.G. Tansley in 1935." },
-    { "q": "According to Lindeman's 10% Law (1942), what happens to energy in a food chain?", "a": "Only 10% of energy is transferred from one trophic level to the next." },
-    { "q": "What type of ecosystem is a pond or lake classified as?", "a": "Lentic (standing water) freshwater ecosystem." },
-    { "q": "What is the specific homopolymer name of the bioplastic produced by the microorganism Alcaligenes?", "a": "Polyhydroxybutyrate." },
-    { "q": "Which bacteria is used to demolish microorganisms in domestic waste water?", "a": "Nitrosomonas europaea." },
-    { "q": "Which device is 99% effective in reducing serious smoke nuisances and attracting particles emitted by power plants?", "a": "Electrostatic precipitator." },
-    { "q": "When and where was the Ozone Hole first discovered?", "a": "1984 in Antarctica (coined by Shaan Bean / discovered by NASA)." },
-    { "q": "What unit is used to measure the density of the ozone layer?", "a": "Dobson Unit (DU)." },
-    { "q": "What is the most abundant greenhouse gas in Earth's atmosphere by percentage contribution to the greenhouse effect?", "a": "Carbon dioxide (CO2) at 60%." },
-    { "q": "What is the noise level of Jet planes measured in decibels (dB)?", "a": "145 dB." },
-    { "q": "In what year was the Kyoto Protocol concluded to reduce greenhouse gas emissions?", "a": "1997." },
-    { "q": "Who was the leader of the Chipko Movement?", "a": "Sunderlal Bahuguna." },
-    { "q": "The Silent Valley Movement (1973) in Kerala aimed to protect which river from a hydroelectric project?", "a": "Kunthipuzha river." },
-    { "q": "Who are the leading spokespersons of the Narmada Bachao Andolan (NBA)?", "a": "Medha Patkar and Baba Amte." },
-    { "q": "Who coined the term 'Global Village'?", "a": "Marshall McLuhan." },
-    { "q": "In which year was the M.S. Swaminathan Research Foundation (MSSRF) established?", "a": "1988." }
+    {
+      "q": "Who is known as the Father of Ecology?",
+      "a": "Ernst Haeckel (1869)."
+    },
+    {
+      "q": "Who is known as the Father of Indian Ecology?",
+      "a": "R. Misra."
+    },
+    {
+      "q": "Who introduced the term 'Ecosystem' and in what year?",
+      "a": "A.G. Tansley in 1935."
+    },
+    {
+      "q": "According to Lindeman's 10% Law (1942), what happens to energy in a food chain?",
+      "a": "Only 10% of energy is transferred from one trophic level to the next."
+    },
+    {
+      "q": "What type of ecosystem is a pond or lake classified as?",
+      "a": "Lentic (standing water) freshwater ecosystem."
+    },
+    {
+      "q": "What is the specific homopolymer name of the bioplastic produced by the microorganism Alcaligenes?",
+      "a": "Polyhydroxybutyrate."
+    },
+    {
+      "q": "Which bacteria is used to demolish microorganisms in domestic waste water?",
+      "a": "Nitrosomonas europaea."
+    },
+    {
+      "q": "Which device is 99% effective in reducing serious smoke nuisances and attracting particles emitted by power plants?",
+      "a": "Electrostatic precipitator."
+    },
+    {
+      "q": "When and where was the Ozone Hole first discovered?",
+      "a": "1984 in Antarctica (coined by Shaan Bean / discovered by NASA)."
+    },
+    {
+      "q": "What unit is used to measure the density of the ozone layer?",
+      "a": "Dobson Unit (DU)."
+    },
+    {
+      "q": "What is the most abundant greenhouse gas in Earth's atmosphere by percentage contribution to the greenhouse effect?",
+      "a": "Carbon dioxide (CO2) at 60%."
+    },
+    {
+      "q": "What is the noise level of Jet planes measured in decibels (dB)?",
+      "a": "145 dB."
+    },
+    {
+      "q": "In what year was the Kyoto Protocol concluded to reduce greenhouse gas emissions?",
+      "a": "1997."
+    },
+    {
+      "q": "Who was the leader of the Chipko Movement?",
+      "a": "Sunderlal Bahuguna."
+    },
+    {
+      "q": "The Silent Valley Movement (1973) in Kerala aimed to protect which river from a hydroelectric project?",
+      "a": "Kunthipuzha river."
+    },
+    {
+      "q": "Who are the leading spokespersons of the Narmada Bachao Andolan (NBA)?",
+      "a": "Medha Patkar and Baba Amte."
+    },
+    {
+      "q": "Who coined the term 'Global Village'?",
+      "a": "Marshall McLuhan."
+    },
+    {
+      "q": "In which year was the M.S. Swaminathan Research Foundation (MSSRF) established?",
+      "a": "1988."
+    }
   ]
 }

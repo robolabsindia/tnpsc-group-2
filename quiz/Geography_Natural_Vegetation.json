@@ -1,80 +1,155 @@
 {
-  "title": "Natural Vegetation Quiz",
+  "title": "Geography: Natural Vegetation Quiz",
   "description": "Test your knowledge of India's forests, wildlife conservation, and natural vegetation.",
   "questions": [
     {
       "question": "Which of the following trees are predominantly found in Tropical Evergreen forests?",
-      "options": [ "Teak, sal, and shisham", "Rosewood, mahogany, and ebony", "Babool, ber, and neem", "Chir pine and deodar" ],
+      "options": [
+        "Teak, sal, and shisham",
+        "Rosewood, mahogany, and ebony",
+        "Babool, ber, and neem",
+        "Chir pine and deodar"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Dry Deciduous forests are characterized by which type of landscape?",
-      "options": [ "Dense, multi-layered canopy", "Parkland landscape with open stretches", "Scrub vegetation with thorny bushes", "Alpine pastures and meadows" ],
+      "options": [
+        "Dense, multi-layered canopy",
+        "Parkland landscape with open stretches",
+        "Scrub vegetation with thorny bushes",
+        "Alpine pastures and meadows"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The temperate forests found in the higher regions of the Nilgiris and Palani hills are locally known as:",
-      "options": [ "Sholas", "Mangroves", "Chir Pines", "Tundra" ],
+      "options": [
+        "Sholas",
+        "Mangroves",
+        "Chir Pines",
+        "Tundra"
+      ],
       "correctIndex": 0
     },
     {
       "question": "India's mangrove forests cover 6,740 sq. km, which accounts for what percentage of the world's total mangrove cover?",
-      "options": [ "3%", "5%", "7%", "12%" ],
+      "options": [
+        "3%",
+        "5%",
+        "7%",
+        "12%"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Species that are found only in specific localized areas, such as the Andaman wild pig, are known as:",
-      "options": [ "Endangered Species", "Exotic Species", "Endemic Species", "Extinct Species" ],
+      "options": [
+        "Endangered Species",
+        "Exotic Species",
+        "Endemic Species",
+        "Extinct Species"
+      ],
       "correctIndex": 2
     },
     {
       "question": "India is home to approximately what percentage of the total number of species estimated in the world?",
-      "options": [ "4%", "8%", "15%", "22%" ],
+      "options": [
+        "4%",
+        "8%",
+        "15%",
+        "22%"
+      ],
       "correctIndex": 1
     },
     {
       "question": "In which year was the Indian Wildlife Protection Act enacted to ban hunting and restrict wildlife trade?",
-      "options": [ "1972", "1980", "1986", "1990" ],
+      "options": [
+        "1972",
+        "1980",
+        "1986",
+        "1990"
+      ],
       "correctIndex": 0
     },
     {
       "question": "When was 'Project Tiger' launched in India?",
-      "options": [ "1972", "1973", "1980", "1986" ],
+      "options": [
+        "1972",
+        "1973",
+        "1980",
+        "1986"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which category of forests constitutes 54.4% of India's total forest land and is considered the most valuable for conservation?",
-      "options": [ "Protected Forests", "Unclassed Forests", "Reserved Forests", "Sacred Groves" ],
+      "options": [
+        "Protected Forests",
+        "Unclassed Forests",
+        "Reserved Forests",
+        "Sacred Groves"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which Indian state has the largest area under permanent forests?",
-      "options": [ "Arunachal Pradesh", "Madhya Pradesh", "Chhattisgarh", "Maharashtra" ],
+      "options": [
+        "Arunachal Pradesh",
+        "Madhya Pradesh",
+        "Chhattisgarh",
+        "Maharashtra"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The 'Chipko Andolan' was primarily associated with which environmental cause?",
-      "options": [ "Tiger conservation", "Resisting deforestation and encouraging afforestation", "Protecting mangroves", "Cleaning river basins" ],
+      "options": [
+        "Tiger conservation",
+        "Resisting deforestation and encouraging afforestation",
+        "Protecting mangroves",
+        "Cleaning river basins"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Multi-purpose river projects and dams like Bhakra Nangal and Hirakud were famously proclaimed as:",
-      "options": [ "The lifelines of the nation", "Temples of modern India", "Green gold reserves", "Ecological sponges" ],
+      "options": [
+        "The lifelines of the nation",
+        "Temples of modern India",
+        "Green gold reserves",
+        "Ecological sponges"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which altitude zone in the Himalayas is characterized by Alpine forests and pastures used for transhumance by tribes like the Gujjars and Bakarwals?",
-      "options": [ "1,000 - 2,000 m", "1,500 - 1,750 m", "2,000 - 3,000 m", "3,000 - 4,000 m" ],
+      "options": [
+        "1,000 - 2,000 m",
+        "1,500 - 1,750 m",
+        "2,000 - 3,000 m",
+        "3,000 - 4,000 m"
+      ],
       "correctIndex": 3
     },
     {
       "question": "In 1990, an amendment to the Wildlife Act added which of the following to the protected list for the first time?",
-      "options": [ "Marine reptiles", "Butterflies and moths", "Plants", "Migratory birds" ],
+      "options": [
+        "Marine reptiles",
+        "Butterflies and moths",
+        "Plants",
+        "Migratory birds"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Tropical Thorn forests, consisting of grasses, shrubs, and scrub vegetation, are typically found in areas receiving less than what amount of rainfall?",
-      "options": [ "50 cm", "100 cm", "150 cm", "200 cm" ],
+      "options": [
+        "50 cm",
+        "100 cm",
+        "150 cm",
+        "200 cm"
+      ],
       "correctIndex": 0
     }
   ]

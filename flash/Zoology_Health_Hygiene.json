@@ -1,22 +1,67 @@
 {
   "id": "tnpsc-zoology-health-hygiene-01",
-  "title": "Health & Hygiene Flashcards",
+  "title": "Zoology: Health & Hygiene Flashcards",
   "description": "Key facts from TNPSC Group II Zoology Health & Hygiene Chapter",
   "cards": [
-    { "q": "What is the caloric value provided by 1 gram of Fat?", "a": "9.3 kcal/gm." },
-    { "q": "What is the caloric value provided by 1 gram of Protein?", "a": "4.3 kcal/gm." },
-    { "q": "In 100 grams of Soya, what is the approximate protein content?", "a": "40 grams." },
-    { "q": "What is the formula to calculate Body Mass Index (BMI)?", "a": "Body weight (kg) divided by [Height (m)]²." },
-    { "q": "What BMI range is considered 'correct' or normal weight?", "a": "18.5 to 24.9." },
-    { "q": "Who is considered the Father of Siddha medicine?", "a": "Agasthiar." },
-    { "q": "Where is the National Institute of Homoeopathy located?", "a": "West Bengal." },
-    { "q": "Where is the National Institute of Unani medicine located?", "a": "Bengaluru, Karnataka." },
-    { "q": "What are 'interferons' an example of in the innate immune system?", "a": "Cytokine barriers (produced by viral-infected cells)." },
-    { "q": "Which specific antibody is abundantly found in the mother's colostrum?", "a": "IgA." },
-    { "q": "What type of immunity is acquired through the injection of immune serum (Gamma globulin)?", "a": "Artificial Passive Immunity." },
-    { "q": "Which vaccine is administered to a newborn baby?", "a": "BCG." },
-    { "q": "At what age is the Measles vaccine typically administered?", "a": "9 to 12 months." },
-    { "q": "Which vaccine is given between 1 to 2 years of age?", "a": "MMR (Measles, Mumps, Rubella)." },
-    { "q": "What is the daily caloric requirement for an Indian man doing heavy work?", "a": "3880 kcal." }
+    {
+      "q": "What is the caloric value provided by 1 gram of Fat?",
+      "a": "9.3 kcal/gm."
+    },
+    {
+      "q": "What is the caloric value provided by 1 gram of Protein?",
+      "a": "4.3 kcal/gm."
+    },
+    {
+      "q": "In 100 grams of Soya, what is the approximate protein content?",
+      "a": "40 grams."
+    },
+    {
+      "q": "What is the formula to calculate Body Mass Index (BMI)?",
+      "a": "Body weight (kg) divided by [Height (m)]²."
+    },
+    {
+      "q": "What BMI range is considered 'correct' or normal weight?",
+      "a": "18.5 to 24.9."
+    },
+    {
+      "q": "Who is considered the Father of Siddha medicine?",
+      "a": "Agasthiar."
+    },
+    {
+      "q": "Where is the National Institute of Homoeopathy located?",
+      "a": "West Bengal."
+    },
+    {
+      "q": "Where is the National Institute of Unani medicine located?",
+      "a": "Bengaluru, Karnataka."
+    },
+    {
+      "q": "What are 'interferons' an example of in the innate immune system?",
+      "a": "Cytokine barriers (produced by viral-infected cells)."
+    },
+    {
+      "q": "Which specific antibody is abundantly found in the mother's colostrum?",
+      "a": "IgA."
+    },
+    {
+      "q": "What type of immunity is acquired through the injection of immune serum (Gamma globulin)?",
+      "a": "Artificial Passive Immunity."
+    },
+    {
+      "q": "Which vaccine is administered to a newborn baby?",
+      "a": "BCG."
+    },
+    {
+      "q": "At what age is the Measles vaccine typically administered?",
+      "a": "9 to 12 months."
+    },
+    {
+      "q": "Which vaccine is given between 1 to 2 years of age?",
+      "a": "MMR (Measles, Mumps, Rubella)."
+    },
+    {
+      "q": "What is the daily caloric requirement for an Indian man doing heavy work?",
+      "a": "3880 kcal."
+    }
   ]
 }

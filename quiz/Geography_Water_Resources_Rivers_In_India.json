@@ -1,80 +1,155 @@
 {
-  "title": "Water Resources & Rivers Quiz",
+  "title": "Geography: Water Resources & Rivers Quiz",
   "description": "Indian physiography, drainage systems, and Tamil Nadu geography.",
   "questions": [
     {
       "question": "What is the total geographical area of India?",
-      "options": [ "32,87,263 sq.km", "28,45,000 sq.km", "35,12,450 sq.km", "41,00,000 sq.km" ],
+      "options": [
+        "32,87,263 sq.km",
+        "28,45,000 sq.km",
+        "35,12,450 sq.km",
+        "41,00,000 sq.km"
+      ],
       "correctIndex": 0
     },
     {
       "question": "The McMahon Line defines the boundary between India and which country?",
-      "options": [ "Pakistan", "Afghanistan", "China", "Nepal" ],
+      "options": [
+        "Pakistan",
+        "Afghanistan",
+        "China",
+        "Nepal"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which pass is located in Sikkim?",
-      "options": [ "Shipkila", "Nathu La", "Zojila", "Lipul Lekh" ],
+      "options": [
+        "Shipkila",
+        "Nathu La",
+        "Zojila",
+        "Lipul Lekh"
+      ],
       "correctIndex": 1
     },
     {
       "question": "The 'Duns' and 'Duars' are longitudinal valleys found in which Himalayan range?",
-      "options": [ "Himadri", "Himachal", "Shiwalik", "Trans-Himalayas" ],
+      "options": [
+        "Himadri",
+        "Himachal",
+        "Shiwalik",
+        "Trans-Himalayas"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which river is known as the 'Dakshin Ganga'?",
-      "options": [ "Krishna", "Kaveri", "Godavari", "Mahanadi" ],
+      "options": [
+        "Krishna",
+        "Kaveri",
+        "Godavari",
+        "Mahanadi"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Where is the Sardar Sarovar Dam located?",
-      "options": [ "Across the Tapi river", "Across the Narmada river", "Across the Mahanadi river", "Across the Krishna river" ],
+      "options": [
+        "Across the Tapi river",
+        "Across the Narmada river",
+        "Across the Mahanadi river",
+        "Across the Krishna river"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which river forms the highest waterfall in India (Jog/Gersoppe Falls)?",
-      "options": [ "Bharathpuza", "Shravati", "Periyar", "Mandovi" ],
+      "options": [
+        "Bharathpuza",
+        "Shravati",
+        "Periyar",
+        "Mandovi"
+      ],
       "correctIndex": 1
     },
     {
       "question": "Which of the following rivers does NOT fall into the sea but is lost in a marshy desert?",
-      "options": [ "Sabarmati", "Mahi", "Luni", "Periyar" ],
+      "options": [
+        "Sabarmati",
+        "Mahi",
+        "Luni",
+        "Periyar"
+      ],
       "correctIndex": 2
     },
     {
       "question": "What is the normal annual rainfall of Tamil Nadu?",
-      "options": [ "945 mm", "1050 mm", "820 mm", "1200 mm" ],
+      "options": [
+        "945 mm",
+        "1050 mm",
+        "820 mm",
+        "1200 mm"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Tamil Nadu's coastline is the second longest in India. Which state has the longest?",
-      "options": [ "Maharashtra", "Andhra Pradesh", "Tamil Nadu", "Gujarat" ],
+      "options": [
+        "Maharashtra",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Gujarat"
+      ],
       "correctIndex": 3
     },
     {
       "question": "The confluence of the warm Gulf Stream and cold Labrador current produces thick fog near:",
-      "options": [ "Newfoundland", "Grand Bank", "Sargasso Sea", "Bay of Fundy" ],
+      "options": [
+        "Newfoundland",
+        "Grand Bank",
+        "Sargasso Sea",
+        "Bay of Fundy"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Which drainage pattern resembles the branches of a tree?",
-      "options": [ "Trellis", "Radial", "Dendritic", "Rectangular" ],
+      "options": [
+        "Trellis",
+        "Radial",
+        "Dendritic",
+        "Rectangular"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Chambal, Sind, Ken, Betwa, and Son are examples of which type of rivers?",
-      "options": [ "Antecedent", "Consequent", "Subsequent", "Superimposed" ],
+      "options": [
+        "Antecedent",
+        "Consequent",
+        "Subsequent",
+        "Superimposed"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which island was formerly known as Pigmalion Point?",
-      "options": [ "Great Nicobar", "Indira Point", "Pamban Island", "Majuli" ],
+      "options": [
+        "Great Nicobar",
+        "Indira Point",
+        "Pamban Island",
+        "Majuli"
+      ],
       "correctIndex": 1
     },
     {
       "question": "What percentage of Tamil Nadu's rainfall is contributed by the North East Monsoon?",
-      "options": [ "32%", "48%", "55%", "20%" ],
+      "options": [
+        "32%",
+        "48%",
+        "55%",
+        "20%"
+      ],
       "correctIndex": 1
     }
   ]
