@@ -1,0 +1,81 @@
+{
+  "title": "Minerals in India Quiz",
+  "description": "Indian mineral resources, coal types, and oil refineries.",
+  "questions": [
+    {
+      "question": "Which of the following iron ores has the highest iron content (70%) and possesses magnetic properties?",
+      "options": [ "Haematite", "Limonite", "Magnetite", "Siderite" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which Indian state holds the largest percentage (25.7%) of the country's iron ore reserves?",
+      "options": [ "Karnataka", "Orissa", "Jharkhand", "Chhattisgarh" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is India's global rank in the production of Manganese?",
+      "options": [ "3rd", "4th", "5th", "7th" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Bauxite is a clay-like substance that serves as the primary ore for which metal?",
+      "options": [ "Iron", "Copper", "Aluminium", "Zinc" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which industry consumes approximately 75% of the total limestone produced in India?",
+      "options": [ "Iron and Steel", "Chemical", "Cement", "Fertilizer" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of coal contains 80-90% carbon, has no volatile matter, and possesses the highest heating capacity?",
+      "options": [ "Peat", "Lignite", "Bituminous", "Anthracite" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Approximately 75% of India's Lignite coal production comes from which location?",
+      "options": [ "Jharia (Jharkhand)", "Neyveli (Tamil Nadu)", "Raniganj (West Bengal)", "Singrauli (MP)" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The coalfields located in the Damodar, Mahanadi, and Godavari river valleys belong to which geological category?",
+      "options": [ "Tertiary Coalfields", "Gondwana Coalfields", "Cretaceous Coalfields", "Jurassic Coalfields" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is the oldest oil-producing region in India?",
+      "options": [ "Gujarat Coast", "Mumbai High", "Brahmaputra Valley", "Krishna-Godavari Delta" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In which year was the first oil refinery in India commissioned at Digboi?",
+      "options": [ "1895", "1901", "1924", "1947" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which major off-shore oilfield was discovered by ONGC in 1974?",
+      "options": [ "Bassein", "Aliabet", "Mumbai High", "Tapti" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which state is the largest producer of Manganese in India, contributing about 33% of the national production?",
+      "options": [ "Madhya Pradesh", "Karnataka", "Maharashtra", "Orissa" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the carbon content range for Bituminous coal?",
+      "options": [ "Less than 40%", "40% to 60%", "60% to 80%", "80% to 90%" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following non-metallic minerals is also classified as a 'mineral fuel'?",
+      "options": [ "Mica", "Limestone", "Gypsum", "Coal" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The Jamnagar oil refinery, one of the largest in the world, is located in which state?",
+      "options": [ "Maharashtra", "Gujarat", "Rajasthan", "Haryana" ],
+      "correctIndex": 1
+    }
+  ]
+}
