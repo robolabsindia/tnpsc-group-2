@@ -1,0 +1,81 @@
+{
+  "title": "Genetics Quiz",
+  "description": "Test your knowledge of Mendel's laws, genetic engineering, cloning, and stem cells.",
+  "questions": [
+    {
+      "question": "Who is known as the Father of Genetics?",
+      "options": [ "Hugo de Vries", "G.J. Mendel", "Carl Correns", "Barbara McClintock" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which plant did Mendel use for his genetic experiments?",
+      "options": [ "Oenothera lamarckiana", "Maize", "Pisum sativum", "Arabidopsis" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the phenotypic ratio of a monohybrid cross?",
+      "options": [ "1:2:1", "9:3:3:1", "3:1", "1:1" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the phenotypic ratio of a dihybrid cross?",
+      "options": [ "3:1", "1:2:1", "1:1:1:1", "9:3:3:1" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Mendel's work was rediscovered in 1900 by which of the following scientists?",
+      "options": [ "Watson, Crick, and Franklin", "Hugo de Vries, Carl Correns, and Von Tschermak", "Darwin, Wallace, and Lamarck", "Morgan, Sturtevant, and Bridges" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who discovered Jumping Genes (Transposable Elements)?",
+      "options": [ "G.J. Mendel", "Barbara McClintock", "Hugo de Vries", "Carl Correns" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Restriction Enzymes are also known as:",
+      "options": [ "Molecular Paste", "Genetic Scissors", "DNA Ligase", "Polymerase" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is DNA Ligase commonly called in genetic engineering?",
+      "options": [ "Genetic Scissors", "Molecular Scissors", "Molecular Paste", "Genetic Glue" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the most famous cloned mammal?",
+      "options": [ "Dolly the Sheep", "CC the Cat", "Snuppy the Dog", "Zhong Zhong the Monkey" ],
+      "correctIndex": 0
+    },
+    {
+      "question": "How many pairs of chromosomes do humans have?",
+      "options": [ "21 pairs", "22 pairs", "23 pairs", "24 pairs" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of stem cells can give rise to ALL cell types including extra-embryonic cells (placenta)?",
+      "options": [ "Pluripotent", "Multipotent", "Totipotent", "Unipotent" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a Mendelian genetic disorder?",
+      "options": [ "Down's Syndrome", "Klinefelter's Syndrome", "Turner's Syndrome", "Sickle Cell Anaemia" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is a Chromosomal genetic disorder?",
+      "options": [ "Haemophilia", "Phenylketonuria", "Down's Syndrome", "Sickle Cell Anaemia" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Punnett Square is also known as:",
+      "options": [ "Mendel's Square", "Chequered Square", "Genetic Grid", "Punnett Matrix" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the 21st century called in relation to genetics?",
+      "options": [ "The Protein Century", "The DNA Century", "The Gene Century", "The Genome Century" ],
+      "correctIndex": 2
+    }
+  ]
+}

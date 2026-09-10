@@ -1,0 +1,81 @@
+{
+  "title": "Ecology & Environment Quiz",
+  "description": "Test your knowledge of ecosystems, pollution, biogeochemical cycles, and environmental movements.",
+  "questions": [
+    {
+      "question": "Who introduced the term 'Ecosystem' in 1935?",
+      "options": [ "Ernst Haeckel", "A.G. Tansley", "R. Misra", "Lindeman" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 10% Law of energy transfer in a food chain was given by:",
+      "options": [ "Lindeman (1942)", "Tansley (1935)", "Haeckel (1869)", "McLuhan" ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Running water ecosystems like streams and rivers are known as:",
+      "options": [ "Lentic ecosystems", "Lotic ecosystems", "Benthic ecosystems", "Marine ecosystems" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bioplastics produced by the microorganism Alcaligenes are chemically known as:",
+      "options": [ "Polystyrene", "Polyvinyl chloride", "Polyhydroxybutyrate", "Polyethylene terephthalate" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which bacteria is specifically used to demolish microorganisms in domestic waste water?",
+      "options": [ "Escherichia coli", "Nitrosomonas europaea", "Lactobacillus", "Salmonella typhosa" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Acid rain is primarily caused by the emission of which gases?",
+      "options": [ "Carbon dioxide and Methane", "Sulphur dioxide and Nitrogen oxides", "CFCs and Halons", "Ozone and Argon" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Ozone Hole was first discovered over Antarctica in 1984. Who coined the name?",
+      "options": [ "Van Marron", "Shaan Bean", "Charles Richter", "Alexander von Humboldt" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the density unit used to measure the thickness of the ozone layer?",
+      "options": [ "Decibel (dB)", "Dobson Unit (DU)", "Parts per million (ppm)", "Pascal (Pa)" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is the most abundant greenhouse gas contributing to the greenhouse effect (approx. 60%)?",
+      "options": [ "Methane (CH4)", "Nitrous oxide (N2O)", "Carbon dioxide (CO2)", "CFCs" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The noise level of Jet planes is approximately:",
+      "options": [ "85 dB", "90 dB", "120 dB", "145 dB" ],
+      "correctIndex": 3
+    },
+    {
+      "question": "In which year was the Kyoto Protocol concluded in Japan?",
+      "options": [ "1986", "1992", "1997", "2005" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who led the Chipko Movement to protect trees in the Garhwal region?",
+      "options": [ "Medha Patkar", "Baba Amte", "Sunderlal Bahuguna", "M.S. Swaminathan" ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Silent Valley Movement (1973) in Kerala was aimed at saving an evergreen tropical forest and which major river?",
+      "options": [ "Periyar", "Kunthipuzha", "Bharathapuzha", "Pamba" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Narmada Bachao Andolan (NBA) is a social movement against large dams. Who are its leading spokespersons?",
+      "options": [ "Sunderlal Bahuguna and Baba Amte", "Medha Patkar and Baba Amte", "M.S. Swaminathan and Medha Patkar", "Marshall McLuhan and Medha Patkar" ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Bishnois Movement, where people sacrificed their lives to protect trees by hugging them, originated in which village in Rajasthan?",
+      "options": [ "Khejarli", "Jodhpur", "Jaipur", "Udaipur" ],
+      "correctIndex": 0
+    }
+  ]
+}

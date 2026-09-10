@@ -1,0 +1,32 @@
+{
+  "id": "tnpsc-zoology-genetics-01",
+  "title": "Genetics Flashcards",
+  "description": "Key facts from TNPSC Group II Zoology Genetics Chapter",
+  "cards": [
+    { "q": "Who is known as the Father of Genetics?", "a": "G.J. Mendel." },
+    { "q": "In which year was Mendel born and where?", "a": "1822 in Czechoslovakia (Heinzendorf, Silesia)." },
+    { "q": "For how many years did Mendel conduct his research and where?", "a": "9 years (1856-1865) in Brunn." },
+    { "q": "Which plant did Mendel use for his experiments?", "a": "Pisum sativum (Garden Peas)." },
+    { "q": "How many characters did Mendel study out of the total available?", "a": "7 characters out of 34." },
+    { "q": "What is the phenotypic ratio of a monohybrid cross?", "a": "3:1." },
+    { "q": "What is the genotypic ratio of a monohybrid cross?", "a": "1:2:1." },
+    { "q": "What is the phenotypic ratio of a dihybrid cross?", "a": "9:3:3:1." },
+    { "q": "Who made the square to prove Mendel's results and what is it called?", "a": "Punnett made it; it is called the Punnett Square or Chequered Square." },
+    { "q": "Who rediscovered Mendel's work in 1900?", "a": "Hugo de Vries (Holland), Carl Correns (Germany), and Erich Von Tschermak (Austria)." },
+    { "q": "Who discovered Jumping Genes and on which organism?", "a": "Barbara McClintock, working on Maize." },
+    { "q": "What are Jumping Genes also called?", "a": "Transposable elements, transposons, or insertion elements." },
+    { "q": "What is the difference between homozygous and heterozygous?", "a": "Homozygous has identical alleles (TT, tt); Heterozygous has dissimilar alleles (Tt)." },
+    { "q": "What is Gene Therapy?", "a": "Replacement of corrective genes in place of defective genes in humans." },
+    { "q": "What are the two types of Gene Therapy?", "a": "Somatic cell gene therapy and Germ line cell gene therapy." },
+    { "q": "How many pairs of chromosomes do humans have?", "a": "23 pairs (Male: XY, Female: XX)." },
+    { "q": "What are Restriction Enzymes also called?", "a": "Genetic Scissors or Restriction Endonucleases." },
+    { "q": "What is DNA Ligase called in genetic engineering?", "a": "Molecular Paste." },
+    { "q": "What is the most famous cloned mammal?", "a": "Dolly the Sheep." },
+    { "q": "What is the difference between Totipotent and Pluripotent stem cells?", "a": "Totipotent can give rise to all 220 cell types plus extra-embryonic cells (placenta); Pluripotent can give rise to all body cell types but NOT the placenta." },
+    { "q": "What is the 21st century called in relation to genetics?", "a": "The Gene Century." },
+    { "q": "What is a Test Cross?", "a": "A cross between an organism whose genotype is unknown and an organism that is homozygous recessive for that trait." },
+    { "q": "Name the Mendelian genetic disorders.", "a": "Haemophilia, Sickle Cell Anaemia, and Phenylketonuria." },
+    { "q": "Name the Chromosomal genetic disorders.", "a": "Down's Syndrome, Klinefelter's Syndrome, and Turner's Syndrome." },
+    { "q": "What is a Bio-Sensor?", "a": "A device which uses a living organism or biological molecules (enzymes or antibodies) to detect the presence of chemicals." }
+  ]
+}
