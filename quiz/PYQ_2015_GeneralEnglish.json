@@ -1,0 +1,1311 @@
+{
+  "title": "TNPSC Group-2 2015 - English (English)",
+  "description": "TNPSC previous year exam questions for 2015 Group-2 (English) in English.",
+  "year": "2015",
+  "group": "Group-2",
+  "subject": "English",
+  "language": "english",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 201299,
+      "question": "Match the words with the suffices\n(A) astonish\n(B) potential\n(C) ferocious\n(D) success",
+      "options": [
+        "(A) - ment, (B) - ity, (C) - ness, (D) - ful",
+        "(A) - ity, (B) - ment, (C) - ful, (D) - ness",
+        "(A) - ness, (B) - ful, (C) - ment, (D) - ity",
+        "(A) - ful, (B) - ness, (C) - ity, (D) - ment"
+      ],
+      "correctIndex": 0,
+      "explanation": "- astonish + -ment = astonishment: adds the noun-forming suffix -ment to denote the action or result of astonishing.  \n- potential + -ity = potentiality: adds the abstract noun suffix -ity to express the state or quality of being potential.  \n- ferocious + -ness = ferociousness: adds the noun-forming suffix -ness to denote the quality or state of being ferocious.  \n- success + -ful = successful: adds the adjective-forming suffix -ful to mean full of success or achieving desired results.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201300,
+      "question": "Pick out the sentence with the wrong usage of articles:",
+      "options": [
+        "The cow is a useful animal",
+        "The rose is the sweetest of all flowers",
+        "Let's go to the park",
+        "The banyan is a kind of a fig tree"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence \"The banyan is a kind of a fig tree\" contains incorrect article usage. In this context, the phrase \"a kind of\" should not be followed by another indefinite article \"a.\" The correct form should be \"The banyan is a kind of fig tree,\" as \"kind of\" already implies a general classification. The other options correctly use articles: \"The cow is a useful animal\" uses \"a\" appropriately for a singular countable noun, \"The rose is the sweetest of all flowers\" correctly uses \"the\" to specify a particular rose, and \"Let's go to the park\" correctly uses \"the\" to refer to a specific park.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201301,
+      "question": "Fill in the blanks with suitable prepositions:\nThe most popular therapy _______________ getting rid ____________ hiccups is to have someone to scare you when you least expect it.",
+      "options": [
+        "to, away",
+        "on, to",
+        "off, for",
+        "for, of"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct prepositions in the sentence are \"for\" and \"of.\" The phrase \"therapy for getting rid of hiccups\" indicates that the therapy is intended to address the issue of hiccups. \"For\" is used to show the purpose or intended outcome of the therapy, while \"of\" is used to indicate what is being eliminated, which in this case is hiccups. Therefore, the complete sentence reads: \"The most popular therapy for getting rid of hiccups is to have someone scare you when you least expect it.\" This construction accurately conveys the relationship between the therapy and its purpose.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201302,
+      "question": "Fill in the blank with a suitable question tag:\nLet's go for a walk, _________________?",
+      "options": [
+        "should we?",
+        "shall we?",
+        "can we?",
+        "could we?"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct question tag for the statement \"Let's go for a walk\" is \"shall we?\" This is because \"let's\" is a suggestion, and \"shall we?\" is commonly used to confirm or seek agreement on a proposal. The other options, while they can be used in different contexts, do not fit as naturally in this scenario. \"Should we?\" implies a recommendation rather than a suggestion, \"can we?\" and \"could we?\" suggest permission rather than agreement. Therefore, \"shall we?\" is the most appropriate choice to follow the invitation to go for a walk.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201303,
+      "question": "Choose the correct form of the verb to fill in the blank:\nThey _____________ the bridge for several months.",
+      "options": [
+        "have been building",
+        "are building",
+        "will be building",
+        "had been building"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct answer is \"have been building\" because it uses the present perfect continuous tense, which indicates an action that started in the past and is still ongoing or has recently stopped. In this context, \"They have been building the bridge for several months\" suggests that the construction began months ago and continues to the present moment. The other options do not fit as well: \"are building\" implies current action without the emphasis on duration, \"will be building\" refers to future action, and \"had been building\" suggests a completed action in the past without a present connection.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201304,
+      "question": "Pick out the correct words from the options given below:\nHe gave me ___________ notes.",
+      "options": [
+        "a ten five rupee",
+        "ten five rupees",
+        "a ten five rupee's",
+        "ten five rupee"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct phrase is \"ten five rupee,\" which refers to a quantity of currency notes. In this context, \"ten\" indicates the number of notes, while \"five rupee\" describes the denomination of each note. The other options are incorrect due to grammatical errors or incorrect usage of singular and plural forms. Option A incorrectly uses \"a\" with a plural form, option C misuses the possessive form, and option B incorrectly pluralizes \"rupee.\" Therefore, \"ten five rupee\" is the most accurate choice for conveying the intended meaning.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201305,
+      "question": "Which one of the following word is incorrect?",
+      "options": [
+        "means",
+        "scissors",
+        "luggages",
+        "premises"
+      ],
+      "correctIndex": 2,
+      "explanation": "The word \"luggages\" is incorrect because \"luggage\" is an uncountable noun that refers to bags and suitcases collectively. In English, we do not typically add an \"s\" to uncountable nouns to indicate plurality. Instead, we simply use \"luggage\" to refer to multiple pieces of baggage. The other options—\"means,\" \"scissors,\" and \"premises\"—are correctly used in their respective contexts. \"Means\" can refer to methods or resources, \"scissors\" is a plural noun that refers to a cutting tool, and \"premises\" refers to a building and its surrounding property.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201306,
+      "question": "Passage:\nEven researchers are finding that introverts make better leaders than extroverts for the simple reason that they are more likely to listen and pay attention to what other people are saying. By taking a backseat, introverted leaders encourage others to suggest ideas, contribute actively and take initiative, thus increasing morale and motivation.\nIntroverts make better leader because they are _________________.",
+      "options": [
+        "interested",
+        "attentive",
+        "attention-seeking",
+        "alluring"
+      ],
+      "correctIndex": 1,
+      "explanation": "Introverts are considered better leaders primarily because they are attentive. This attentiveness allows them to listen carefully to others, fostering an environment where team members feel valued and encouraged to share their ideas. Unlike extroverted leaders who may dominate conversations, introverted leaders create space for collaboration and initiative, which can enhance team morale and motivation. Their ability to focus on others rather than seeking attention for themselves is a key trait that contributes to effective leadership. Therefore, the correct answer is B - attentive.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201307,
+      "question": "Which one of the following sentence is incorrect?",
+      "options": [
+        "The flowers smell sweet.",
+        "Of Mumbai and Chennai, the former is the wealthiest..",
+        "Six miles is a long distance.",
+        "As a novelist, Jane Austen is a superior to Mrs. Henry Wood."
+      ],
+      "correctIndex": 1,
+      "explanation": "The incorrect sentence is option B: \"Of Mumbai and Chennai, the former is the wealthiest.\" The term \"former\" is used to refer to the first of two items mentioned, which in this case is Mumbai. However, the statement lacks clarity because it does not provide a direct comparison or context regarding the wealth of both cities. Additionally, the use of \"the former\" implies that the reader should already know which city is being referred to, which may not be the case. Therefore, the sentence is misleading and grammatically incorrect in its construction.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201308,
+      "question": "Identify the sentence which is in the positive degree",
+      "options": [
+        "His age is a matter of minor importance.",
+        "This is the most perfect specimen I have seen.",
+        "The last time I saw him, he was in high spirits.",
+        "The longest lane has a turning."
+      ],
+      "correctIndex": 0,
+      "explanation": "The positive degree is used to describe a quality without any comparison. In the given options, \"His age is a matter of minor importance\" is the only sentence that presents a statement without comparing it to anything else. The other options either use superlatives, such as \"most perfect\" in option B, or imply a comparison, as seen in option D with \"longest.\" Therefore, option A stands out as the correct choice, as it simply states a fact without any comparative or superlative form.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201309,
+      "question": "Identify the sentence which is in the positive degree:",
+      "options": [
+        "This is a major issue.",
+        "The latter chapters are lacking in interest.",
+        "Rama's intelligence is superior to Hari's.",
+        "He is junior to all his colleagues."
+      ],
+      "correctIndex": 0,
+      "explanation": "The positive degree is used to describe a quality without any comparison. In the given options, \"This is a major issue\" (Option A) states a fact about the issue without comparing it to anything else, making it a straightforward assertion. The other options involve comparisons: Option B suggests a lack of interest compared to something else, Option C compares Rama's intelligence to Hari's, and Option D indicates a comparison of junior status among colleagues. Therefore, Option A is the only sentence that expresses a quality in its simplest form, which is characteristic of the positive degree.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201310,
+      "question": "Which one of the following words is an example of a compound word consisting of an adverb + participle?",
+      "options": [
+        "pale blue",
+        "well defined",
+        "seafood",
+        "outsourcing"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct answer is \"outsourcing\" because it is a compound word formed by combining the adverb \"out\" and the participle \"sourcing.\" In this context, \"out\" modifies the action of \"sourcing,\" indicating that the sourcing is done externally. Compound words often combine different parts of speech to create a new meaning, and \"outsourcing\" exemplifies this by merging an adverb with a participle to describe the process of obtaining goods or services from outside sources. The other options do not fit this structure; \"pale blue\" is an adjective phrase, \"well defined\" is an adjective phrase, and \"seafood\" is a noun.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201311,
+      "question": "Which figure of speech does the expression, \"the hissing noise of the snake\" contain?",
+      "options": [
+        "logopoeia",
+        "anaphora",
+        "diaspora",
+        "onomatopoeia"
+      ],
+      "correctIndex": 3,
+      "explanation": "The expression \"the hissing noise of the snake\" contains the figure of speech known as onomatopoeia. Onomatopoeia refers to words that phonetically imitate, resemble, or suggest the sound that they describe. In this case, \"hissing\" mimics the actual sound made by a snake, creating a vivid auditory image for the reader. This use of sound enhances the description and engages the reader's senses, making the imagery more impactful. Other options like logopoeia, anaphora, and diaspora do not pertain to sound imitation, thus reinforcing that onomatopoeia is the correct answer.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201312,
+      "question": "\"The ship is anchor'd safe and sound, its voyage closed and done\" - \nThe figure of speech used by Walt Whitman in these lines is ________________.",
+      "options": [
+        "Oxymoron",
+        "Personification",
+        "Simile",
+        "Metaphor"
+      ],
+      "correctIndex": 3,
+      "explanation": "In these lines, Walt Whitman employs a metaphor by comparing the ship's safe anchoring and the completion of its voyage to a sense of finality and peace in life. The ship symbolizes a journey, and its anchoring represents the end of that journey, suggesting a transition from the struggles of travel to a state of rest. This metaphor conveys deeper themes of completion, safety, and the tranquility that follows life's challenges, illustrating how the ship's experience reflects human experiences and emotions.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201313,
+      "question": "\"Imagine if your precious nose were sandwiched in between your toes?\nWhat does the word \"Sandwiched\" mean here?",
+      "options": [
+        "Become like a food item",
+        "Trapped",
+        "Replaced",
+        "Pressed between two things"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this context, the word \"sandwiched\" refers to being pressed or squeezed between two things. The imagery suggests that the nose is situated in a position where it is confined or held between the toes, much like how a sandwich consists of ingredients placed between two slices of bread. This conveys a sense of being tightly enclosed or trapped in a specific space, which aligns with option D. The other options do not accurately capture the meaning intended in this playful scenario.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201314,
+      "question": "H.W. Longfellow's poem \"The Psalm of Life\" is a piece of",
+      "options": [
+        "Prayer",
+        "Encomium",
+        "Appeal",
+        "Advice"
+      ],
+      "correctIndex": 3,
+      "explanation": "H.W. Longfellow's poem \"The Psalm of Life\" serves as a piece of advice, encouraging readers to live life to the fullest and to take action rather than passively waiting for life to unfold. The poem emphasizes the importance of striving for meaningful accomplishments and making a positive impact in the world. Longfellow's message is clear: life is not merely to be endured but actively engaged with, urging individuals to pursue their dreams and leave a lasting legacy. This advisory tone is evident throughout the poem, as it inspires readers to embrace their potential and live with purpose.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201315,
+      "question": "Who do you think is these lines addressed to:\nYou cannot rob us of the rights we cherish,\nNor turn our thoughts away\nFrom the bright picture of a 'women's mission'\nOur hearts portray",
+      "options": [
+        "An individual reader",
+        "The poet's companion",
+        "Society at large",
+        "A particular misogynist group"
+      ],
+      "correctIndex": 2,
+      "explanation": "The lines express a collective sentiment about women's rights and empowerment, indicating that the speaker is addressing a broader audience rather than a specific individual or group. The phrase \"you cannot rob us\" suggests a confrontation with societal norms or attitudes that undermine women's roles and rights. By referring to \"the rights we cherish\" and \"the bright picture of a 'women's mission',\" the speaker emphasizes a shared vision and determination among women, making it clear that the message is directed at society at large, which often perpetuates misogynistic views. This context reinforces the idea that the struggle for women's rights is a communal effort against widespread societal challenges.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201316,
+      "question": "Which of the following lines belong to H.W. Longfellow's \"A Psalm of Life\"?",
+      "options": [
+        "And you O my soul where you stand",
+        "All human roads are dark and dirty",
+        "Your minstrel has no wreath to weave for you",
+        "Art is long and time is fleeting"
+      ],
+      "correctIndex": 3,
+      "explanation": "The line \"Art is long and time is fleeting\" is a well-known phrase from H.W. Longfellow's poem \"A Psalm of Life.\" This line encapsulates the poem's central theme, emphasizing the enduring nature of art and the transient nature of human life. Longfellow encourages readers to make the most of their time and to leave a lasting impact through their actions and creations. The other options do not appear in this poem, making option D the correct choice. The poem serves as a motivational piece, urging individuals to live purposefully and strive for greatness despite the inevitable passage of time.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201317,
+      "question": "Who told the following statement?\n\"Tolerance is the highest result of education\"",
+      "options": [
+        "Dr. Abdul Kalam",
+        "Mahatma Gandhi",
+        "Helen Keller",
+        "Subhash Chandra Bose"
+      ],
+      "correctIndex": 2,
+      "explanation": "Helen Keller, an American author and activist, emphasized the importance of tolerance as a fundamental outcome of education. Her experiences as a deaf-blind individual shaped her understanding of the world, leading her to advocate for compassion and understanding among people. Keller believed that education should not only impart knowledge but also foster empathy and respect for others, regardless of their differences. This statement reflects her conviction that true education goes beyond academic learning; it cultivates the ability to accept and appreciate diversity, which is essential for a harmonious society.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201318,
+      "question": "\"To call woman the weaker sex is libel; It is man's injustice to woman\".\nWho said these words about Women?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Swami Vivekananda",
+        "Rabindranath Tagore",
+        "Mahatma Gandhi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mahatma Gandhi, a prominent leader in the Indian independence movement, emphasized the importance of women's rights and equality. The quote reflects his belief that labeling women as the \"weaker sex\" is not only unjust but also a form of defamation. Gandhi advocated for the empowerment of women and recognized the societal injustices they faced. His views were progressive for his time, as he sought to challenge traditional gender roles and promote equality. By stating that it is man's injustice to woman, Gandhi highlighted the responsibility of society to treat women with respect and dignity, reinforcing the idea that strength should not be measured by gender.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201319,
+      "question": "Rani of Jhansi was associated with ________________",
+      "options": [
+        "Battle of Plassey",
+        "Sepoy Mutiny",
+        "British Government",
+        "Indian National Congress"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rani of Jhansi, also known as Lakshmibai, is most famously associated with the Sepoy Mutiny of 1857, which was a significant uprising against British rule in India. She emerged as a prominent leader during this revolt, symbolizing resistance against colonial oppression. The Sepoy Mutiny marked a crucial turning point in Indian history, as it was one of the first major collective actions against British authority. Rani Lakshmibai's bravery and leadership inspired many, and she became a legendary figure in the struggle for India's independence. The other options, such as the Battle of Plassey, British Government, and Indian National Congress, are not directly linked to her legacy or contributions.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201320,
+      "question": "\"The story of My Experiments with Truth\" is an autobiographical work written by",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Abraham Lincoln",
+        "Subhash Chandra Bose"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"My Experiments with Truth\" is an autobiographical work by Mahatma Gandhi, detailing his life experiences and the development of his philosophy of non-violence and truth. In this book, Gandhi reflects on his early life, his struggles with personal and social issues, and the principles that guided his actions in the fight for India's independence. The narrative provides insights into his moral and ethical beliefs, illustrating how he sought to live a life aligned with his values. This work is significant not only as a personal account but also as a foundational text for understanding Gandhi's approach to social and political activism.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201321,
+      "question": "In Oscar Wilde's 'The Selfish Giant' the spring season did not come to the giant's garden because",
+      "options": [
+        "he built a huge wall around his garden",
+        "he was very unkind to the spring season",
+        "he did not allow the children inside the garden",
+        "he liked winter season"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 'The Selfish Giant,' the spring season does not come to the giant's garden primarily because he refuses to allow the children to play there. The children represent joy and life, and their absence leads to a perpetual winter in the garden. The giant's selfishness and isolation create a barrier to the natural beauty and warmth of spring, which thrives in the presence of love and laughter. It is only when the giant learns to share his garden and welcomes the children back that spring returns, symbolizing the transformative power of kindness and community.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201322,
+      "question": "In Oscar Wilde's \"The Model Millionaire\" Hughie is humane and handsome but",
+      "options": [
+        "ineffable",
+        "a man of no means",
+        "heartless",
+        "a paranoid"
+      ],
+      "correctIndex": 1,
+      "explanation": "In \"The Model Millionaire,\" Hughie Erskine is portrayed as a charming and attractive young man, but he struggles with financial difficulties. The phrase \"a man of no means\" highlights his lack of wealth, which is a significant aspect of his character. Despite his good looks and amiable nature, his financial status creates challenges in his life, particularly in his romantic pursuits. This contrast between his appealing exterior and his economic struggles adds depth to his character and drives the narrative forward, illustrating themes of social class and the true value of wealth.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201323,
+      "question": "In Oscar Wilde's 'The Selfish Giant', the giant's heart melted when he saw",
+      "options": [
+        "the spring season",
+        "the children playing in the garden",
+        "the children singing and dancing",
+        "a little child unable to climb a tree"
+      ],
+      "correctIndex": 3,
+      "explanation": "In Oscar Wilde's 'The Selfish Giant', the pivotal moment that leads to the giant's transformation occurs when he sees a little child who is unable to climb a tree. This sight evokes deep empathy within the giant, as he realizes the joy and innocence of the children he had previously shunned from his garden. The child's struggle symbolizes the innocence and vulnerability that the giant had overlooked in his selfishness. This moment of compassion marks the beginning of the giant's change of heart, leading him to open his garden to the children and ultimately embrace love and kindness. Thus, it is the sight of the child that melts the giant's heart, prompting his redemption.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201324,
+      "question": "In Oscar Wilde's 'The Model Millionaire' what did Hughie do in Allan Trevor's absence?",
+      "options": [
+        "Hughie spoke to the beggar",
+        "Hughie gave the beggar some money",
+        "Hughie enjoyed a smoke",
+        "Hughie was dreaming"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Oscar Wilde's 'The Model Millionaire', while Allan Trevor is absent, Hughie takes the opportunity to interact with a beggar who is posing as a model for Trevor's painting. Feeling a sense of compassion and empathy, Hughie decides to give the beggar some money. This act of kindness reflects Hughie's character and his willingness to help those in need, showcasing a theme of generosity that runs throughout the story. His action not only highlights his moral values but also sets the stage for the unfolding events, as the beggar is later revealed to be a wealthy man in disguise.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201325,
+      "question": "In Oscar Wilde's 'The Selfish Giant' only one little boy did not run away on seeing the giant because",
+      "options": [
+        "he was blind",
+        "he was lame",
+        "he was afraid",
+        "he did not see the giant coming"
+      ],
+      "correctIndex": 3,
+      "explanation": "In Oscar Wilde's 'The Selfish Giant', the only little boy who did not run away upon seeing the giant was the one who did not see him coming. This detail highlights the boy's innocence and vulnerability, as he was unaware of the giant's intimidating presence. Unlike the other children who fled in fear, this boy's lack of awareness allowed him to remain in the garden, ultimately leading to a significant connection with the giant. This moment serves to illustrate themes of innocence and the transformative power of love and friendship, as the boy's presence becomes pivotal in changing the giant's heart.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201326,
+      "question": "\"The habit of co-operation once required will continue with you all your life\" which among the options best conveys the meaning of the above passage?",
+      "options": [
+        "The author insists on hard work",
+        "The author states the importance of teamwork",
+        "The author insists on friendship",
+        "The author reiterates the importance of good behaviour"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage emphasizes the significance of cooperation, suggesting that once individuals develop this habit, it becomes a lifelong trait. Among the options, B best captures this idea by highlighting the importance of teamwork. Teamwork inherently involves cooperation among individuals to achieve common goals, reflecting the essence of the passage. The other options, while relevant in different contexts, do not directly address the core message about the enduring value of collaborative efforts in life. Thus, the focus on teamwork aligns perfectly with the author's intent.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201327,
+      "question": "\"No matter what happened, I always insisted on their being themselves\".\nWhat does the writer mean by this statement? Choose the right option from the following.",
+      "options": [
+        "the writer wants human beings to be day dreamers",
+        "the writer wants human beings to be in their own world",
+        "the writer wants human beings to be calm",
+        "the writer wants human beings to be individuals and not to imitate others"
+      ],
+      "correctIndex": 3,
+      "explanation": "The statement emphasizes the importance of individuality and authenticity. By insisting on \"their being themselves,\" the writer advocates for people to embrace their unique identities rather than conforming to societal expectations or imitating others. This perspective values personal expression and encourages individuals to stay true to their own beliefs, values, and characteristics. The correct option highlights the writer's desire for people to cultivate their individuality, which is essential for personal growth and self-acceptance.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201328,
+      "question": "What is a refrain?",
+      "options": [
+        "The first line of a poem that is repeated in all stanzas",
+        "The repetition of a line or lines within a poem, at given intervals",
+        "The first line and the last line are one and the same in the last stanza",
+        "The last two lines of the first stanza and the last two lines of the last stanza are one and the same"
+      ],
+      "correctIndex": 1,
+      "explanation": "A refrain is a poetic device that involves the repetition of a line or lines at regular intervals throughout a poem. This repetition can create rhythm, emphasize a particular theme or emotion, and enhance the overall musicality of the piece. While options A, C, and D describe specific structural elements of poetry, they do not accurately define a refrain. Instead, option B correctly identifies the essence of a refrain as it pertains to the recurrence of specific lines, making it a crucial element in many lyrical and narrative poems. This technique helps to reinforce key ideas and can evoke a strong emotional response from the reader.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201329,
+      "question": "What is the height of Shiva linga in the sanctum of the Brihadeeswarar Temple?",
+      "options": [
+        "8.7 metres",
+        "8.5 metres",
+        "8.8 metres",
+        "8.9 metres"
+      ],
+      "correctIndex": 0,
+      "explanation": "The height of the Shiva linga in the sanctum of the Brihadeeswarar Temple is 8.7 metres. This impressive measurement highlights the grandeur of the temple, which is a significant example of Tamil architecture and a UNESCO World Heritage Site. The temple, built during the Chola dynasty, is dedicated to Lord Shiva and showcases intricate carvings and a massive vimana (tower) above the sanctum. The linga itself is a symbol of Lord Shiva and is a focal point of worship in the temple, attracting numerous devotees and tourists alike. The height of the linga contributes to the temple's majestic presence and spiritual significance.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201330,
+      "question": "The author who wrote the lesson 'YanaiMalai' suffered from the disease?",
+      "options": [
+        "Chronic Glaucoma",
+        "Retinitis Pigmentosa",
+        "Astigmatism",
+        "Myopic Vision"
+      ],
+      "correctIndex": 1,
+      "explanation": "The author of 'YanaiMalai' suffered from Retinitis Pigmentosa, a genetic disorder that leads to progressive degeneration of the retina, resulting in vision loss. This condition affects the photoreceptor cells in the retina, causing difficulties in seeing in low light and eventually leading to peripheral vision loss. The impact of Retinitis Pigmentosa on the author's life and work may have influenced the themes and perspectives presented in 'YanaiMalai,' highlighting the challenges faced by individuals with visual impairments. Understanding this context enriches the reader's appreciation of the author's experiences and the depth of the narrative.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201331,
+      "question": "Where is YanaiMalai located?",
+      "options": [
+        "In the South Eastern outskirts of Madurai",
+        "In the North Eastern outskirts of Madurai",
+        "In the North Western outskirts of Madurai",
+        "In the South Western outskirts of Madurai"
+      ],
+      "correctIndex": 1,
+      "explanation": "YanaiMalai is situated in the North Eastern outskirts of Madurai, a city in the southern part of India known for its rich cultural heritage and historical significance. This location is notable for its proximity to various temples and natural landscapes, making it a point of interest for both locals and tourists. The geographical positioning in the northeastern direction allows for easy access from the city center, contributing to its relevance in the region. Understanding the exact location of YanaiMalai helps in appreciating its cultural and historical context within the broader landscape of Madurai.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201332,
+      "question": "Identify the pair of British English and American English expressions with incorrect spelling:",
+      "options": [
+        "plough - plow",
+        "cheque - check",
+        "theatre - theater",
+        "skilful - skillful"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct answer is \"skilful - skillful\" because \"skilful\" is the British English spelling, while \"skillful\" is the American English variant. In British English, certain words retain the 'l' when adding suffixes, such as in \"skilful.\" Conversely, American English often simplifies these spellings by using a single 'l,' as seen in \"skillful.\" The other options represent standard British and American spellings without discrepancies in their forms. For example, \"plough\" and \"plow\" differ in spelling but are accepted in their respective dialects, as do \"cheque\" and \"check,\" and \"theatre\" and \"theater.\" Thus, \"skilful\" and \"skillful\" is the only pair that showcases a clear spelling difference based on regional variations.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201333,
+      "question": "Match the British English words with their American equivalents:\n(A) Jam\n(B) nappy\n(C) Aerial\n(D) Autumn",
+      "options": [
+        "(A) Jelly, (B) Diaper, (C) Antenna, (D) Fall",
+        "(A) Diaper, (B) Jelly, (C) Fall, (D) Antenna",
+        "(A) Antenna, (B) Fall, (C) Jelly, (D) Diaper",
+        "(A) Fall, (B) Antenna, (C) Diaper, (D) Jelly"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Jam (British) corresponds to jelly (American): in British English “jam” refers to fruit spread; Americans commonly call similar fruit preserves “jelly” in everyday usage.\n- Nappy (British) corresponds to diaper (American): “nappy” is the UK term for an absorbent garment for infants, while “diaper” is the standard US term.\n- Aerial (British) corresponds to antenna (American): “aerial” in British usage denotes a radio or TV receiving element, called an “antenna” in American technical and common usage.\n- Autumn (British) corresponds to fall (American): “autumn” is the British name for the season between summer and winter; “fall” is the equivalent American informal term.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201334,
+      "question": "_______________ warns Caesar about the \"Ides of March\".",
+      "options": [
+        "A Soothsayer",
+        "Calpurnia",
+        "Pompey",
+        "Mark Antony"
+      ],
+      "correctIndex": 0,
+      "explanation": "In William Shakespeare's play \"Julius Caesar,\" the character who warns Caesar about the \"Ides of March\" is a soothsayer. This figure represents a prophetic voice, cautioning Caesar to be wary of the date, which is famously associated with his assassination. The soothsayer's warning is significant as it foreshadows the impending danger that Caesar will face. Despite the warning, Caesar dismisses the soothsayer's advice, showcasing his hubris and belief in his invulnerability. This moment highlights the theme of fate versus free will, as the soothsayer's prophecy ultimately comes true, leading to tragic consequences.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201335,
+      "question": "Match the following:\n(A) The Ant and the Grasshopper\n(B) The Cop and the Anthem\n(C) The Happy Prince\n(D) The Face of Judas Iscariot",
+      "options": [
+        "(A) Somerset Maugham, (B) O'Henry, (C) Oscar Wilde, (D) Bonnie Chamberlain",
+        "(A) O'Henry, (B) Somerset Maugham, (C) Bonnie Chamberlain, (D) Oscar Wilde",
+        "(A) Oscar Wilde, (B) Bonnie Chamberlain, (C) Somerset Maugham, (D) O'Henry",
+        "(A) Bonnie Chamberlain, (B) Oscar Wilde, (C) O'Henry, (D) Somerset Maugham"
+      ],
+      "correctIndex": 0,
+      "explanation": "- The Ant and the Grasshopper is a short story by Somerset Maugham, using the fable’s framework to explore human character and social contrasts.\n- The Cop and the Anthem is a short story by O. Henry, noted for its ironic twist and portrayal of a vagrant’s attempts to get arrested.\n- The Happy Prince is a fairy tale by Oscar Wilde, famous for its moral symbolism and poignant depiction of sacrifice and compassion.\n- The Face of Judas Iscariot is a work by Bonnie Chamberlain, attributed to her authorship and dealing with themes linked to betrayal and historical imagination.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201336,
+      "question": "Match the following:\n(A) My Country my life\n(B) My story\n(C) Play It My Way\n(D) Toward Freedom",
+      "options": [
+        "(A) L.K.Advani, (B) Kamala Das, (C) Sachin, (D) Nehru",
+        "(A) Kamala Das, (B) L.K.Advani, (C) Nehru, (D) Sachin",
+        "(A) Sachin, (B) Nehru, (C) L.K.Advani, (D) Kamala Das",
+        "(A) Nehru, (B) Sachin, (C) Kamala Das, (D) L.K.Advani"
+      ],
+      "correctIndex": 0,
+      "explanation": "- My Country My Life is the political memoir/autobiography of L.K. Advani, chronicling his public life and role in Indian politics.\n- My Story is the autobiographical work of Kamala Das, detailing her life, personal experiences and literary career.\n- Play It My Way (Playing It My Way) is the autobiography of Sachin Tendulkar, recounting his cricketing career and personal reflections.\n- Toward Freedom is the autobiographical work of Jawaharlal Nehru, narrating his early life, political development and role in India’s freedom movement.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201337,
+      "question": "Which one of the following statement is correct?",
+      "options": [
+        "V.K.Gokak is a Telugu poet and novelist",
+        "V.K.Gokak is a Kannada poet and novelist",
+        "V.K.Gokak is a Marathi poet and novelist",
+        "V.K.Gokak is a Gujarati poet and novelist"
+      ],
+      "correctIndex": 1,
+      "explanation": "V.K. Gokak is a prominent figure in Kannada literature, recognized for his contributions as both a poet and a novelist. His works often reflect the cultural and linguistic richness of Karnataka, and he played a significant role in promoting the Kannada language. Gokak's literary achievements include various forms of writing, including poetry, novels, and essays, which have earned him accolades and a respected place in Indian literature. The other options incorrectly attribute his literary identity to Telugu, Marathi, or Gujarati, which are not accurate. Thus, the correct statement is that V.K. Gokak is a Kannada poet and novelist.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201338,
+      "question": "Saruli figures in",
+      "options": [
+        "Farmer",
+        "The Sun Beam",
+        "After the Storm",
+        "Kari, the Elephant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Saruli is a character that appears in the story \"After the Storm.\" This narrative explores themes of resilience and hope in the aftermath of adversity. The character of Saruli plays a significant role in illustrating the emotional and psychological impacts of facing challenges, as well as the journey towards recovery and renewal. The other options, such as \"Farmer,\" \"The Sun Beam,\" and \"Kari, the Elephant,\" refer to different stories or characters that do not involve Saruli. Therefore, the correct association of Saruli is with \"After the Storm,\" where her experiences contribute to the overall message of the story.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201339,
+      "question": "In Julius Caesar, Antony says,\n\"The noble Brutus\nHath told you Caesar was ambitious;\nIf it were so, it was a grievous fault\".\nWhat is referred to a 'grievous fault' here?",
+      "options": [
+        "Brutus's nobility",
+        "Cunningness",
+        "Being ambitious",
+        "Caesar's balour"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this quote from Julius Caesar, Antony refers to \"being ambitious\" as a 'grievous fault.' He is addressing the crowd and countering Brutus's claim that Caesar was ambitious, suggesting that if ambition were indeed a fault, it would be a serious one. Antony's speech is designed to sway public opinion by questioning the morality of labeling ambition as a negative trait, especially in the context of a leader. By framing ambition as a grievous fault, he implies that it is a quality that should not be condemned, thereby defending Caesar's legacy and undermining Brutus's justification for the assassination. This rhetorical strategy highlights the complexity of ambition in leadership and the consequences of its misinterpretation.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201340,
+      "question": "Match the following:\n(A) Thakazhi Sivasankaran Pillai\n(B) William Shakespeare\n(C) Douglas Malloch\n(D) Lewis Carroll",
+      "options": [
+        "(A) Kutti Chovan, (B) Sonnet 116, (C) Be the Best, (D) Is Life but a dream?",
+        "(A) Sonnet 116, (B) Kutti Chovan, (C) Is Life but a dream?, (D) Be the Best",
+        "(A) Be the Best, (B) Is Life but a dream?, (C) Kutti Chovan, (D) Sonnet 116",
+        "(A) Is Life but a dream?, (B) Be the Best, (C) Sonnet 116, (D) Kutti Chovan"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Thakazhi Sivasankaran Pillai — \"Kutti Chovan\" is a notable Malayalam work by Thakazhi, reflecting his realist portrayal of Kerala society and rural life.  \n- William Shakespeare — \"Sonnet 116\" is by William Shakespeare, famous for defining true love as constant and unchanging despite time and circumstance.  \n- Douglas Malloch — \"Be the Best\" (often cited as \"Be the Best of Whatever You Are\") is a motivational poem by Douglas Malloch urging dignity and excellence in one’s chosen role.  \n- Lewis Carroll — \"Is Life but a dream?\" is a line associated with Lewis Carroll’s imaginative, dreamlike writing, appearing in works that blend fantasy and philosophical questioning.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201341,
+      "question": "Match the following:\n(A) Norman Nicholson\n(B) Dale Carnegie\n(C) Walt Whitman\n(D) William Wordsworth",
+      "options": [
+        "(A) Off to outer space tomorrow morning, (B) The road to success, (C) O Captain! My Captain!, (D) The Solitary Reaper",
+        "(A) The road to success, (B) Off to outer space tomorrow morning, (C) The Solitary Reaper, (D) O Captain! My Captain!",
+        "(A) O Captain! My Captain!, (B) The Solitary Reaper, (C) Off to outer space tomorrow morning, (D) The road to success",
+        "(A) The Solitary Reaper, (B) O Captain! My Captain!, (C) The road to success, (D) Off to outer space tomorrow morning"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Norman Nicholson wrote the poem \"Off to outer space tomorrow morning,\" reflecting his modern imaginative themes and regional poetic voice.  \n- Dale Carnegie authored motivational works such as \"The Road to Success,\" epitomizing his principles of self-improvement and effective interpersonal skills.  \n- Walt Whitman composed \"O Captain! My Captain!,\" an elegy mourning Abraham Lincoln and exemplifying Whitman's free-verse tribute.  \n- William Wordsworth penned \"The Solitary Reaper,\" a Romantic lyric portraying a solitary Scottish peasant and emphasizing nature and emotion.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201342,
+      "question": "In Julius Caesar, Antony says, \"He hath brought many captives home to Rome,\nWhose ransoms did the general coffers fill\".\n'Ransoms' in the line means",
+      "options": [
+        "payment for the release of refugees",
+        "payment for the release of criminals",
+        "payment for the release of prisoners",
+        "payment for the release of leaders"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this line from Julius Caesar, Antony refers to the captives brought back to Rome by the general, implying that these individuals were prisoners of war. The term 'ransoms' specifically denotes the payments made for their release, which aligns with option C, \"payment for the release of prisoners.\" This context highlights the economic benefits of warfare, as the general's actions not only resulted in military victories but also filled the coffers of Rome with the wealth obtained from the ransoms of these captured individuals. The other options do not accurately reflect the meaning of 'ransoms' in this context, as they pertain to different types of individuals who would not typically be ransomed in the same manner as prisoners of war.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201343,
+      "question": "\"Envy is ignorance and imitation is suicide\"\nThese are the words of",
+      "options": [
+        "Robert Frost",
+        "Khalil Gibran",
+        "F. Jonna",
+        "Ralph Waldo Emerson"
+      ],
+      "correctIndex": 3,
+      "explanation": "The quote \"Envy is ignorance and imitation is suicide\" is attributed to Ralph Waldo Emerson, a prominent American essayist, lecturer, and philosopher. Emerson was a central figure in the transcendentalist movement, which emphasized individualism and self-reliance. In this quote, he suggests that envy stems from a lack of understanding and appreciation of one's own unique qualities, while imitation undermines one's individuality and authenticity. Emerson's philosophy encourages people to embrace their true selves rather than conforming to societal expectations or envying others. This perspective aligns with his broader themes of self-discovery and personal growth, making him a significant voice in American literature and thought.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201344,
+      "question": "Annie Louisa Walker is a well-known _______________ poet.",
+      "options": [
+        "Canadian - born",
+        "American - born",
+        "British - born",
+        "Australian - born"
+      ],
+      "correctIndex": 2,
+      "explanation": "Annie Louisa Walker was a notable British poet, recognized for her contributions to literature during her time. Her works often reflect the themes and styles prevalent in British poetry, showcasing her cultural background and influences. The term \"British-born\" indicates her nationality and the context in which she developed her poetic voice, distinguishing her from poets of other nationalities. This classification is essential for understanding her literary heritage and the impact of her work within the British literary tradition.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201345,
+      "question": "_______________ is not a Nobel Prize winner.",
+      "options": [
+        "Rudyard Kipling",
+        "William Golding",
+        "Oscar Wilde",
+        "Pearl S. Buck"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oscar Wilde is not a Nobel Prize winner, unlike the other authors listed. Rudyard Kipling won the Nobel Prize in Literature in 1907, William Golding received it in 1983, and Pearl S. Buck was awarded the prize in 1938. Wilde, known for his wit and literary works such as \"The Picture of Dorian Gray\" and \"The Importance of Being Earnest,\" was a prominent figure in the late 19th century but never received the Nobel Prize. His exclusion from this prestigious award highlights the competitive nature of literary recognition during his time.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201346,
+      "question": "Match the poems with the poets and select the correct code:\n(A) The Apology\n(B) Be Glad your nose is on your face\n(C) Where the mind is without fear\n(D) Nine Gold Medals",
+      "options": [
+        "(A) Emerson, (B) Jack Prelutsky, (C) Tagore, (D) David Roth",
+        "(A) Jack Prelutsky, (B) Emerson, (C) David Roth, (D) Tagore",
+        "(A) Tagore, (B) David Roth, (C) Emerson, (D) Jack Prelutsky",
+        "(A) David Roth, (B) Tagore, (C) Jack Prelutsky, (D) Emerson"
+      ],
+      "correctIndex": 0,
+      "explanation": "- The Apology is an essayistic poem by Ralph Waldo Emerson reflecting Transcendentalist themes of self-reliance and individual conscience, commonly attributed to Emerson.  \n- Be Glad your nose is on your face is a playful children's poem by Jack Prelutsky known for humorous verse and lively rhyme suited to young readers.  \n- Where the mind is without fear is a patriotic, visionary poem by Rabindranath Tagore expressing hopes for freedom, reason and unity; it appears in Tagore’s Gitanjali.  \n- Nine Gold Medals is a contemporary poem by David Roth celebrating athletic achievement and human perseverance, associated with Roth’s modern poetic narratives.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201347,
+      "question": "The ozone gas that acts like a canopy, protecting you from the harmful ultraviolet rays of the \nSun is depleting.\nIdentify the option closest in meaning to the underlined word:",
+      "options": [
+        "a preventive medicine",
+        "a damage-control system",
+        "an overhanging shelter",
+        "a storehouse of gases"
+      ],
+      "correctIndex": 2,
+      "explanation": "The term \"canopy\" refers to a covering or shelter that provides protection from above. In the context of the ozone layer, it acts as a protective shield against harmful ultraviolet rays from the Sun. Among the options provided, \"an overhanging shelter\" (Option C) closely aligns with this meaning, as it suggests a structure that offers coverage and protection from external elements. The other options do not convey the same sense of a protective covering; therefore, Option C is the most appropriate choice.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201348,
+      "question": "Match the following idiomatic expressionswith their core meaning\n(A) I can ride a motorcycle\n(B) No one can be right all the time\n(C) Can I use your mobile phone, please?\n(D) Anyone can make mistakes",
+      "options": [
+        "(A) Ability, (B) Possibility, (C) Asking for permission, (D) Theoretical possibility",
+        "(A) Possibility, (B) Ability, (C) Theoretical possibility, (D) Asking for permission",
+        "(A) Asking for permission, (B) Theoretical possibility, (C) Ability, (D) Possibility",
+        "(A) Theoretical possibility, (B) Asking for permission, (C) Possibility, (D) Ability"
+      ],
+      "correctIndex": 0,
+      "explanation": "I can ride a motorcycle — Ability: here \"can\" expresses physical skill or competence to perform an action (indicates ability).\n\nNo one can be right all the time — Possibility: \"can\" denotes general possibility or likelihood, implying it is possible for someone to be wrong sometimes.\n\nCan I use your mobile phone, please? — Asking for permission: the interrogative \"Can I...\" functions as a polite request for permission to do something.\n\nAnyone can make mistakes — Theoretical possibility: \"can\" expresses that making mistakes is a potential or theoretical outcome open to anyone.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201349,
+      "question": "If you can force your heart and nerve and \"sinew\"\nFind out the synonym for the quotated word from the options given",
+      "options": [
+        "muscle",
+        "blood",
+        "strength",
+        "weakness"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word \"sinew\" refers to tendons or connective tissues that connect muscles to bones, and it is often associated with strength and physical power. In this context, the best synonym from the options provided is \"muscle,\" as it directly relates to the physical aspect of strength and the body's ability to exert force. While \"strength\" (option C) is also related, it is more abstract and does not specifically denote the physical component that \"sinew\" implies. Therefore, \"muscle\" is the most accurate synonym for \"sinew.\"",
+      "type": "MCQ"
+    },
+    {
+      "id": 201350,
+      "question": "Choose the correct synonym for the quoted word from the options given:\nHe made himself \"indispensable\" to his institution.",
+      "options": [
+        "major",
+        "short",
+        "essential",
+        "negligible"
+      ],
+      "correctIndex": 2,
+      "explanation": "The word \"indispensable\" refers to something that is absolutely necessary or essential. In the context of the sentence, it indicates that the person has become a crucial part of the institution, implying that their absence would significantly impact its functioning. Among the options provided, \"essential\" (C) is the most accurate synonym, as it conveys the idea of being vital or necessary. The other options—\"major,\" \"short,\" and \"negligible\"—do not capture the same meaning, with \"major\" suggesting importance but not necessity, \"short\" indicating length, and \"negligible\" implying something of little importance. Thus, \"essential\" is the correct choice.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201351,
+      "question": "Some people argue that computerization will aggravate the unemployment problem.\nFind out the antonym for the underlined word.",
+      "options": [
+        "wipe out",
+        "consolidate",
+        "alleviate",
+        "remove"
+      ],
+      "correctIndex": 2,
+      "explanation": "The word \"aggravate\" means to make a problem worse or more severe. Therefore, its antonym would be a word that conveys the idea of making a situation better or less severe. Among the options provided, \"alleviate\" fits this definition perfectly, as it means to reduce or lessen the severity of something. In contrast, options like \"wipe out,\" \"consolidate,\" and \"remove\" do not convey the same sense of improvement or reduction in severity. Thus, \"alleviate\" is the correct choice as it directly opposes the meaning of \"aggravate.\"",
+      "type": "MCQ"
+    },
+    {
+      "id": 201352,
+      "question": "Choose the appropriate stem-word with which the prefix 'mal' can combine",
+      "options": [
+        "directional",
+        "theism",
+        "colon",
+        "nourished"
+      ],
+      "correctIndex": 3,
+      "explanation": "The prefix 'mal-' is derived from Latin, meaning 'bad' or 'wrong.' When combined with the stem-word 'nourished,' it forms the term 'malnourished,' which refers to a state of inadequate nutrition or unhealthy dietary practices. This term is commonly used in medical and health contexts to describe individuals who do not receive sufficient nutrients necessary for proper growth and health. The other options do not form recognized words with the prefix 'mal-,' making 'nourished' the correct choice.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201353,
+      "question": "Complete the following sentence with suitable articles:\nOn ____________ day of ____________ tea party, Apsara took her mother to Mrs.Rose's room.",
+      "options": [
+        "the, the",
+        "an, the",
+        "a, an",
+        "the, a"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct choice is \"A - the, the\" because the sentence refers to a specific day and a specific tea party that are known to the speaker and listener. The definite article \"the\" is used to indicate that both the day and the tea party are particular and identifiable. Using \"the\" before \"day\" signifies that it is a specific day being discussed, while \"the\" before \"tea party\" indicates that it is a specific event that both Apsara and her mother are aware of. This specificity is essential for clarity in the context of the sentence.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201354,
+      "question": "Complete the following sentence using a suitable form of the passive voice:\nIn primitive times, stone implements ________________ to kill animals.",
+      "options": [
+        "was employed",
+        "were employed",
+        "will be employed",
+        "had been employed"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct answer is \"were employed\" because the sentence refers to a past action that occurred in primitive times. The passive voice is used here to emphasize the action of using stone implements rather than who used them. \"Were employed\" indicates that multiple stone implements were used by people in the past for the purpose of killing animals. The other options do not fit the context: \"was employed\" is singular, \"will be employed\" refers to the future, and \"had been employed\" suggests a completed action before another past action, which is not applicable in this context.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201355,
+      "question": "Fill out the blank with the most appropriate option given below:\nAlexander's hope ____________ the whole of India was not materialized due to his ill health.",
+      "options": [
+        "to conquer",
+        "of conquer",
+        "of conquering",
+        "conquered"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct option is \"of conquering\" because it fits grammatically in the sentence. The phrase \"Alexander's hope of conquering the whole of India\" indicates that his aspiration was to achieve the act of conquering. The use of \"of\" followed by the gerund \"conquering\" correctly conveys the idea of his hope related to the action he intended to undertake. The other options do not fit the structure of the sentence: \"to conquer\" suggests an infinitive form, \"of conquer\" is incorrect as \"conquer\" is not a noun, and \"conquered\" is a past tense verb that does not align with the context of hope.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201356,
+      "question": "Fill in the blanks with the correct word from the options:\nWe will have to find _____________ sources of energy in the future.",
+      "options": [
+        "alternate",
+        "altered",
+        "alternative",
+        "adulterated"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct word to fill in the blank is \"alternative.\" In the context of the sentence, \"alternative sources of energy\" refers to energy sources that can replace traditional fossil fuels, such as solar, wind, and hydroelectric power. These sources are considered necessary for sustainable development and reducing environmental impact. The other options do not fit the context: \"alternate\" implies a choice between two options, \"altered\" means changed, and \"adulterated\" refers to something that has been made impure or inferior. Therefore, \"alternative\" is the most appropriate choice.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201357,
+      "question": "Identify the odd word among the options",
+      "options": [
+        "delicious",
+        "expensive",
+        "industrious",
+        "jubilantly"
+      ],
+      "correctIndex": 3,
+      "explanation": "The word \"jubilantly\" is the odd one out among the options because it is an adverb, while the other three words—\"delicious,\" \"expensive,\" and \"industrious\"—are adjectives. Adjectives describe nouns, providing information about qualities or characteristics, whereas adverbs modify verbs, adjectives, or other adverbs, often indicating manner, time, or degree. Therefore, \"jubilantly\" stands apart in its grammatical function, making it the correct choice for the odd word.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201358,
+      "question": "Find out the odd word among the following",
+      "options": [
+        "sojourn",
+        "countenance",
+        "species",
+        "recreate"
+      ],
+      "correctIndex": 3,
+      "explanation": "The word \"recreate\" is the odd one out among the options provided. \"Sojourn,\" \"countenance,\" and \"species\" are all nouns, while \"recreate\" is a verb. \"Sojourn\" refers to a temporary stay, \"countenance\" can mean a person's face or support, and \"species\" denotes a group of living organisms. In contrast, \"recreate\" means to create again or to engage in enjoyable activities, which sets it apart from the other three words that serve as nouns.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201359,
+      "question": "They failed to add an \"appendix\" to the book. Which of the following is the right plural form for the quoted word?",
+      "options": [
+        "appendices",
+        "indices",
+        "appendixes",
+        "annexures"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct plural form of \"appendix\" is \"appendices.\" This term is derived from Latin, where many words that end in \"-ix\" change to \"-ices\" in their plural forms. While \"appendixes\" is also an acceptable plural in English, particularly in informal contexts, \"appendices\" is the preferred term in academic and formal writing. The other options, such as \"indices\" (plural of index) and \"annexures\" (related but distinct terms), do not apply to the word \"appendix.\" Therefore, \"appendices\" is the most accurate choice for the plural form of \"appendix.\"",
+      "type": "MCQ"
+    },
+    {
+      "id": 201360,
+      "question": "Choose the simple sentence out of the sentences given below:",
+      "options": [
+        "He finished his exercise and put away the books.",
+        "The man endured all the horrors of the campaign without any one of them making complaint.",
+        "We must eat, or we cannot live",
+        "Not only did his father give him money, but his mother too."
+      ],
+      "correctIndex": 1,
+      "explanation": "A simple sentence consists of a single independent clause with a subject and a predicate. In this case, option B, \"The man endured all the horrors of the campaign without any one of them making complaint,\" is the only simple sentence. It contains one subject (\"The man\") and one predicate (\"endured all the horrors of the campaign without any one of them making complaint\"). The other options (A, C, and D) contain coordinating conjunctions or additional clauses, making them compound or complex sentences rather than simple sentences.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201361,
+      "question": "Which among the following is an example for onomatopoeic words?",
+      "options": [
+        "clip - clopped",
+        "tongue - twister",
+        "ambitious",
+        "entertainment"
+      ],
+      "correctIndex": 0,
+      "explanation": "Onomatopoeic words are those that phonetically imitate or resemble the sound they describe. In this case, \"clip-clopped\" mimics the sound of a horse's hooves hitting the ground, making it a clear example of onomatopoeia. The other options do not represent sounds; \"tongue-twister\" refers to a phrase that is difficult to articulate, \"ambitious\" describes a quality or trait, and \"entertainment\" refers to activities that provide enjoyment. Therefore, \"clip-clopped\" stands out as the only option that directly relates to sound imitation.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201362,
+      "question": "An implied simile is a ________________",
+      "options": [
+        "metathesis",
+        "metaphor",
+        "metonymy",
+        "metamorphosis"
+      ],
+      "correctIndex": 1,
+      "explanation": "An implied simile is a metaphor because it makes a comparison between two unlike things without using \"like\" or \"as,\" which are typical indicators of a simile. Instead, it suggests the similarity through context or description. For example, saying \"the classroom was a zoo\" implies a chaotic environment without directly stating it is like a zoo. This indirect comparison allows for a more nuanced understanding and vivid imagery, characteristic of metaphorical language. Thus, the correct answer is B - metaphor.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201363,
+      "question": "In the poem \"Going for Water\", why did the children have to go to the brook?",
+      "options": [
+        "To relish the sylvan atmosphere is the dense woods",
+        "Because the well was dry beside the door",
+        "To enjoy the natural beauty of the brook",
+        "To find whether there is water in the brook"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the poem \"Going for Water,\" the children are compelled to go to the brook because the well beside their door is dry. This situation highlights the necessity of seeking water for their daily needs, emphasizing the theme of dependence on nature for survival. The dry well symbolizes a lack of resources, prompting the children to venture out into the natural world to fulfill their basic requirement for water. This journey not only serves a practical purpose but also reflects the innocence and adventurous spirit of childhood as they explore their surroundings in search of what they need.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201364,
+      "question": "\"Laugh till the game is played\" - What is the game referred to here?",
+      "options": [
+        "Hockey",
+        "Exam",
+        "Dice",
+        "Life"
+      ],
+      "correctIndex": 3,
+      "explanation": "The phrase \"Laugh till the game is played\" suggests a perspective on life that emphasizes enjoying the journey rather than solely focusing on the outcomes. In this context, \"the game\" refers to life itself, which is filled with various experiences, challenges, and opportunities for joy. While options like hockey, exams, and dice represent specific activities or events, life encompasses all these elements and more. The idea is to embrace laughter and positivity throughout life's ups and downs, highlighting the importance of maintaining a light-hearted attitude as we navigate through our experiences.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201365,
+      "question": "Only bloodshot eyes betray\nDeep pride, then reverence,\nLo! God in man's image.",
+      "options": [
+        "goldsmith",
+        "Divine Artist",
+        "Sculptor",
+        "Blacksmith"
+      ],
+      "correctIndex": 2,
+      "explanation": "The phrase \"God in man's image\" refers to the concept of a creator or artist who shapes and forms humanity, akin to how a sculptor molds materials into a representation of human likeness. In this context, the sculptor embodies the divine role of creation, reflecting the idea that art can mirror the essence of humanity. The other options, such as goldsmith, blacksmith, and divine artist, do not specifically capture the act of sculpting or the direct representation of human form as effectively as the sculptor does. Thus, the correct answer is \"Sculptor.\"",
+      "type": "MCQ"
+    },
+    {
+      "id": 201366,
+      "question": "Behold her, single in the field,\nYon solitary Highland Lass!\nThe underlined word in the above lines of \"The Solitary Reaper\" refers to",
+      "options": [
+        "England",
+        "America",
+        "Scotland",
+        "Ireland"
+      ],
+      "correctIndex": 2,
+      "explanation": "The underlined word \"Highland\" in the lines from \"The Solitary Reaper\" refers to the Scottish Highlands, a region known for its rugged landscapes and distinct cultural identity. The poem, written by William Wordsworth, captures the essence of a solitary woman in the Scottish countryside, emphasizing the beauty and solitude of the Scottish landscape. Therefore, the correct answer is Scotland, as it directly relates to the geographical and cultural context of the poem.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201367,
+      "question": "Find out the meaning of the underlined word in the following lines from Sonnet No. 116:\n\"Let me not to the marriage of true minds Admit Impediments………..",
+      "options": [
+        "Obstacles",
+        "Victory",
+        "Success",
+        "Happiness"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the context of Sonnet No. 116, the underlined word \"Impediments\" refers to obstacles that can hinder or obstruct the union of true minds in a marriage. The speaker emphasizes that genuine love should remain unaffected by external challenges or barriers. By choosing \"Obstacles\" as the correct answer, it highlights the idea that true love is steadfast and unwavering, regardless of any impediments that may arise. The other options, such as \"Victory,\" \"Success,\" and \"Happiness,\" do not accurately capture the essence of what \"Impediments\" signifies in this context, which is specifically about the challenges that love must endure.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201368,
+      "question": "Choose the option containing the author of the following lines\n\"No Nightingale did ever chant\nMore welcome notes to weary bands\".",
+      "options": [
+        "Hopkins in 'Laugh and be Merry'",
+        "Khalil Gibran in 'Earth'",
+        "Wordsworth in \"The Solitary Reaper\"",
+        "Kamala Das in \"Punishment in the Kindergarten\""
+      ],
+      "correctIndex": 2,
+      "explanation": "The lines \"No Nightingale did ever chant / More welcome notes to weary bands\" are from William Wordsworth's poem \"The Solitary Reaper.\" In this poem, Wordsworth reflects on the beauty and emotional impact of a solitary woman singing in the Scottish Highlands. The imagery of the nightingale, a bird often associated with beautiful song, emphasizes the profound effect of the reaper's song on the listener. Wordsworth's work frequently explores themes of nature, emotion, and the human experience, making this poem a quintessential example of his romantic style. The other options do not contain these lines, confirming that Wordsworth is the correct author.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201369,
+      "question": "\"The music in my heart I bore\nLong after it was heard no more\"\nThese lines appear in __________.",
+      "options": [
+        "Be the best",
+        "Tables turned",
+        "A Psalm of Life",
+        "The Solitary Reaper"
+      ],
+      "correctIndex": 3,
+      "explanation": "The lines \"The music in my heart I bore / Long after it was heard no more\" are from \"The Solitary Reaper,\" a poem by William Wordsworth. This poem reflects on the profound impact of a solitary woman's song as she reaps in the fields. The speaker is deeply moved by the beauty of her music, which resonates within him long after the sound has faded. Wordsworth captures the theme of the enduring power of art and nature, illustrating how a fleeting moment can leave a lasting impression on the human spirit. The other options, while notable works, do not contain these specific lines.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201370,
+      "question": "\"She left India as a student, but she would see the nation of her birth, all of it, from hundreds \nof miles above\"- George W. Bush spoke these lines about whom?",
+      "options": [
+        "Kalpana Chawla",
+        "Sunita Williams",
+        "Meena Alexander",
+        "Chitra Divakaruni"
+      ],
+      "correctIndex": 0,
+      "explanation": "George W. Bush's words refer to Kalpana Chawla, an Indian-American astronaut and the first woman of Indian origin in space. Chawla's journey from India to becoming an astronaut symbolizes her remarkable achievements and contributions to space exploration. Her legacy is particularly poignant as she tragically lost her life in the Space Shuttle Columbia disaster in 2003. Bush's statement highlights the pride and admiration for her accomplishments, emphasizing her connection to India and her extraordinary perspective of viewing her homeland from space. This reflects not only her personal journey but also the broader narrative of Indian contributions to science and technology.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201371,
+      "question": "Who speaks the following lines in  Shakespeare's \"The Merchant of Venice\".\n\"The quality of mercy is not strained\nIt droppeth as the gentle rain from heaven\nUpon the place beneath\".",
+      "options": [
+        "Antonio",
+        "Shylock",
+        "Portia",
+        "Duke"
+      ],
+      "correctIndex": 2,
+      "explanation": "In \"The Merchant of Venice,\" the lines \"The quality of mercy is not strained / It droppeth as the gentle rain from heaven / Upon the place beneath\" are spoken by Portia during her famous speech in Act 4, Scene 1. Portia, disguised as a young lawyer, appeals to Shylock's sense of mercy while arguing in court. She emphasizes that mercy is a natural and unforced quality, likening it to gentle rain that benefits all. This speech highlights the theme of mercy versus justice in the play and showcases Portia's intelligence and eloquence as she seeks to persuade Shylock to show compassion towards Antonio.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201372,
+      "question": "The following line is from the play Julius Caesar.\n\"O judgement! Thou art fled to brutish beasts\"\nThe figure of speech employed in the above line is",
+      "options": [
+        "Antithesis",
+        "Personification",
+        "Metaphor",
+        "Oxymoron"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the line \"O judgement! Thou art fled to brutish beasts,\" the figure of speech used is personification. Personification involves attributing human qualities or characteristics to non-human entities or abstract concepts. Here, \"judgement\" is treated as if it can flee, which is a human action. This emphasizes the speaker's despair over the loss of rationality and moral judgement in society, suggesting that such qualities have abandoned humanity in favor of animalistic behavior. This enhances the emotional impact of the line, highlighting the chaos and moral decline that the speaker perceives.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201373,
+      "question": "In Julius Caesar, Antony says,\n\"For Brutus is an honourable man\".\n-Here the tone of Antony is one of",
+      "options": [
+        "Admiration",
+        "Irony",
+        "Friendship",
+        "Hero - worship"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this quote, Antony's repeated assertion that \"Brutus is an honourable man\" is laden with irony. While he appears to praise Brutus, his tone and context suggest the opposite. Antony uses this phrase to subtly undermine Brutus's character and decisions, particularly in the context of Brutus's betrayal of Caesar. The repetition serves to highlight the contrast between Brutus's self-image as an honorable leader and the reality of his actions, which Antony seeks to expose. Thus, the irony lies in the discrepancy between Antony's words and the underlying criticism of Brutus's honor, making option B the correct choice.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201374,
+      "question": "Who was the first senator to stab Caesar?",
+      "options": [
+        "Carsius",
+        "Lepidus",
+        "Casca",
+        "Brutus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Casca was the first senator to stab Julius Caesar during the assassination on the Ides of March in 44 BC. He played a crucial role in the conspiracy against Caesar, which was motivated by fears of his growing power and potential tyranny. Casca's attack marked the beginning of the violent act that would lead to Caesar's death, as he struck the first blow, followed by other conspirators, including Brutus. This event is famously depicted in Shakespeare's play \"Julius Caesar,\" where Casca's actions are pivotal in the unfolding of the plot against the dictator.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201375,
+      "question": "Paulnack was the director of the music division at ______________",
+      "options": [
+        "The Boston Conservatory",
+        "The Philharmonic Royal",
+        "The France School of Arts",
+        "The Manhattan Academy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Paulnack served as the director of the music division at The Boston Conservatory, a prestigious institution known for its rigorous training in music, dance, and theater. Under his leadership, the conservatory focused on nurturing talent and fostering a deep understanding of musical artistry. The Boston Conservatory has a rich history and is recognized for its commitment to excellence in performing arts education, making it a significant place for aspiring musicians. Paulnack's role there contributed to the development of many successful artists in the field.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201376,
+      "question": "Which one of the following statements is not related to the lesson \"Music - The Hope Raiser\"?",
+      "options": [
+        "Music is a basic need of human survival",
+        "Music is one of the ways we make sense of our lives.",
+        "Music is a luxury and lavish thing",
+        "Music is not an extravaganza or a hobby"
+      ],
+      "correctIndex": 2,
+      "explanation": "The statement \"Music is a luxury and lavish thing\" is not related to the lesson \"Music - The Hope Raiser\" because the lesson emphasizes the essential role of music in human life, portraying it as a fundamental need rather than a luxury. Music is depicted as a vital aspect of human experience that helps individuals cope with challenges and find meaning in their lives. In contrast, labeling music as a luxury undermines its significance and accessibility, which contradicts the lesson's core message about music being a source of hope and resilience.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201377,
+      "question": "________________ composed the German Requiem.",
+      "options": [
+        "Messiaen",
+        "Johannes Brahms",
+        "Charles Tindley",
+        "Karl Paulnack"
+      ],
+      "correctIndex": 1,
+      "explanation": "Johannes Brahms composed the German Requiem, officially titled \"Ein deutsches Requiem, Op. 45.\" Unlike traditional requiems that are typically written for the Roman Catholic Mass, Brahms' work is a Protestant piece that reflects on themes of comfort and hope in the face of death. It was composed between 1865 and 1868 and is notable for its use of texts from the Lutheran Bible, emphasizing the human experience of grief and the promise of eternal life. Brahms' unique approach to the requiem genre has made this work one of his most celebrated compositions, showcasing his mastery of choral and orchestral writing.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201378,
+      "question": "Who wrote the following motivational poem, \"You can't be that, No, You can't be that\"?",
+      "options": [
+        "Hope Spencer",
+        "Dale Carnegie",
+        "Brian Patten",
+        "Rupert Brooke"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brian Patten is the author of the motivational poem \"You can't be that, No, You can't be that.\" He is known for his ability to convey deep emotions and thoughts through simple yet powerful language. Patten's work often focuses on themes of self-acceptance and the importance of individuality, encouraging readers to embrace their true selves rather than conforming to societal expectations. His poetry resonates with many due to its relatable messages and uplifting tone, making him a significant figure in contemporary poetry.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201379,
+      "question": "\"Good luck is round the corner\" What does this line suggest in the poem \"Keep your spirits High\"?",
+      "options": [
+        "Do anticipate lack",
+        "Do think that luck would favour you",
+        "Be positive and optimistic in all your attitudes",
+        "Do have the frame of mind that you are fortune's minion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The line \"Good luck is round the corner\" suggests an optimistic outlook on life. It implies that positive outcomes and fortunate events are imminent, encouraging a mindset that embraces hope and positivity. This aligns with option C, which emphasizes being positive and optimistic in all attitudes. The phrase conveys that even if one is currently facing challenges, maintaining a hopeful perspective can lead to better circumstances in the near future. It encourages individuals to keep their spirits high, reinforcing the idea that good fortune is always possible if one remains optimistic.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201380,
+      "question": "What is the name of the porter who accompanied Ahtushi Deshpande?",
+      "options": [
+        "Laxmi",
+        "Kundu",
+        "Bamon",
+        "Raman Singh"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct answer is Laxmi, who is identified as the porter accompanying Ahtushi Deshpande. In narratives involving travel or exploration, porters often play a crucial role by assisting with carrying luggage and providing support. Laxmi's presence indicates a partnership that likely enhances Ahtushi's journey, showcasing the importance of local guides and helpers in navigating unfamiliar terrains. This relationship can also highlight cultural interactions and the dynamics of teamwork in various contexts.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201381,
+      "question": "\"A dominant landmark of the north-eastern outskirts of Madurai is YanaiMalai\" Choose the inappropriate statement from the following",
+      "options": [
+        "Yanaimalai is a solid rocky hill",
+        "Yanaimalai is in the north - east direction of Madurai",
+        "Madurai is the landmark of Yanaimalai",
+        "Yanaimalai is otherwise called elephant hill"
+      ],
+      "correctIndex": 2,
+      "explanation": "The statement \"Madurai is the landmark of Yanaimalai\" is inappropriate because it incorrectly suggests that Madurai serves as a reference point for Yanaimalai, rather than the other way around. In reality, Yanaimalai is a prominent geographical feature located on the outskirts of Madurai, making it a landmark of the city rather than the reverse. The other options accurately describe Yanaimalai as a solid rocky hill located to the northeast of Madurai and also refer to it as \"elephant hill,\" which is a common name due to its shape resembling an elephant. Thus, the correct understanding is that Yanaimalai is a significant landmark associated with Madurai, not the other way around.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201382,
+      "question": "Match the following British/ American expressions and select the correct answer from the options given below\n(A) trash\n(B) cookie\n(C) sweets\n(D) tap",
+      "options": [
+        "(A) Rubbish, (B) Biscuit, (C) candy, (D) faucet",
+        "(A) Biscuit, (B) Rubbish, (C) faucet, (D) candy",
+        "(A) candy, (B) faucet, (C) Rubbish, (D) Biscuit",
+        "(A) faucet, (B) candy, (C) Biscuit, (D) Rubbish"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rubbish (British) = trash (American) — both denote waste material or garbage to be discarded.  \nBiscuit (British) = cookie (American) — both refer to a small baked sweet or savory baked good, typically crisp.  \nSweets (British) = candy (American) — both mean confectionery items made mainly of sugar, such as chocolates and boiled sweets.  \nTap (British) = faucet (American) — both are devices controlling the flow of water from a pipe or plumbing fixture.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201383,
+      "question": "Car Park' in British English is ______________ in American English.",
+      "options": [
+        "Parking space",
+        "Parking fees",
+        "Parking plot",
+        "Parking lot"
+      ],
+      "correctIndex": 3,
+      "explanation": "In British English, the term \"Car Park\" refers to an area designated for parking vehicles. In American English, the equivalent term is \"Parking lot.\" While \"Parking space\" refers to an individual spot within a parking area, and \"Parking fees\" pertain to the charges associated with parking, \"Parking lot\" accurately captures the concept of a larger area where multiple vehicles can be parked. Thus, the correct answer is \"Parking lot,\" as it directly corresponds to the British term \"Car Park.\"",
+      "type": "MCQ"
+    },
+    {
+      "id": 201384,
+      "question": "Find out the British English equivalent of \"fall\"",
+      "options": [
+        "Winter",
+        "Summer",
+        "Spring",
+        "Autumn"
+      ],
+      "correctIndex": 3,
+      "explanation": "In British English, the term \"fall\" refers to the season that occurs between summer and winter, which is known as \"autumn.\" This term is derived from the Old French word \"autompne\" and has been used in British English for centuries. In contrast, \"fall\" is more commonly used in American English to describe the same season. The other options—winter, summer, and spring—represent different seasons and do not correspond to the British English equivalent of \"fall.\" Therefore, the correct answer is \"autumn.\"",
+      "type": "MCQ"
+    },
+    {
+      "id": 201385,
+      "question": "\"The present seems all dreary\nThe future very grim.\nThe underlined words mean _____________ and _____________ respectively.",
+      "options": [
+        "confusing and dark",
+        "dear and lovely",
+        "boring and sad",
+        "damp and weak"
+      ],
+      "correctIndex": 2,
+      "explanation": "The underlined words \"dreary\" and \"grim\" convey a sense of negativity and bleakness. \"Dreary\" suggests a feeling of boredom or dullness, indicating that the present lacks excitement or joy. On the other hand, \"grim\" implies a serious, harsh, or sad outlook, reflecting a pessimistic view of the future. Therefore, the correct interpretation of these words aligns with the options \"boring\" for \"dreary\" and \"sad\" for \"grim,\" making option C the right choice.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201386,
+      "question": "Match the poems with the authors and select the correct code\n(A) A Psalm of Life\n(B) Is Life But a Dream\n(C) Going for water\n(D) Punishment in Kindergarten",
+      "options": [
+        "(A) H.W. Longfellow, (B) Lewis Carroll, (C) Robert Frost, (D) Kamala Das",
+        "(A) Lewis Carroll, (B) H.W. Longfellow, (C) Kamala Das, (D) Robert Frost",
+        "(A) Robert Frost, (B) Kamala Das, (C) H.W. Longfellow, (D) Lewis Carroll",
+        "(A) Kamala Das, (B) Robert Frost, (C) Lewis Carroll, (D) H.W. Longfellow"
+      ],
+      "correctIndex": 0,
+      "explanation": "- A Psalm of Life — H.W. Longfellow: Inspirational Victorian poem urging purposeful action and the immortality of the soul, famously opening with \"Tell me not, in mournful numbers...\"  \n- Is Life But a Dream — Lewis Carroll: Playful nonsense verse questioning reality and perception, reflecting Carroll’s use of whimsy and paradox in children’s literature.  \n- Going for Water — Robert Frost: Pastoral narrative poem depicting rural life and labor, exploring memory, community, and subtle tensions through a simple trip to fetch water.  \n- Punishment in Kindergarten — Kamala Das: Confessional poem recounting childhood humiliation and loss of innocence, showcasing Das’s candid voice and themes of identity and suffering.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201387,
+      "question": "Which of the following is not a poem?",
+      "options": [
+        "Shilpi",
+        "Be the Best",
+        "Off to Outer Space Tomorrow Morning",
+        "Flying with the moon on their wings"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Flying with the moon on their wings\" is not a poem; it is actually a phrase that evokes imagery but does not correspond to a recognized poem title. The other options, \"Shilpi,\" \"Be the Best,\" and \"Off to Outer Space Tomorrow Morning,\" are all established poems. \"Shilpi\" is a poem that reflects on the life of an artist, \"Be the Best\" encourages striving for excellence, and \"Off to Outer Space Tomorrow Morning\" is a whimsical piece about adventure. In contrast, the phrase in question lacks the structure and context of a formal poem, making it the correct answer to the question.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201388,
+      "question": "Which of the following is a short story?",
+      "options": [
+        "Be the Best",
+        "The Tears of the Desert",
+        "The Flying Wonder",
+        "The Man He Killed"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The Tears of the Desert\" is a short story that explores themes of loss and resilience. Unlike the other options, which may be longer narratives or different forms of literature, this work encapsulates a complete narrative arc within a concise format typical of short stories. It presents characters, a setting, and a conflict that is resolved within a limited number of pages, making it a prime example of the short story genre. The brevity allows for a focused exploration of its themes, engaging readers in a powerful emotional experience in a short span of time.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201389,
+      "question": "Pangolin figures in",
+      "options": [
+        "The Anteater and the Dassie",
+        "The Neem Tree",
+        "Reflowering",
+        "The Necklace Holiday"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pangolins are featured in \"The Anteater and the Dassie,\" a story that highlights the unique characteristics and behaviors of these fascinating creatures. In this narrative, the pangolin is often portrayed alongside other animals, emphasizing its role in the ecosystem and its distinctive traits, such as its protective keratin scales and insectivorous diet. The story serves to educate readers about the pangolin's lifestyle and the challenges it faces, including habitat loss and poaching. By including the pangolin in this context, the narrative raises awareness about the importance of conservation efforts for this endangered species.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201390,
+      "question": "Who uttered the line \"I craved the law\" in \"The Merchant of Venice\"?",
+      "options": [
+        "Portia",
+        "Shylock",
+        "Antonio",
+        "Bassanio"
+      ],
+      "correctIndex": 1,
+      "explanation": "In \"The Merchant of Venice,\" the line \"I craved the law\" is spoken by Shylock, the Jewish moneylender. This line reflects Shylock's deep desire for justice and his insistence on the legal contract he made with Antonio. Throughout the play, Shylock is portrayed as a character who is wronged and seeks retribution through the law, highlighting themes of justice, mercy, and revenge. His fixation on the law serves as a pivotal point in the narrative, illustrating the conflict between mercy and strict adherence to legal agreements. Shylock's character embodies the struggle for dignity and respect in a society that marginalizes him, making his declaration significant in understanding his motivations and the play's broader themes.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201391,
+      "question": "Match the following:\n(A) Randall Jarrell\n(B) Indian Anandakrishnan\n(C) Tagore\n(D) Rudyard Kipling",
+      "options": [
+        "(A) Bat, (B) The Neem Tree, (C) Nobel Prize, (D) Bombay",
+        "(A) The Neem Tree, (B) Bat, (C) Bombay, (D) Nobel Prize",
+        "(A) Nobel Prize, (B) Bombay, (C) Bat, (D) The Neem Tree",
+        "(A) Bombay, (B) Nobel Prize, (C) The Neem Tree, (D) Bat"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Randall Jarrell wrote the poem \"The Bat,\" a noted 20th-century American lyric exemplifying his concise, ironic style.  \n- Indian Anandakrishnan authored the book \"The Neem Tree,\" addressing environmental and sustainable-development themes in India.  \n- Tagore received the Nobel Prize in Literature in 1913 for Gitanjali, becoming the first Asian Nobel laureate in literature.  \n- Rudyard Kipling was born in Bombay (now Mumbai), and his early life in India influenced works like \"Kim\" and many colonial-era stories.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201392,
+      "question": "Mohiniyattam is a classical dance form from",
+      "options": [
+        "Kerala",
+        "Bihar",
+        "Kashmir",
+        "Tamil Nadu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mohiniyattam is a classical dance form that originates from Kerala, a state in southern India. This dance is characterized by its graceful movements and expressive gestures, often depicting themes from Hindu mythology and spirituality. It is traditionally performed by women and is known for its unique style that combines elements of both Bharatanatyam and Kathakali. The name \"Mohiniyattam\" translates to \"the dance of the enchantress,\" reflecting its focus on feminine grace and beauty. The dance is typically accompanied by traditional music and is an integral part of Kerala's cultural heritage.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201393,
+      "question": "Which of the following works in not a poem?",
+      "options": [
+        "Be the Best",
+        "Manliness",
+        "Swept Away",
+        "The Man He Killed"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Swept Away\" is not a poem; it is a short story written by the author. In contrast, \"Be the Best,\" \"Manliness,\" and \"The Man He Killed\" are all recognized as poems. \"Be the Best\" emphasizes the importance of striving for excellence, while \"Manliness\" explores themes of masculinity and identity. \"The Man He Killed,\" written by Thomas Hardy, reflects on the absurdity of war and the moral dilemmas faced by soldiers. Each of these works employs poetic devices and structures, distinguishing them from \"Swept Away,\" which focuses on narrative storytelling rather than poetic expression.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201394,
+      "question": "Choose the correct answer from the options given below:\n\"There was never mystery\nBut' tis figured in the flowers;\nWas never secret history\nBut birds tell it in the bowers\".\nThese lines are taken from the poem",
+      "options": [
+        "My Native Land'",
+        "To India",
+        "The Apology",
+        "Laugh and be Merry"
+      ],
+      "correctIndex": 2,
+      "explanation": "The lines quoted are from \"The Apology,\" a poem by the renowned poet and writer, Robert Louis Stevenson. In this poem, Stevenson reflects on the beauty of nature and the idea that the mysteries of life are often revealed through the simplicity of flowers and the songs of birds. The imagery used emphasizes the connection between nature and the deeper truths of existence, suggesting that the natural world holds secrets that can be understood if one pays attention. This aligns with the themes present in \"The Apology,\" making it the correct choice among the given options.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201395,
+      "question": "Mr. Pneumonia figures in __________________.",
+      "options": [
+        "The Last Leaf",
+        "The Selfish Giant",
+        "The Lottery Ticket",
+        "The Open Window"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mr. Pneumonia is a character in O. Henry's short story \"The Last Leaf.\" In this poignant tale, he symbolizes the illness that threatens the life of a young artist named Johnsy, who is suffering from pneumonia. The story revolves around themes of hope, sacrifice, and the power of art. As Johnsy becomes increasingly despondent, she believes that she will die when the last leaf falls from the vine outside her window. The character of Mr. Pneumonia serves as a metaphor for the disease that not only affects Johnsy physically but also emotionally, highlighting the struggle between life and death. The story ultimately conveys a message about the impact of love and selflessness, as another character, Behrman, makes a significant sacrifice to give Johnsy hope.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201396,
+      "question": "What is the title of H.W. Longfellow's volume of poems which included \"A Psalm of Life\"?",
+      "options": [
+        "Hiawatha",
+        "Tales of a Wayside -Inn",
+        "Evangeline",
+        "Voices of the Night"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"Voices of the Night\" is the title of H.W. Longfellow's volume of poems that includes the well-known poem \"A Psalm of Life.\" Published in 1839, this collection showcases Longfellow's lyrical style and explores themes of life, death, and the human experience. While other options like \"Hiawatha,\" \"Tales of a Wayside Inn,\" and \"Evangeline\" are also significant works by Longfellow, they do not contain \"A Psalm of Life.\" \"Voices of the Night\" is particularly notable for its reflective and inspirational tone, making it a cherished piece in American literature.",
+      "type": "MCQ"
+    },
+    {
+      "id": 201397,
+      "question": "Match the following:\n(A) \"I was born a farmer\"\n(B) \"Nations are built by the imagination and untiring enthusiastic efforts of generations\"\n(C) …. You cannot believe darling, can you that I lived in such a house\n(D) \"Into that heaven of freedom, My Father let my country awake\"",
+      "options": [
+        "(A) Kesavan Nair, (B) A.P.J. Abdul Kalam, (C) Kamala Surayya, (D) Rabindranath Tagore",
+        "(A) A.P.J. Abdul Kalam, (B) Kesavan Nair, (C) Rabindranath Tagore, (D) Kamala Surayya",
+        "(A) Kamala Surayya, (B) Rabindranath Tagore, (C) Kesavan Nair, (D) A.P.J. Abdul Kalam",
+        "(A) Rabindranath Tagore, (B) Kamala Surayya, (C) A.P.J. Abdul Kalam, (D) Kesavan Nair"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"I was born a farmer\" — Kesavan Nair: Kesavan Nair uses this plain declarative line to assert rural identity and agrarian roots central to his narrative voice and social commentary.\n\n\"Nations are built by the imagination and untiring enthusiastic efforts of generations\" — A.P.J. Abdul Kalam: Kalam emphasizes collective national progress driven by visionary imagination and sustained effort across generations, reflecting his development-focused philosophy.\n\n\"… You cannot believe darling, can you that I lived in such a house\" — Kamala Surayya: Kamala Surayya (Madhavikutty) expresses intimate astonishment and personal revelation, characteristic of her confessional prose on private and domestic life.\n\n\"Into that heaven of freedom, My Father let my country awake\" — Rabindranath Tagore: Tagore’s line (from \"Gitanjali\"/\"Where the Mind is Without Fear\") invokes spiritual patriotism and a plea for national moral and intellectual awakening.",
+      "type": "MATCH"
+    },
+    {
+      "id": 201398,
+      "question": "Who among the following is not a character in Shakespeare's \"The Merchant of Venice\" ?",
+      "options": [
+        "Calpurnia",
+        "Bassanio",
+        "Portia",
+        "Nerissa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Calpurnia is not a character in Shakespeare's \"The Merchant of Venice.\" She is actually a character from \"Julius Caesar,\" where she is the wife of Caesar. In contrast, Bassanio, Portia, and Nerissa are all key characters in \"The Merchant of Venice.\" Bassanio is a young Venetian who seeks to marry Portia, a wealthy heiress. Portia is known for her intelligence and resourcefulness, particularly in the courtroom scene. Nerissa is Portia's maid and confidante, who also plays a significant role in the story. Thus, Calpurnia stands out as the only option that does not belong to the cast of \"The Merchant of Venice.\"",
+      "type": "MCQ"
+    }
+  ]
+}

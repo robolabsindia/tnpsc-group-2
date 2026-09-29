@@ -1,0 +1,1308 @@
+{
+  "title": "TNPSC Group-2 2017 - General Studies (English)",
+  "description": "TNPSC previous year exam questions for 2017 Group-2 (General Studies) in English.",
+  "year": "2017",
+  "group": "Group-2",
+  "subject": "General Studies",
+  "language": "english",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 202899,
+      "question": "Projectile motion is a combination of horizontal motion with constant ________ and vertical motion with constant _________",
+      "options": [
+        "Acceleration, velocity",
+        "Velocity, acceleration",
+        "Displacement, velocity",
+        "Velocity, displacement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Projectile motion involves two components: horizontal and vertical motion. The horizontal motion occurs at a constant velocity, meaning that the object moves forward at a steady speed without any acceleration acting on it in that direction. In contrast, the vertical motion is influenced by gravity, resulting in a constant acceleration downwards. This distinction is crucial because it allows us to analyze the two motions separately, leading to a comprehensive understanding of the projectile's trajectory. Therefore, the correct answer is that projectile motion combines horizontal motion with constant velocity and vertical motion with constant acceleration.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202900,
+      "question": "Nuclear force is",
+      "options": [
+        "charge dependent",
+        "spin independent",
+        "both charge and spin independent",
+        "spin dependent but charge independent"
+      ],
+      "correctIndex": 3,
+      "explanation": "The nuclear force, which binds protons and neutrons in an atomic nucleus, is characterized by its dependence on the intrinsic properties of particles. It is spin dependent, meaning that the interaction strength can vary based on the spin orientations of the nucleons involved. This is crucial for understanding phenomena such as the pairing of nucleons in nuclei. However, the nuclear force is charge independent, indicating that it acts similarly regardless of whether the nucleons are protons or neutrons. This property allows for the stability of nuclei with varying proton-neutron ratios. Thus, the correct answer highlights the unique nature of the nuclear force as being influenced by spin while remaining unaffected by the electric charge of the particles.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202901,
+      "question": "The area of a semi-circle of radius 7 c.m. is",
+      "options": [
+        "7 cm²",
+        "777 cm²",
+        "77 cm²",
+        "7777cm²"
+      ],
+      "correctIndex": 2,
+      "explanation": "The area of a semi-circle can be calculated using the formula \\( A = \\frac{1}{2} \\pi r^2 \\), where \\( r \\) is the radius. For a semi-circle with a radius of 7 cm, we first calculate the area of the full circle, which is \\( \\pi r^2 = \\pi (7^2) = 49\\pi \\). To find the area of the semi-circle, we divide this by 2: \n\n\\[\nA = \\frac{1}{2} \\times 49\\pi \\approx \\frac{49 \\times 3.14}{2} \\approx 77 \\text{ cm}^2.\n\\]\n\nThus, the area of the semi-circle is approximately 77 cm², making option C the correct answer.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202902,
+      "question": "",
+      "options": [
+        "SO₃²⁻ is Lewis acid and oxygen is Lewis base",
+        "Oxygen is Lewis acid and SO₃²⁻ is Lewis base",
+        "Both are Lewis acids",
+        "Both are Lewis bases"
+      ],
+      "correctIndex": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": 202903,
+      "question": "Cyanide resistant respiration is found in",
+      "options": [
+        "Plants only",
+        "Animals only",
+        "Both plants and animals",
+        "Plants and Microbes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cyanide resistant respiration is a metabolic process that allows certain organisms to continue producing energy even in the presence of cyanide, which typically inhibits cellular respiration. This type of respiration is primarily found in some plants and microbes. In plants, particularly in certain species, this adaptation helps them survive in environments where cyanide is present, such as in some soils or during specific stress conditions. Similarly, certain microbes have evolved mechanisms to bypass the toxic effects of cyanide, allowing them to thrive in similar environments. Therefore, the correct answer is that cyanide resistant respiration is found in both plants and microbes.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202904,
+      "question": "Male sex hormone 'testosterone' is produced by",
+      "options": [
+        "Leydig cells",
+        "Sertoli cells",
+        "Germinal epithelial cells",
+        "Spermatogonial cells"
+      ],
+      "correctIndex": 0,
+      "explanation": "Testosterone, the primary male sex hormone, is produced by Leydig cells, which are located in the interstitial tissue of the testes. These cells are responsible for the synthesis and secretion of testosterone in response to luteinizing hormone (LH) stimulation from the pituitary gland. Sertoli cells, on the other hand, support and nourish developing sperm cells but do not produce testosterone. Germinal epithelial cells are involved in the formation of sperm, while spermatogonial cells are the precursor cells that undergo division to form spermatozoa. Therefore, the correct answer is Leydig cells, as they play a crucial role in male reproductive hormone production.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202905,
+      "question": "Which one of the following is correctly matched?\nI.   Gregor Mendel - Neurospora\nII.  T.H. Morgan    - Drosophila\nIII. C.B. Bridges   - Garden pea\nIV. J. H. Muller     - Mice",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct match is T.H. Morgan with Drosophila. T.H. Morgan is renowned for his pioneering work in genetics using the fruit fly Drosophila melanogaster, which became a model organism for genetic studies. His experiments provided critical insights into the principles of inheritance and the chromosomal basis of heredity. In contrast, Gregor Mendel is known for his work with pea plants, not Neurospora; C.B. Bridges also worked with Drosophila, not garden peas; and J.H. Muller is recognized for his work with Drosophila as well, rather than mice. Therefore, option B is the only correct pairing in this context.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202906,
+      "question": "Tax is charged on some items which are manufactured in the country. This is collected by the Government of India. This Tax is",
+      "options": [
+        "Direct Tax",
+        "Indirect Tax",
+        "Excise Duty",
+        "Service Tax"
+      ],
+      "correctIndex": 2,
+      "explanation": "Excise Duty is a type of indirect tax levied on the manufacture of goods within a country. In India, it is collected by the central government and is applicable to specific products, such as alcohol, tobacco, and petroleum products. Unlike direct taxes, which are paid directly by individuals or organizations based on their income or profits, excise duty is included in the price of the goods and is ultimately borne by the consumer. This tax is crucial for generating revenue for the government and regulating the production and consumption of certain goods.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202907,
+      "question": "The value of",
+      "options": [
+        "3x",
+        "3",
+        "3x + 2",
+        "x - 2"
+      ],
+      "correctIndex": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": 202908,
+      "question": "A boy is now twice as old as his sister, four years ago, he was thrice as old as her what are their ages now?",
+      "options": [
+        "18,9",
+        "14,7",
+        "16,8",
+        "12,6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Let the boy's current age be represented as B and his sister's age as S. According to the problem, we have two key pieces of information: \n\n1. The boy is currently twice as old as his sister: B = 2S.\n2. Four years ago, the boy was thrice as old as his sister: B - 4 = 3(S - 4).\n\nSubstituting the first equation into the second gives us: 2S - 4 = 3(S - 4). Simplifying this leads to 2S - 4 = 3S - 12, which rearranges to S = 8. Plugging S back into the first equation gives B = 16. \n\nThus, the boy is 16 years old and his sister is 8 years old, confirming that the correct answer is 16, 8.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202909,
+      "question": "x³/² : 9  = 16 : √x. What is the value of  x ?",
+      "options": [
+        "±16",
+        "±3",
+        "±4",
+        "±12"
+      ],
+      "correctIndex": 3,
+      "explanation": "To solve the equation \\( \\frac{x^{3/2}}{9} = \\frac{16}{\\sqrt{x}} \\), we start by cross-multiplying to eliminate the fractions, resulting in \\( x^{3/2} \\cdot \\sqrt{x} = 144 \\). Since \\( \\sqrt{x} = x^{1/2} \\), we can rewrite the left side as \\( x^{3/2} \\cdot x^{1/2} = x^{2} \\). Thus, we have \\( x^{2} = 144 \\). Taking the square root of both sides gives us \\( x = \\pm12 \\). Therefore, the solution to the equation is \\( x = \\pm12 \\), which corresponds to option D.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202910,
+      "question": "Total surface area of hollow hemisphere is equal to",
+      "options": [
+        "2π(R² + r²) sq. units",
+        "2π(R² -  r²) sq.units",
+        "π(3R² + r²) sq. units",
+        "π(3R² - r²) sq. units"
+      ],
+      "correctIndex": 2,
+      "explanation": "The total surface area of a hollow hemisphere consists of the curved surface area and the area of the circular base. The curved surface area of a hemisphere is given by 2πR², where R is the radius of the outer hemisphere. The area of the base is πR². For a hollow hemisphere, we also consider the inner radius, r, which contributes an additional curved surface area of 2πr² and a base area of πr². Therefore, the total surface area combines these components: 2πR² + πR² + 2πr² + πr², simplifying to π(3R² + r²). Thus, the correct answer is π(3R² + r²) sq. units.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202911,
+      "question": "The probability that a leap year will have 53 Fridays or 53 Saturdays is",
+      "options": [
+        "1 / 7",
+        "2 / 7",
+        "3 / 7",
+        "4 / 7"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a leap year, there are 366 days, which equates to 52 weeks and 2 extra days. These extra days can be any of the following pairs: Sunday-Monday, Monday-Tuesday, Tuesday-Wednesday, Wednesday-Thursday, Thursday-Friday, Friday-Saturday, or Saturday-Sunday. Out of these combinations, the pairs that include either a Friday or a Saturday are Thursday-Friday, Friday-Saturday, and Saturday-Sunday. Therefore, there are 3 favorable outcomes (Thursday-Friday, Friday-Saturday, Saturday-Sunday) out of a total of 7 possible pairs of extra days. Thus, the probability that a leap year will have 53 Fridays or 53 Saturdays is 3 out of 7, which corresponds to option C.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202912,
+      "question": "Factorization of (x + y)² +9(x + y)+ 8 is",
+      "options": [
+        "(x+y+1) (x +y)",
+        "(x+y+1) (x +y+8)",
+        "(x+y+1)(x+y+6)",
+        "(x+y+8)(x+y+2)"
+      ],
+      "correctIndex": 1,
+      "explanation": "To factor the expression \\((x + y)² + 9(x + y) + 8\\), we can start by letting \\(z = x + y\\). This transforms the expression into \\(z² + 9z + 8\\). We need to find two numbers that multiply to 8 (the constant term) and add up to 9 (the coefficient of the linear term). The numbers 1 and 8 satisfy these conditions since \\(1 \\times 8 = 8\\) and \\(1 + 8 = 9\\). Therefore, we can factor the quadratic as \\((z + 1)(z + 8)\\). Substituting back \\(z = x + y\\), we get \\((x + y + 1)(x + y + 8)\\). Thus, the correct factorization is \\((x + y + 1)(x + y + 8)\\), which corresponds to option B.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202913,
+      "question": "What is the difference between the sum of first 'n' odd natural numbers and that of first 'n' natural numbers?",
+      "options": [
+        "n/2 + 1",
+        "n(n-1)/2",
+        "n(n+1)/2",
+        "n(n+1)(2n+1)/6"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sum of the first 'n' natural numbers is given by the formula \\( S_n = \\frac{n(n+1)}{2} \\). The sum of the first 'n' odd natural numbers can be expressed as \\( S_{odd} = n^2 \\). To find the difference between these two sums, we calculate \\( S_{odd} - S_n \\):\n\n\\[\nn^2 - \\frac{n(n+1)}{2} = n^2 - \\frac{n^2 + n}{2} = \\frac{2n^2 - n^2 - n}{2} = \\frac{n^2 - n}{2} = \\frac{n(n-1)}{2}\n\\]\n\nThus, the difference between the sum of the first 'n' odd natural numbers and that of the first 'n' natural numbers is \\( \\frac{n(n-1)}{2} \\), which corresponds to option B.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202914,
+      "question": "Which of the following is arranged in correct ascending order?",
+      "options": [
+        "25% of 8, 40% of 6, 30% of 9, 20% of 15",
+        "20% of 15, 25% of 8, 30% of 9, 40% of 6",
+        "30% of 9, 40% of 6, 25% of 8, 20% of 15",
+        "20% of 15, 30% of 9, 40% of 6, 25% of 8"
+      ],
+      "correctIndex": 0,
+      "explanation": "To determine the correct ascending order, we first calculate the values of each option:\n\n- 25% of 8 = 2\n- 40% of 6 = 2.4\n- 30% of 9 = 2.7\n- 20% of 15 = 3\n\nNow, we can arrange these values in ascending order: 2 (25% of 8), 2.4 (40% of 6), 2.7 (30% of 9), and 3 (20% of 15). \n\nThus, the correct ascending order is 25% of 8, 40% of 6, 30% of 9, and 20% of 15, which corresponds to option A.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202915,
+      "question": "Which of the following is larger in area?",
+      "options": [
+        "A triangle with base 10 cm and height 8 cm",
+        "A triangle with sides 12 cm, 5 cm and 13 cm",
+        "An equilateral triangle whose sides are 10 cm each",
+        "A right angled triangle whose sides containing the right angle are 3 cm and 4 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "To determine which triangle has the largest area, we can calculate the area of each option. \n\nA: The area of a triangle is given by the formula \\( \\text{Area} = \\frac{1}{2} \\times \\text{base} \\times \\text{height} \\). For the triangle with base 10 cm and height 8 cm, the area is \\( \\frac{1}{2} \\times 10 \\times 8 = 40 \\, \\text{cm}^2 \\).\n\nB: For the triangle with sides 12 cm, 5 cm, and 13 cm, we can use Heron's formula. The semi-perimeter \\( s = \\frac{12 + 5 + 13}{2} = 15 \\). The area is \\( \\sqrt{s(s-a)(s-b)(s-c)} = \\sqrt{15(15-12)(15-5)(15-13)} = \\sqrt{15 \\times 3 \\times 10 \\times 2} = \\sqrt{300} \\approx 17.32 \\, \\text{cm}^2 \\).\n\nC: For the equilateral triangle with sides of 10 cm, the area is \\( \\frac{\\sqrt{3}}{4} \\times a^2 = \\frac{\\sqrt{3}}{4} \\times 10^2 = 25\\sqrt{3} \\approx 43.3 \\, \\text{cm}^2 \\).\n\nD: For the right-angled triangle with sides 3 cm and 4 cm, the area is \\( \\frac{1}{2} \\times 3 \\times 4 = 6 \\, \\text{cm}^2 \\).\n\nComparing the areas, we find that the equilateral triangle (C) has the largest area at approximately 43.3 cm², which is larger than the other options.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202916,
+      "question": "The arithmetic mean of a group of 75 observations was calculated as 27. It was later found that one observation was wrongly read as 43 instead of the correct value 53. Obtain the correct arithmetic mean of the data.",
+      "options": [
+        "26.13",
+        "27.13",
+        "28.13",
+        "25.13"
+      ],
+      "correctIndex": 1,
+      "explanation": "To find the correct arithmetic mean, we first calculate the total sum of the original observations. The mean is given by the formula:\n\n\\[\n\\text{Mean} = \\frac{\\text{Total Sum}}{n}\n\\]\n\nwhere \\( n \\) is the number of observations. Here, the mean is 27 for 75 observations, so:\n\n\\[\n\\text{Total Sum} = 27 \\times 75 = 2025\n\\]\n\nNext, we correct the erroneous observation. The incorrect observation was 43, and it should have been 53. The difference is:\n\n\\[\n53 - 43 = 10\n\\]\n\nThus, we add this difference to the total sum:\n\n\\[\n\\text{Correct Total Sum} = 2025 + 10 = 2035\n\\]\n\nNow, we calculate the new mean:\n\n\\[\n\\text{Correct Mean} = \\frac{2035}{75} \\approx 27.1333\n\\]\n\nRounding to two decimal places gives us 27.13, which is the correct arithmetic mean.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202917,
+      "question": "A sum of money triples itself at 8% per annum over certain time. The number of years is equal to",
+      "options": [
+        "24",
+        "25",
+        "20",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "To determine how long it takes for a sum of money to triple at an interest rate of 8% per annum, we can use the formula for compound interest. The formula is A = P(1 + r)^t, where A is the final amount, P is the principal amount, r is the rate of interest, and t is the time in years. If the money triples, then A = 3P. Substituting into the formula gives us 3P = P(1 + 0.08)^t. Dividing both sides by P simplifies to 3 = (1.08)^t. Taking the logarithm of both sides allows us to solve for t: t = log(3) / log(1.08). Calculating this yields approximately 25 years. Therefore, the correct answer is 25 years.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202918,
+      "question": "Match the following:\n(A) Annie Besant\n(B) Bipin Chandra Pal\n(C) Bhupendra Nath Dutta\n(D) Tilak",
+      "options": [
+        "(A) Common weal, (B) The New Asia, (C) Yugandhar, (D) Kesari",
+        "(A) The New Asia, (B) Common weal, (C) Kesari, (D) Yugandhar",
+        "(A) Yugandhar, (B) Kesari, (C) Common weal, (D) The New Asia",
+        "(A) Kesari, (B) Yugandhar, (C) The New Asia, (D) Common weal"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Annie Besant — Common weal: Annie Besant founded and edited the journal Common weal to propagate theosophical and social reform ideas during her public career.  \n- Bipin Chandra Pal — The New Asia: Bipin Chandra Pal contributed to and advocated ideas in periodicals like The New Asia as part of his radical nationalist and reformist journalism.  \n- Bhupendra Nath Dutta — Yugandhar: Bhupendra Nath Dutta authored the biographical/historical work Yugandhar reflecting his interest in nationalist thought and intellectual history.  \n- Tilak — Kesari: Bal Gangadhar Tilak founded and edited the Marathi newspaper Kesari, using it as a platform for assertive nationalist propaganda.",
+      "type": "MATCH"
+    },
+    {
+      "id": 202919,
+      "question": "Before E.V. Ramaswamy Vaikom Satyagraha was first started by three leaders. They were",
+      "options": [
+        "T. Prakasam, T.K. Madhavan and K.P. Kesava Menon",
+        "T.K. Madhavan, K.P. Kesava Menon and George Joseph",
+        "George Joseph, T. Prakasam and T.K. Madhavan",
+        "K.P. Kesava Mend, T. Prakasam and George Joseph"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Vaikom Satyagraha, which aimed to secure the right of all people to enter the Vaikom temple in Kerala, was initiated by T.K. Madhavan, K.P. Kesava Menon, and George Joseph. These leaders played a crucial role in mobilizing support for the movement, which was significant in the struggle against caste discrimination and for social reform in India. T.K. Madhavan was a prominent social reformer and a key figure in the Indian independence movement, while K.P. Kesava Menon was known for his advocacy of social justice. George Joseph contributed to the movement by emphasizing the need for equality and access to public spaces. Their collective efforts laid the groundwork for the larger civil rights movement in India, making this event a pivotal moment in the fight against social injustice.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202920,
+      "question": "Who was called 'The Father of Modern India'?",
+      "options": [
+        "Ambedkar",
+        "Periyar' EV.R",
+        "Gandhiji",
+        "Rajaram Mohan Roy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rajaram Mohan Roy is often referred to as 'The Father of Modern India' due to his pivotal role in social and educational reforms during the 19th century. He was a key figure in the Bengal Renaissance and advocated for the abolition of practices such as Sati, promoting women's rights and education. Roy founded the Brahmo Samaj, which aimed to reform Hindu society and promote monotheism. His efforts in promoting rational thought, scientific inquiry, and modern education laid the groundwork for future reform movements in India. His vision for a progressive society and his commitment to social justice earned him this esteemed title, highlighting his lasting impact on Indian society.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202921,
+      "question": "Tambapanni is the old name of",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Sri Lanka",
+        "Karnataka"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tambapanni is the ancient name for Sri Lanka, derived from the Sanskrit word \"Tambapanni,\" which means \"copper-colored water.\" This name reflects the island's historical significance and its geographical features. The term is often associated with the early settlements and the arrival of Prince Vijaya, who is credited with founding the Sinhalese kingdom in Sri Lanka. The other options, Tamil Nadu, Kerala, and Karnataka, are regions in India and do not share this historical connection with the name Tambapanni. Thus, the correct answer is Sri Lanka.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202922,
+      "question": "Name the journal which declared 'Swami Vivekanand the greatest figure in the Parliament'.",
+      "options": [
+        "Young India",
+        "Samachar Darpan",
+        "Swadeshi Mithran",
+        "New York Herald"
+      ],
+      "correctIndex": 3,
+      "explanation": "The New York Herald, a prominent newspaper in the United States, recognized Swami Vivekananda's impactful speech at the Parliament of Religions in Chicago in 1893. His eloquence and profound insights on spirituality and religious tolerance captivated the audience, leading the publication to declare him as the greatest figure at the event. This acknowledgment not only highlighted Vivekananda's significant role in introducing Indian philosophies to the Western world but also marked a pivotal moment in the global dialogue on religion and spirituality. The New York Herald's endorsement helped elevate Vivekananda's status internationally, showcasing the importance of his message and the influence of his presence at the Parliament.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202923,
+      "question": "Cultivable lands which has not been ploughed for between one and five years are called as",
+      "options": [
+        "Culturable waste",
+        "Current fallows",
+        "Other fallows",
+        "Permanent fallows"
+      ],
+      "correctIndex": 2,
+      "explanation": "Other fallows refer to cultivable lands that have not been ploughed for a period ranging from one to five years. This classification is important in agricultural practices as it indicates land that has the potential to be re-cultivated but has been left idle for a certain duration. In contrast, current fallows are lands that are temporarily left uncultivated for a shorter period, while permanent fallows are those that are not intended for cultivation at all. Culturable waste refers to land that is potentially cultivable but is currently not being used for farming. Understanding these categories helps in assessing land use and planning for agricultural productivity.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202924,
+      "question": "Tidal forests of Ganga - Brahmaputra delta, mainly consists of",
+      "options": [
+        "Rhododentrons",
+        "Hardwood palms",
+        "Laurels",
+        "Junipers"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tidal forests of the Ganga-Brahmaputra delta are primarily characterized by the presence of hardwood palms. These forests thrive in the unique brackish water conditions created by the confluence of river and sea, which supports a diverse range of flora. Hardwood palms are well-adapted to the saline environment and play a crucial role in stabilizing the soil and providing habitat for various wildlife. In contrast, the other options listed, such as Rhododendrons, Laurels, and Junipers, are typically found in different ecological zones and are not suited to the tidal conditions of the delta. Thus, hardwood palms are the dominant species in these tidal forests, contributing to the rich biodiversity of the region.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202925,
+      "question": "Which is wrongly matched?",
+      "options": [
+        "Indo - European Family - Arya",
+        "Austric Family - Nishada",
+        "Dravidian Family - Dravidian",
+        "Sino - Tibetan Family - Munda"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Sino-Tibetan language family primarily includes languages spoken in East Asia, Southeast Asia, and parts of South Asia, such as Chinese and Tibetan languages. The Munda languages, on the other hand, belong to the Austroasiatic language family, which is distinct from Sino-Tibetan. The other options correctly match language families with their respective groups: the Indo-European family includes Arya languages, the Austric family includes Nishada languages, and the Dravidian family is accurately represented by Dravidian languages. Therefore, the mismatch lies in associating Munda with the Sino-Tibetan family, making this option the incorrect pairing.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202926,
+      "question": "__________ marked the beginning of census taking in India.",
+      "options": [
+        "The year 1862",
+        "The year 1872",
+        "The year 1882",
+        "The year 1892"
+      ],
+      "correctIndex": 1,
+      "explanation": "The year 1872 marked the beginning of systematic census taking in India. This was the first time a comprehensive population count was conducted across the country, initiated by the British colonial administration. The census aimed to gather demographic data, which included information on population size, distribution, and various social and economic factors. Prior to this, there were sporadic attempts at population counting, but the 1872 census was the first organized effort to systematically collect and analyze such data on a national scale. This census laid the groundwork for subsequent censuses, which have continued to be conducted every ten years in India, providing valuable insights into the country's demographic changes over time.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202927,
+      "question": "The MRTP Act, 1969 has been repealed and replaced by the competition Act, 2002 with effect from",
+      "options": [
+        "2002",
+        "2009",
+        "2013",
+        "2016"
+      ],
+      "correctIndex": 1,
+      "explanation": "The MRTP Act, 1969 was indeed repealed and replaced by the Competition Act, 2002, but the significant amendments that brought the new provisions into full effect occurred in 2009. The Competition Act was initially enacted to promote and sustain competition in the market, prevent monopolistic practices, and protect consumer interests. However, it was only after the amendments in 2009 that the Act was fully operationalized, allowing for the establishment of the Competition Commission of India and the enforcement of regulations against anti-competitive practices. Thus, the correct answer is 2009, marking the year when the transition to the new competition framework was completed.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202928,
+      "question": "The basic objective of Gandhian plan brought out by S.N. Agarwala was",
+      "options": [
+        "Agricultural development",
+        "Growth of cottage and village industries",
+        "To achieve equality",
+        "To raise the material as well as the cultural level of Indian masses"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Gandhian plan, as articulated by S.N. Agarwala, aimed primarily at uplifting the Indian masses both materially and culturally. This holistic approach sought to improve living standards through economic development while simultaneously fostering cultural values and social cohesion. By emphasizing the importance of self-reliance and the development of local industries, the plan aimed to empower rural communities and enhance their quality of life. This dual focus on material prosperity and cultural enrichment reflects Gandhi's vision of a self-sufficient and morally grounded society, where economic progress does not come at the expense of ethical and cultural values. Thus, the correct answer highlights the comprehensive nature of the Gandhian plan in addressing the needs of the Indian populace.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202929,
+      "question": "The last Deputy Chairman of Planning Commission of India was",
+      "options": [
+        "Manmohan singh",
+        "Narendra Modi",
+        "Arun Jaitley",
+        "Montek Singh Ahluwalia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Montek Singh Ahluwalia served as the last Deputy Chairman of the Planning Commission of India from 2004 until the commission's dissolution in 2014. He played a significant role in shaping India's economic policies and planning during his tenure. The Planning Commission was established in 1950 to formulate and oversee the implementation of five-year plans for economic development. Ahluwalia's expertise in economics and his experience in various governmental roles contributed to his leadership in the commission. After the Planning Commission was replaced by the NITI Aayog in 2015, the role of Deputy Chairman was discontinued, marking the end of an era in India's planning and economic strategy.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202930,
+      "question": "The first stage of the strategy related to Intensive Agricultural District Programme was started in the year",
+      "options": [
+        "1951-52",
+        "1960-61",
+        "1965-66",
+        "1990-91"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Intensive Agricultural District Programme (IADP) was initiated in India to enhance agricultural productivity through the adoption of modern farming techniques and inputs. The first stage of this program began in the year 1960-61, marking a significant shift in agricultural policy aimed at increasing food production in specific districts. This initiative was part of a broader strategy to address food security and improve the livelihoods of farmers by promoting intensive farming practices. The choice of 1960-61 as the starting point reflects the government's response to the challenges of agricultural productivity during that period.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202931,
+      "question": "Which of the following statements are correct with regard to Tamil Nadu 'Pudhu Vaazhvu Project'? \n(i) It was launched in 2005 \n(ii) It is aided by World Bank\n(iii) The total outlay is Rs. 1,667 crores\n(iv) It is being implemented in 26 districts",
+      "options": [
+        "All are correct statement",
+        "(i), (ii), (iii) are correct",
+        "(ii), (iii), (iv) are correct",
+        "(i), (ii) and (iv) are correct"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Pudhu Vaazhvu Project, launched in 2005, aims to improve the livelihoods of the rural poor in Tamil Nadu. It is supported by the World Bank, which provides financial assistance to enhance its effectiveness. The total outlay for the project is Rs. 1,667 crores, reflecting the government's commitment to poverty alleviation. Additionally, the project is being implemented across 26 districts in Tamil Nadu, ensuring a wide reach and impact. Therefore, all the statements regarding the project are correct, making option A the right choice.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202932,
+      "question": "Whether governor of a state has the power to dissolve the state legislature?",
+      "options": [
+        "Yes",
+        "No",
+        "He/She can only recommend",
+        "Only President can"
+      ],
+      "correctIndex": 0,
+      "explanation": "The governor of a state does have the power to dissolve the state legislature, specifically the lower house or legislative assembly. This authority is typically exercised when the governor believes that the assembly can no longer function effectively or when there is a need for fresh elections. The power to dissolve the legislature is a significant aspect of the governor's role, as it can influence the political landscape of the state. However, this power is often exercised based on the advice of the council of ministers, reflecting the parliamentary system of governance in India. Therefore, the correct answer is A - Yes.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202933,
+      "question": "In the rules of business of Indian Parliament, if the speaker admits, notice of a motion but no date is fixed for its introduction - then it is called",
+      "options": [
+        "Call attention motion",
+        "Adjournment motion",
+        "No confidence motion",
+        "No day - Yet - named motion"
+      ],
+      "correctIndex": 3,
+      "explanation": "In the Indian Parliament, when the Speaker admits a notice of a motion but does not fix a date for its introduction, it is referred to as a \"No day - Yet - named motion.\" This type of motion indicates that while the matter has been acknowledged, it is not yet scheduled for discussion. This allows for flexibility in parliamentary proceedings, as it can be taken up at a later date when the Speaker decides it is appropriate. The other options, such as Call attention motion, Adjournment motion, and No confidence motion, have specific purposes and procedures that differ from the No day - Yet - named motion.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202934,
+      "question": "Constitutional status to the Panchayat Raj Institutions was initiated based on the recommendation of",
+      "options": [
+        "G.V.K. Rao Committee",
+        "L.M. Singhvi Committee",
+        "Ashok Mehta Committee",
+        "Balwant Rai Mehta Committee"
+      ],
+      "correctIndex": 1,
+      "explanation": "The constitutional status to the Panchayat Raj Institutions was established following the recommendations of the L.M. Singhvi Committee, which was set up in 1986. This committee emphasized the need for constitutional recognition of local self-governance to enhance democracy at the grassroots level. It recommended the incorporation of provisions for Panchayati Raj in the Constitution, leading to the 73rd Amendment in 1992. This amendment provided a constitutional framework for the establishment of Panchayati Raj Institutions, ensuring their structure, composition, and powers, thereby empowering local governance in India.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202935,
+      "question": "Which Article of the Constitution of India conferred special leave petitions power to the Supreme Court?",
+      "options": [
+        "Art. 136",
+        "Art. 32",
+        "Art.139",
+        "Art. 226"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 136 of the Constitution of India grants the Supreme Court the power to grant special leave to appeal from any judgment, decree, or order of any court or tribunal in the territory of India. This provision allows the Supreme Court to exercise its discretion in admitting cases that may not fall under the usual appellate jurisdiction, thereby ensuring that justice can be served in exceptional circumstances. It plays a crucial role in upholding the rights of individuals and addressing grievances that may arise from lower court decisions. The other articles mentioned, such as Article 32, focus on the right to constitutional remedies, while Articles 139 and 226 pertain to the powers of the Supreme Court and High Courts, respectively, in issuing writs.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202936,
+      "question": "In India, power of Judicial Review is restricted because the",
+      "options": [
+        "Executive is supreme",
+        "Legislature is supreme",
+        "Constitution is supreme",
+        "Judges are transferable"
+      ],
+      "correctIndex": 2,
+      "explanation": "In India, the power of Judicial Review is restricted because the Constitution is supreme. This principle establishes that the Constitution is the highest law of the land, and all laws and actions of the executive and legislature must conform to it. While the judiciary has the authority to review laws and executive actions to ensure they align with constitutional provisions, this power is not absolute. The supremacy of the Constitution means that any judicial review must respect the framework and limits set by it. Therefore, the judiciary operates within the boundaries defined by the Constitution, which ultimately governs the extent of its review powers.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202937,
+      "question": "The government of India instituted Bharat Ratna and Padma Shri awards under",
+      "options": [
+        "Article 14 of the Indian constitution",
+        "Article 18 of the Indian constitution",
+        "Article 25 of the Indian constitution",
+        "Article 32 of the Indian constitution"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Bharat Ratna and Padma Shri awards were instituted by the government of India under Article 18 of the Indian Constitution, which pertains to the prohibition of titles. While Article 18 prohibits the state from granting titles that could be conferred by the government, it allows for the establishment of honors and awards for exceptional service in various fields. The Bharat Ratna is the highest civilian award in India, while the Padma Shri is one of the four Padma awards, recognizing contributions in arts, education, industry, literature, science, and social service. These awards reflect the nation's appreciation for outstanding achievements and contributions to society.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202938,
+      "question": "A scheme to provide Support to Training and Employment of Women (STEP) was launched in the year",
+      "options": [
+        "1986-87",
+        "1990 -91",
+        "1995 - 96",
+        "1996 - 97"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Support to Training and Employment of Women (STEP) scheme was launched in the year 1986-87. This initiative aimed to enhance the skills and employment opportunities for women, thereby promoting their economic independence and empowerment. By focusing on training and skill development, the STEP scheme sought to address the challenges faced by women in the workforce and to encourage their participation in various sectors. The program has played a significant role in improving the socio-economic status of women in India since its inception.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202939,
+      "question": "Prime Minister of India inaugurated India's longest road bridge on May 26, 2017. Which states are connected by this bridge?",
+      "options": [
+        "Assam and Arunachal Pradesh",
+        "Assam and Manipur",
+        "Assam and Tripura",
+        "Manipur and Tripura"
+      ],
+      "correctIndex": 0,
+      "explanation": "The longest road bridge in India, inaugurated by the Prime Minister on May 26, 2017, is the Dhola-Sadiya Bridge, which connects the states of Assam and Arunachal Pradesh. This bridge spans the Brahmaputra River and significantly enhances connectivity between these two northeastern states, facilitating easier transportation and economic development. The bridge not only reduces travel time but also plays a crucial role in improving access to remote areas, thereby promoting regional integration and development. The choice of Assam and Arunachal Pradesh as the correct answer highlights the strategic importance of this infrastructure project in enhancing connectivity in the northeastern region of India.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202940,
+      "question": "In India which organisation's scientists recently produced electricity from water without using energy?",
+      "options": [
+        "NPL, New Delhi",
+        "IISC, Bengaluru",
+        "IISER, Kolkata",
+        "IIT, Chennai"
+      ],
+      "correctIndex": 0,
+      "explanation": "The National Physical Laboratory (NPL) in New Delhi has made significant advancements in producing electricity from water without the need for external energy sources. This innovative approach typically involves harnessing the energy from chemical reactions or utilizing specific materials that can generate electricity when in contact with water. The research conducted by NPL scientists showcases the potential for sustainable energy solutions, emphasizing the importance of developing technologies that can operate efficiently without relying on traditional energy inputs. This breakthrough aligns with global efforts to find cleaner and more sustainable energy alternatives, highlighting India's contributions to renewable energy research.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202941,
+      "question": "In which place Prime Minister of India inaugurated the country's first Indian Institute of Skills [IIS] on Dec. 20, 2016?",
+      "options": [
+        "Ahmedabad",
+        "Bengaluru",
+        "Kanpur",
+        "Varanashi"
+      ],
+      "correctIndex": 2,
+      "explanation": "On December 20, 2016, the Prime Minister of India inaugurated the country's first Indian Institute of Skills (IIS) in Kanpur. This initiative aimed to enhance skill development and vocational training in India, addressing the growing need for a skilled workforce in various sectors. The establishment of the IIS in Kanpur was part of a broader strategy to promote skill development across the nation, ensuring that individuals are equipped with the necessary skills to meet industry demands. The choice of Kanpur, a city with a rich industrial heritage, underscores the government's commitment to revitalize and modernize skill training in regions with historical significance in manufacturing and trade.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202942,
+      "question": "Which one of the organisation organised the Gyan Sangam [Knowledge Summit] in New Delhi on March, 2017?",
+      "options": [
+        "Prajna Pravah",
+        "Christian Education Society",
+        "Students Islamic Movement of India",
+        "Democratic Youth Federation of India"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Gyan Sangam, or Knowledge Summit, held in New Delhi in March 2017, was organized by Prajna Pravah. This organization is known for its focus on cultural and educational initiatives aimed at promoting Indian values and heritage. The summit brought together various intellectuals, scholars, and practitioners to discuss and share insights on contemporary issues facing society, emphasizing the importance of knowledge in fostering social development. The other options listed, while they may engage in educational or social activities, were not responsible for this particular event. Prajna Pravah's role in organizing the Gyan Sangam highlights its commitment to enhancing dialogue and understanding in the context of India's rich cultural landscape.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202943,
+      "question": "Which of the following aim comes under Prime Minister Krishan Sai Yojana?",
+      "options": [
+        "Environment",
+        "To increase ground water",
+        "Cloth production",
+        "Free food"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Prime Minister Krishan Sai Yojana primarily focuses on enhancing agricultural productivity and sustainability through various means, one of which is increasing groundwater levels. This initiative aims to address water scarcity issues faced by farmers, ensuring they have adequate water supply for irrigation. By promoting efficient water management practices and encouraging the use of rainwater harvesting and other techniques, the scheme seeks to improve the overall agricultural output and support farmers in maintaining their livelihoods. Thus, the correct answer is B - To increase ground water.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202944,
+      "question": "Iron Lady of Manipur, Irom Sharmila got how many votes in the 2017 Manipur Assembly election?",
+      "options": [
+        "10 votes",
+        "30 votes",
+        "60 votes",
+        "90 votes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Irom Sharmila, known as the \"Iron Lady of Manipur,\" received 90 votes in the 2017 Manipur Assembly election. This election marked her political debut after years of activism against the Armed Forces (Special Powers) Act (AFSPA). Despite her significant influence as a social activist, her electoral performance highlighted the challenges faced by independent candidates in a political landscape dominated by established parties. The low vote count reflects the complexities of voter sentiment and the difficulties in translating activism into electoral success.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202945,
+      "question": "Which district of Tamilnadu, Chief Minister announced new dental college from the year 2017?",
+      "options": [
+        "Chennai",
+        "Dharmapuri",
+        "Virudhunagar",
+        "Pudukottai"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 2017, the Chief Minister of Tamil Nadu announced the establishment of a new dental college in Virudhunagar district. This initiative aimed to enhance dental education and healthcare services in the region, addressing the growing need for qualified dental professionals. The decision reflects the government's commitment to improving healthcare infrastructure and educational opportunities in Tamil Nadu, particularly in districts that may have been underserved in terms of specialized medical training facilities. Virudhunagar was chosen for this development to promote better access to dental care for the local population and to foster the growth of the healthcare sector in the area.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202946,
+      "question": "Which one of the following state government has shifted its financial year from [April 1 to March 31] to calendar year [January 1 to December 31]?",
+      "options": [
+        "Kerala",
+        "Madhya Pradesh",
+        "Punjab",
+        "West Bengal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Madhya Pradesh is the state that has shifted its financial year from the traditional April 1 to March 31 schedule to align with the calendar year, which runs from January 1 to December 31. This change was implemented to streamline financial planning and budgeting processes, making it easier for the state government to align its fiscal policies with the calendar year. Such a shift can enhance transparency and efficiency in financial management, allowing for better synchronization with the economic activities and reporting cycles of various stakeholders. Other states mentioned in the options have not made similar changes to their financial year.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202947,
+      "question": "What percentage of total cultivation area in Tamilnadu is rainfed (Manavari)?",
+      "options": [
+        "0.55",
+        "0.57",
+        "0.54",
+        "0.52"
+      ],
+      "correctIndex": 1,
+      "explanation": "The percentage of total cultivation area in Tamil Nadu that is rainfed, referred to as Manavari, is 0.57%. This figure highlights the reliance on rainfall for agricultural practices in the state, which can significantly impact crop yields and farming sustainability. Rainfed agriculture is crucial in regions where irrigation infrastructure may be limited, making it essential for farmers to adapt to varying weather patterns. Understanding the proportion of rainfed cultivation helps in assessing agricultural strategies and policies aimed at improving food security and resource management in Tamil Nadu.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202948,
+      "question": "Indian Neutrino Observatory is situated in which district of Tamilnadu?",
+      "options": [
+        "Madurai",
+        "Theni",
+        "Cuddalore",
+        "Chennai"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Indian Neutrino Observatory (INO) is located in the Theni district of Tamil Nadu. This facility is designed to study neutrinos, which are subatomic particles that are incredibly difficult to detect due to their weak interaction with matter. The choice of Theni for the observatory is strategic, as the region's geological features provide a suitable environment for the detection of neutrinos, minimizing interference from cosmic rays and other background noise. The observatory aims to contribute significantly to the field of particle physics and enhance our understanding of fundamental questions about the universe.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202949,
+      "question": "A supernova is an exploding star. In which years the last two supernova are visible to the naked eye?",
+      "options": [
+        "1600, 1980",
+        "1601, 1982",
+        "1604, 1987",
+        "1605, 1997"
+      ],
+      "correctIndex": 2,
+      "explanation": "The last two supernovae visible to the naked eye occurred in 1604 and 1987. The supernova of 1604, known as Kepler's Supernova, was observed by Johannes Kepler and is notable for being the last supernova observed in our galaxy before the invention of the telescope. The second significant event, SN 1987A, was discovered in the Large Magellanic Cloud and is the closest observed supernova since Kepler's. It provided valuable insights into stellar evolution and the processes involved in supernova explosions. Thus, option C, which lists the years 1604 and 1987, is the correct answer.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202950,
+      "question": "Calculate the dimensions of Planck's constant 'h', using the equation E =hᵧ, where E ➝ energy and ᵧ➝ frequency",
+      "options": [
+        "MLT⁻¹",
+        "ML²T⁻¹",
+        "ML⁻¹T⁻²",
+        "ML⁻²T⁻¹"
+      ],
+      "correctIndex": 1,
+      "explanation": "To determine the dimensions of Planck's constant 'h' from the equation E = hᵧ, we start by analyzing the dimensions of energy (E) and frequency (ᵧ). The dimension of energy is given by ML²T⁻², where M is mass, L is length, and T is time. Frequency (ᵧ) is the reciprocal of time, with dimensions T⁻¹. Rearranging the equation for 'h' gives us h = E / ᵧ. Substituting the dimensions, we have:\n\nh = (ML²T⁻²) / (T⁻¹) = ML²T⁻² × T = ML²T⁻¹.\n\nThus, the dimensions of Planck's constant 'h' are ML²T⁻¹, which corresponds to option B.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202951,
+      "question": "Which one of the organic pesticides that contain phosphorus?",
+      "options": [
+        "DDT",
+        "BHC",
+        "2, 4-D",
+        "Parathion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Parathion is an organic pesticide that contains phosphorus in its chemical structure. It is classified as an organophosphate insecticide, which means it contains phosphorus as part of its active ingredient. Parathion works by inhibiting the enzyme acetylcholinesterase, leading to the accumulation of acetylcholine in the nervous system of insects, ultimately causing their death. In contrast, DDT (A) and BHC (B) are chlorinated hydrocarbons, while 2, 4-D (C) is a phenoxy herbicide, none of which contain phosphorus. Therefore, among the options provided, Parathion is the correct answer as it is the only pesticide that includes phosphorus in its formulation.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202952,
+      "question": "Match the following:\n(A) Mixed fertilizer\n(B) Complex fertilizer\n(C) Bio fertilizer\n(D) Organic nitrogen fertilizer",
+      "options": [
+        "(A) NPK, (B) DAP, (C) Alage, (D) Oil cake",
+        "(A) DAP, (B) NPK, (C) Oil cake, (D) Alage",
+        "(A) Alage, (B) Oil cake, (C) NPK, (D) DAP",
+        "(A) Oil cake, (B) Alage, (C) DAP, (D) NPK"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Mixed fertilizer — NPK: A mixed fertilizer contains nitrogen, phosphorus and potassium in a single product; NPK denotes the balanced combination supplying these primary nutrients.  \n- Complex fertilizer — DAP: A complex fertilizer is produced by chemical reaction of raw materials; DAP (diammonium phosphate) supplies readily available nitrogen and phosphorus in a single compound.  \n- Bio fertilizer — Alage: Biofertilizers use living organisms such as algae (Alage) to fix atmospheric nitrogen or mobilize nutrients, improving soil fertility biologically.  \n- Organic nitrogen fertilizer — Oil cake: Oil cake is an organic nitrogen-rich residue from oilseed processing, used as a natural nitrogen fertilizer and soil amendment.",
+      "type": "MATCH"
+    },
+    {
+      "id": 202953,
+      "question": "In Transmission Electron Microscope (TEM) ____ is used to magnify the objects.",
+      "options": [
+        "Light",
+        "Optical lenses",
+        "Electrons",
+        "Scanner"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a Transmission Electron Microscope (TEM), electrons are used to magnify objects. Unlike light microscopes that utilize visible light and optical lenses to magnify specimens, TEM employs a beam of electrons. This is because electrons have much shorter wavelengths than visible light, allowing for much higher resolution and the ability to visualize structures at the atomic level. The electrons are generated by an electron gun and focused using electromagnetic lenses, enabling the observation of fine details in samples that are typically too small to be seen with light microscopy. Thus, the correct answer is C - Electrons.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202954,
+      "question": "The Respiratory quotient value for glucose is",
+      "options": [
+        "0.5",
+        "1.0",
+        "1.5",
+        "2.0"
+      ],
+      "correctIndex": 1,
+      "explanation": "The respiratory quotient (RQ) is a measure used to assess the ratio of carbon dioxide produced to oxygen consumed during metabolism. For glucose, which is a carbohydrate, the complete oxidation process can be represented by the equation: C6H12O6 + 6 O2 → 6 CO2 + 6 H2O. In this reaction, one molecule of glucose consumes six molecules of oxygen and produces six molecules of carbon dioxide. Therefore, the RQ for glucose is calculated as the ratio of CO2 produced (6) to O2 consumed (6), resulting in an RQ value of 1.0. This indicates that when glucose is the primary fuel source, the amount of oxygen used is equal to the amount of carbon dioxide produced, reflecting a balanced metabolic process.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202955,
+      "question": "Which one is wrongly matched pair in their characters?",
+      "options": [
+        "Pancreas - Glucagon",
+        "Small intestine - Somatostatin",
+        "Testis - Estrogen",
+        "Adrenal gland - Glucocorticoids"
+      ],
+      "correctIndex": 2,
+      "explanation": "The testis is primarily responsible for producing testosterone, which is the main male sex hormone. While estrogen is present in males, it is produced in much smaller amounts and is primarily synthesized in other tissues, such as adipose tissue and the adrenal glands. Therefore, the pairing of \"Testis - Estrogen\" is incorrect, making it the wrongly matched pair in their characters. In contrast, the other options correctly associate the respective organs with their primary hormones: the pancreas produces glucagon, the small intestine secretes somatostatin, and the adrenal gland produces glucocorticoids.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202956,
+      "question": "Which of the following hormone stimulates contraction of uterine smooth muscle?",
+      "options": [
+        "Epinephrine",
+        "Insulin",
+        "Oxytocin",
+        "Glucagon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oxytocin is a hormone produced by the hypothalamus and released by the posterior pituitary gland. It plays a crucial role in childbirth by stimulating the contraction of uterine smooth muscle during labor. This contraction helps facilitate the delivery of the baby. In addition to its role in labor, oxytocin is also involved in various reproductive functions and maternal behaviors. The other options listed—epinephrine, insulin, and glucagon—do not have a direct role in stimulating uterine contractions. Epinephrine is primarily involved in the fight-or-flight response, insulin regulates blood sugar levels, and glucagon raises blood sugar levels. Therefore, oxytocin is the correct answer as it specifically stimulates uterine smooth muscle contraction.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202957,
+      "question": "The cylinder whose base is not in circular form is called",
+      "options": [
+        "Circular cylinder",
+        "Right circular cylinder",
+        "Oblique cylinder",
+        "Irregular cylinder"
+      ],
+      "correctIndex": 2,
+      "explanation": "An oblique cylinder is defined as a cylinder whose sides are slanted, meaning that the bases are not aligned directly above one another. Unlike a right circular cylinder, where the bases are perfectly aligned and circular, an oblique cylinder can have bases that are not circular or may be misaligned. This results in a shape that appears tilted or slanted, distinguishing it from other types of cylinders. Therefore, the correct answer is C - Oblique cylinder.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202958,
+      "question": "10 sq. m. is equal to",
+      "options": [
+        "100 sq. cm.",
+        "1000 sq. cm.",
+        "10000 sq. cm.",
+        "100000 sq. cm."
+      ],
+      "correctIndex": 3,
+      "explanation": "To convert square meters to square centimeters, you need to know the conversion factor between meters and centimeters. One meter is equal to 100 centimeters. Therefore, one square meter (1 sq. m.) is equal to 100 cm x 100 cm, which equals 10,000 square centimeters (10,000 sq. cm.). Consequently, to convert 10 square meters to square centimeters, you multiply 10 sq. m. by 10,000 sq. cm/sq. m., resulting in 100,000 sq. cm. Thus, the correct answer is 100,000 sq. cm.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202959,
+      "question": "A ______ is often drawn as a guide, so that a frequency polygon can be drawn over the top.",
+      "options": [
+        "Frequency",
+        "Histogram",
+        "Cumulative Frequency",
+        "Rectangle"
+      ],
+      "correctIndex": 1,
+      "explanation": "A histogram is a graphical representation of the distribution of numerical data, where the data is divided into intervals (bins) and the frequency of data points within each interval is represented by the height of bars. When creating a frequency polygon, which is a line graph that connects the midpoints of the tops of the bars of a histogram, the histogram serves as a foundational guide. By plotting the frequencies from the histogram, one can easily visualize the overall shape of the data distribution and then overlay the frequency polygon to highlight trends and patterns in the data. Thus, the histogram is essential for accurately constructing a frequency polygon.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202960,
+      "question": "If 100 persons can finish a work in 7 days, how many persons can finish the same work 35 days?",
+      "options": [
+        "20 persons",
+        "50 persons",
+        "30 persons",
+        "25 persons"
+      ],
+      "correctIndex": 0,
+      "explanation": "To determine how many persons can finish the same work in 35 days, we first calculate the total work done in person-days. If 100 persons can complete the work in 7 days, the total work is 100 persons × 7 days = 700 person-days. \n\nNow, if we want to finish the same work in 35 days, we need to find out how many persons are required to achieve 700 person-days in that time frame. We can set up the equation: \n\nNumber of persons × 35 days = 700 person-days. \n\nSolving for the number of persons gives us: \n\nNumber of persons = 700 person-days / 35 days = 20 persons. \n\nThus, 20 persons are needed to complete the work in 35 days.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202961,
+      "question": "What percent of an hour is 36 seconds?",
+      "options": [
+        "0.06",
+        "0.01",
+        "0.1",
+        "0.36"
+      ],
+      "correctIndex": 1,
+      "explanation": "To find what percent of an hour is 36 seconds, we first convert an hour into seconds. There are 60 minutes in an hour and 60 seconds in a minute, so an hour has 60 x 60 = 3600 seconds. Next, we calculate the fraction of the hour that 36 seconds represents by dividing 36 by 3600, which gives us 0.01. To express this as a percentage, we multiply by 100, resulting in 1%. Therefore, 36 seconds is 1% of an hour, which corresponds to the option B - 0.01.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202962,
+      "question": "(xᵐ / xⁿ)ᵐ⁺ⁿ.(xⁿ / xˡ)ⁿ⁺ˡ . (xˡ / xᵐ)ˡ⁺ᵐ",
+      "options": [
+        "1",
+        "-1",
+        "xᵐ⁺ⁿ⁺ˡ",
+        "1/xᵐ⁺ⁿ⁺ˡ"
+      ],
+      "correctIndex": 0,
+      "explanation": "To simplify the expression \\((x^{m} / x^{n})^{m+n} \\cdot (x^{n} / x^{l})^{n+l} \\cdot (x^{l} / x^{m})^{l+m}\\), we can apply the properties of exponents. \n\nStarting with the first term, \\((x^{m-n})^{m+n} = x^{(m-n)(m+n)}\\). The second term simplifies to \\((x^{n-l})^{n+l} = x^{(n-l)(n+l)}\\). The third term becomes \\((x^{l-m})^{l+m} = x^{(l-m)(l+m)}\\).\n\nNow, we combine these results: \n\n\\[\nx^{(m-n)(m+n) + (n-l)(n+l) + (l-m)(l+m)}\n\\]\n\nUpon expanding and simplifying the exponents, we find that the terms cancel out, leading to \\(x^0\\), which equals 1. Thus, the final answer is 1.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202963,
+      "question": "if A=+, B=÷, C=x, D=-, then what is the value of (1/5)C2B(1/5)A(1/5)D(1/10) =",
+      "options": [
+        "2.1",
+        "1.2",
+        "2.5",
+        "1.6"
+      ],
+      "correctIndex": 0,
+      "explanation": "To solve the expression (1/5)C2B(1/5)A(1/5)D(1/10), we first replace the letters with their corresponding operations: C = x (multiplication), B = ÷ (division), A = + (addition), and D = - (subtraction). The expression then becomes (1/5) * 2 ÷ (1/5) + (1/5) - (1/10).\n\nNow, we perform the operations step by step:\n1. Calculate (1/5) * 2 = 2/5.\n2. Next, divide by (1/5): (2/5) ÷ (1/5) = 2.\n3. Then, add (1/5): 2 + (1/5) = 2 + 0.2 = 2.2.\n4. Finally, subtract (1/10): 2.2 - 0.1 = 2.1.\n\nThus, the final value of the expression is 2.1, confirming the correct answer.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202964,
+      "question": "The value of : (x³ - 1)/(x+3) ÷ (x² + x + 1)/(3x + 9) = ?",
+      "options": [
+        "3x -1",
+        "3(x+1)",
+        "3(x-1)",
+        "3x + 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "To solve the expression \\((x³ - 1)/(x+3) ÷ (x² + x + 1)/(3x + 9)\\), we first rewrite the division as multiplication by the reciprocal. This gives us \\((x³ - 1)/(x+3) \\times (3x + 9)/(x² + x + 1)\\). \n\nNext, we factor the components. The numerator \\(x³ - 1\\) can be factored as \\((x - 1)(x² + x + 1)\\). The denominator \\(3x + 9\\) can be factored as \\(3(x + 3)\\). \n\nNow substituting these factorizations into the expression, we have \\((x - 1)(x² + x + 1)/(x + 3) \\times 3(x + 3)/(x² + x + 1)\\). The \\(x² + x + 1\\) terms cancel out, as do the \\(x + 3\\) terms, simplifying to \\(3(x - 1)\\). \n\nThus, the final answer is \\(3(x - 1)\\).",
+      "type": "MCQ"
+    },
+    {
+      "id": 202965,
+      "question": "What is the 85 term of the sequence x, x³/², x², x⁵/², .... ?",
+      "options": [
+        "x⁸⁵/²",
+        "x⁴⁵/²",
+        "x⁴³",
+        "x⁴⁴"
+      ],
+      "correctIndex": 2,
+      "explanation": "The given sequence is x, x³/², x², x⁵/², which can be expressed in terms of powers of x. The exponents of x in the sequence are 1, 3/2, 2, 5/2, and so on. Observing the pattern, the exponents can be represented as follows: \n\n1 = 2/2, \n3/2 = 3/2, \n2 = 4/2, \n5/2 = 5/2. \n\nThe pattern indicates that the nth term corresponds to the exponent (n + 1)/2. For the 85th term, we calculate the exponent as (85 + 1)/2 = 43. Therefore, the 85th term of the sequence is x raised to the power of 43, which is x⁴³.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202966,
+      "question": "The radius and.the slant height of a cone are respectively 'r' and 'I'. What is the volume of the cone?",
+      "options": [
+        "(1/3)πr²√(l² - r²)",
+        "(1/3)πr²√(l² + r²)",
+        "(1/3)πrl",
+        "(1/3)πr(l+ r)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The volume \\( V \\) of a cone is calculated using the formula \\( V = \\frac{1}{3} \\pi r^2 h \\), where \\( r \\) is the radius and \\( h \\) is the height of the cone. To express the height in terms of the slant height \\( l \\) and the radius \\( r \\), we can use the Pythagorean theorem. The relationship is given by \\( l^2 = r^2 + h^2 \\), which rearranges to \\( h = \\sqrt{l^2 - r^2} \\). Substituting this expression for height into the volume formula gives us \\( V = \\frac{1}{3} \\pi r^2 \\sqrt{l^2 - r^2} \\). Therefore, the correct answer is option A, which represents the volume of the cone in terms of its radius and slant height.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202967,
+      "question": "What is the 21st term of the sequence 100, 95, 90, 85.....?",
+      "options": [
+        "10",
+        "20",
+        "0",
+        "5"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sequence given is an arithmetic sequence where each term decreases by 5. The first term is 100, and the common difference (d) is -5. To find the 21st term, we can use the formula for the nth term of an arithmetic sequence, which is given by:\n\n\\[ a_n = a_1 + (n - 1) \\cdot d \\]\n\nHere, \\( a_1 = 100 \\), \\( n = 21 \\), and \\( d = -5 \\). Plugging in these values:\n\n\\[ a_{21} = 100 + (21 - 1) \\cdot (-5) \\]\n\\[ a_{21} = 100 + 20 \\cdot (-5) \\]\n\\[ a_{21} = 100 - 100 \\]\n\\[ a_{21} = 0 \\]\n\nThus, the 21st term of the sequence is 0.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202968,
+      "question": "Simplify:",
+      "options": [
+        "x² - 9",
+        "x + 3",
+        "x + 6",
+        "x - 6"
+      ],
+      "correctIndex": 1,
+      "type": "MCQ"
+    },
+    {
+      "id": 202969,
+      "question": "If the LCM of x and y is z, what is the H.C.F of x and y?",
+      "options": [
+        "xy/z",
+        "xz/y",
+        "yz/x",
+        "xy"
+      ],
+      "correctIndex": 0,
+      "explanation": "The relationship between the Least Common Multiple (LCM) and the Highest Common Factor (HCF), also known as the Greatest Common Divisor (GCD), of two numbers x and y is given by the formula: LCM(x, y) × HCF(x, y) = x × y. In this case, if the LCM of x and y is z, we can rearrange the formula to find the HCF. By substituting z into the equation, we get z × HCF(x, y) = x × y. To isolate HCF(x, y), we divide both sides by z, resulting in HCF(x, y) = (x × y) / z. Therefore, the correct answer is A - xy/z.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202970,
+      "question": "The number of delegates who attended the first session of the Indian National Congress was",
+      "options": [
+        "25",
+        "100",
+        "72",
+        "2000"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first session of the Indian National Congress took place in 1885 in Bombay (now Mumbai). It was attended by 72 delegates, which marked the beginning of a significant political movement in India aimed at gaining greater autonomy from British rule. The Congress was founded with the intention of promoting political dialogue and reform, and the number of delegates reflected the initial interest and participation of educated Indians in the political landscape. This session set the stage for future gatherings and the evolution of the Congress into a major force in the Indian independence movement.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202971,
+      "question": "The revolutionary nationalist Nelakanda Brahmachari was born at",
+      "options": [
+        "Tirunelveli",
+        "Madurai",
+        "Sirkali",
+        "Chennai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nelakanda Brahmachari, a prominent figure in the Indian nationalist movement, was born in Sirkali. This town, located in Tamil Nadu, played a significant role in the cultural and political landscape of the region during the time of Brahmachari's activism. His contributions to the revolutionary movement were influenced by the socio-political environment of Sirkali, which was known for its rich heritage and involvement in the struggle for independence. The choice of Sirkali as his birthplace highlights the importance of local contexts in shaping the lives of national leaders.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202972,
+      "question": "Arrange the following in chronological order :\n1. Senguttuvan \n2. Emayavaramban\n3. Kanaikal Irumporai\n4. Kuttuvan Cheryl",
+      "options": [
+        "2, 1, 4, 3",
+        "4, 2, 3, 1",
+        "2, 1, 3, 4",
+        "3, 2, 4, 1"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct chronological order of the figures is Emayavaramban (2), Senguttuvan (1), Kuttuvan Cheryl (4), and Kanaikal Irumporai (3). Emayavaramban is recognized as one of the early kings in Tamil history, followed by Senguttuvan, who is known for his contributions to the Tamil culture and literature. Kuttuvan Cheryl, associated with the later period of the Tamil dynasties, comes next, and finally, Kanaikal Irumporai, who is often placed in a later context. This sequence reflects the progression of Tamil kingship and cultural development over time.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202973,
+      "question": "In Chola kingdom the revenue department was called as",
+      "options": [
+        "Perumthottam",
+        "Utan Kuttam",
+        "Puravavari",
+        "Olai Nayagam"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the Chola kingdom, the revenue department was referred to as \"Puravavari.\" This term signifies the administrative body responsible for managing and collecting taxes and revenues from the land and its inhabitants. The Chola dynasty, known for its efficient governance and economic prosperity, established a well-organized revenue system that played a crucial role in maintaining the kingdom's wealth and resources. The other options, while related to various administrative functions, do not specifically denote the revenue department. Understanding the significance of Puravavari helps in appreciating the administrative sophistication of the Chola empire.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202974,
+      "question": "Where the All India Muslim League was formed in 1906?",
+      "options": [
+        "Mumbai",
+        "Uttar Pradesh",
+        "Chennai",
+        "Dhaka"
+      ],
+      "correctIndex": 3,
+      "explanation": "The All India Muslim League was formed in 1906 in Dhaka, which is now the capital of Bangladesh. This political party was established to represent the interests of Muslims in India and played a crucial role in the Indian independence movement. The formation of the League marked a significant moment in the political landscape of British India, as it aimed to address the concerns of the Muslim community and advocate for their rights. Dhaka was chosen as the venue for this important event, reflecting the city's growing prominence in the political discourse of the time. The League eventually became a key player in the demand for a separate nation for Muslims, leading to the creation of Pakistan in 1947.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202975,
+      "question": "When 'Swadeshi day' was celebrated in India?",
+      "options": [
+        "27 May, 1932",
+        "28 May, 1932",
+        "29 May, 1932",
+        "30 May, 1932"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Swadeshi Day' was celebrated on 29 May 1932 as part of the broader Swadeshi movement, which aimed to promote Indian goods and boycott British products. This day was significant in the context of India's struggle for independence, as it encouraged self-reliance and the use of indigenous products. The celebration of Swadeshi Day was a response to British economic policies that adversely affected Indian industries and livelihoods. By promoting local goods, the movement sought to foster national pride and economic independence among Indians. The date of 29 May 1932 marked a pivotal moment in mobilizing public sentiment against colonial rule and reinforcing the call for self-sufficiency.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202976,
+      "question": "Who was the first ruler in the Chola-Chalukya line?",
+      "options": [
+        "Raja Raja II",
+        "Vikrama chola",
+        "Kulothunga I",
+        "Adhi Rajendran"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kulothunga I was the first ruler in the Chola-Chalukya line, marking a significant point in the history of the Chola dynasty. He ascended the throne in the late 11th century and was instrumental in consolidating power and expanding the Chola influence. His reign is noted for the integration of Chalukyan territories into the Chola empire, which helped to establish a strong political and cultural legacy. The other options, such as Raja Raja II, Vikrama Chola, and Adhi Rajendran, were later rulers who contributed to the dynasty's history but did not initiate the Chola-Chalukya lineage. Kulothunga I's rule set the foundation for subsequent developments in the region, making him a pivotal figure in South Indian history.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202977,
+      "question": "The Vaikom Satyagraha arose in Kerala in the year",
+      "options": [
+        "1918",
+        "1924",
+        "1913",
+        "1928"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Vaikom Satyagraha was a significant movement in Kerala that began in 1924. It aimed to secure the right of the lower castes to enter the Vaikom temple, which was traditionally restricted to higher castes. The movement was led by prominent leaders like K. Kelappan and was supported by Mahatma Gandhi, who emphasized the importance of social reform and the eradication of untouchability. The satyagraha involved peaceful protests and nonviolent resistance, highlighting the struggle for social justice and equality in India during the colonial period. The successful outcome of the movement marked a pivotal moment in the fight against caste discrimination and inspired further social reform efforts in the region.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202978,
+      "question": "Periyar incorporated the ideas of the justice party and formed a new party called",
+      "options": [
+        "Dravida Kazhagam",
+        "Dravida Munnetra Kazhagam",
+        "Swatantra party",
+        "Anna Dravida Munnetra Kazhagam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Periyar E. V. Ramasamy, a prominent social reformer in Tamil Nadu, founded the Dravida Kazhagam (DK) party in 1944. He aimed to promote social justice and eradicate caste discrimination, drawing inspiration from the Justice Party's principles. The DK focused on the rights of the Dravidian people and sought to challenge the dominance of Brahminical ideologies in society. Periyar's emphasis on rationalism, self-respect, and equality was central to the party's agenda, making it a significant force in the socio-political landscape of Tamil Nadu. The formation of Dravida Kazhagam marked a pivotal moment in the Dravidian movement, setting the stage for future political developments in the region.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202979,
+      "question": "Mercury the smallest planet has only 88 earth days to orbit the sun, because",
+      "options": [
+        "Size of the planet",
+        "Spinning speed",
+        "Distance from the sun",
+        "It's thin atmosphere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mercury's short orbital period of 88 Earth days is primarily due to its proximity to the Sun. Being the closest planet, it experiences a stronger gravitational pull from the Sun, which accelerates its orbital speed. The closer a planet is to the Sun, the faster it must travel to maintain its orbit, resulting in a shorter year. While factors like size, spinning speed, and atmospheric conditions can influence various aspects of a planet, the key reason for Mercury's rapid orbit is its distance from the Sun. This gravitational relationship dictates the dynamics of its orbit, making option C the correct answer.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202980,
+      "question": "Match the disasters with its type and pick the correct answers code :\n(A) Blizzards\n(B) Tsunamis\n(C) Nuclear accidents\n(D) Pandemic",
+      "options": [
+        "(A) Atmospheric disaster, (B) Hydrological disaster, (C) Anthropogenic disaster, (D) Health disaster",
+        "(A) Hydrological disaster, (B) Atmospheric disaster, (C) Health disaster, (D) Anthropogenic disaster",
+        "(A) Anthropogenic disaster, (B) Health disaster, (C) Atmospheric disaster, (D) Hydrological disaster",
+        "(A) Health disaster, (B) Anthropogenic disaster, (C) Hydrological disaster, (D) Atmospheric disaster"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Blizzards are atmospheric disasters characterized by severe snowstorms, strong winds and low visibility, causing transport disruption and infrastructure damage.  \n- Tsunamis are hydrological disasters involving large sea waves generated by undersea earthquakes, landslides or volcanic eruptions that inundate coastal areas.  \n- Nuclear accidents are anthropogenic disasters resulting from human-related failures in nuclear facilities, causing radioactive release, long-term contamination and health/environmental impacts.  \n- Pandemic is a health disaster marked by the widespread outbreak of infectious disease across countries or continents, overwhelming health systems and causing high morbidity and mortality.",
+      "type": "MATCH"
+    },
+    {
+      "id": 202981,
+      "question": "Despite the substantial improvement in health conditions of people in India, there has been certain negative trends due to\nI. High incidence of HIV/AIDS in rural areas\nII. High incidence of HIV/AIDS in urban areas\nIII. Growing incidence of Heart diseases and cancer in rural areas \nIV. Growing incidence of Heart diseases and cancer in urban areas",
+      "options": [
+        "All are correct",
+        "I and III correct",
+        "II and IV correct",
+        "I, III and IV correct"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct answer is B - I and III correct. While India has made significant strides in improving health conditions, certain negative trends persist. The high incidence of HIV/AIDS in rural areas (I) remains a critical public health issue, as it affects the productivity and quality of life of those impacted. Additionally, the growing incidence of heart diseases and cancer in rural areas (III) is concerning, as these non-communicable diseases are increasingly prevalent due to lifestyle changes and lack of access to healthcare. In contrast, while urban areas also face health challenges, the question specifically highlights the issues in rural settings, making options II and IV less relevant in this context. Thus, the focus on I and III accurately reflects the ongoing health challenges in India.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202982,
+      "question": "Which one of the following matches is correct?\n(A) Thyroid hormone\n(B) Insulin\n(C) Corticosteroids\n(D) Growth hormone",
+      "options": [
+        "(A) Myxedema, (B) Diabetes, (C) Cushing's disease, (D) Acromegaly",
+        "(A) Diabetes, (B) Myxedema, (C) Acromegaly, (D) Cushing's disease",
+        "(A) Cushing's disease, (B) Acromegaly, (C) Myxedema, (D) Diabetes",
+        "(A) Acromegaly, (B) Cushing's disease, (C) Diabetes, (D) Myxedema"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Thyroid hormone: Deficiency of thyroid hormone in adults leads to myxedema, characterized by generalized edema, cold intolerance, weight gain, and slowed mental and physical activity.  \n- Insulin: Absolute or relative deficiency of insulin impairs glucose uptake, causing hyperglycemia and the clinical syndrome of diabetes mellitus with polyuria, polydipsia, and weight loss.  \n- Corticosteroids: Chronic excess of adrenal cortical hormones (endogenous or exogenous corticosteroids) produces Cushing’s disease/syndrome, marked by central obesity, moon face, purple striae, and hypertension.  \n- Growth hormone: Excess secretion of growth hormone in adults causes acromegaly, presenting with enlarged hands/feet, prognathism, coarse facial features, and soft tissue overgrowth.",
+      "type": "MATCH"
+    },
+    {
+      "id": 202983,
+      "question": "Which one of the following changes was not called by the Gandhian model and growth in the Indian Planning System?",
+      "options": [
+        "To replace production oriented planning with employment oriented planning",
+        "To replace employment oriented planning with the production oriented planning",
+        "It is in favour of small scale and cottage industries",
+        "It is against large scale industries producing consumer goods"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Gandhian model emphasizes employment-oriented planning, advocating for the creation of jobs and self-reliance through small-scale and cottage industries. It promotes decentralized production and prioritizes the needs of rural populations. Therefore, the option stating \"to replace employment oriented planning with the production oriented planning\" contradicts the core principles of the Gandhian approach, which seeks to empower individuals through employment rather than focusing solely on large-scale production. The other options align with Gandhian ideals, which support small industries and are critical of large-scale consumer goods production that may not benefit the broader population.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202984,
+      "question": "The word 'Secularism' was inserted in the preamble of the constitution after supreme court of India observed 'Secularism' was a basic feature of constitution in",
+      "options": [
+        "1975",
+        "1973",
+        "1976",
+        "1981"
+      ],
+      "correctIndex": 1,
+      "explanation": "The term 'Secularism' was recognized as a fundamental aspect of the Indian Constitution by the Supreme Court in the landmark case of Kesavananda Bharati v. State of Kerala in 1973. This ruling established that certain features of the Constitution, including secularism, are so essential that they cannot be altered or destroyed by amendments. Following this judicial interpretation, the word 'Secular' was formally added to the Preamble of the Constitution through the 42nd Amendment in 1976. Thus, while the Supreme Court's observation occurred in 1973, the actual insertion into the Preamble took place three years later.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202985,
+      "question": "The special status provided to Jammu and Kashmir under Art. 370 limits parliament to enact laws relating to",
+      "options": [
+        "List-I and List-III of the Seventh Schedule",
+        "List-I only of the Seventh Schedule",
+        "List-II only of the Seventh Schedule",
+        "List-I, II & III of the Seventh Schedule"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 370 of the Indian Constitution granted special autonomy to Jammu and Kashmir, allowing it to have its own constitution and considerable legislative powers. Under this provision, the Parliament's ability to legislate for Jammu and Kashmir was limited primarily to matters in List-I (the Union List) and List-III (the Concurrent List) of the Seventh Schedule. This means that while Parliament could enact laws on subjects that fall under these lists, it could not legislate on matters in List-II (the State List) without the state's concurrence. This unique arrangement was designed to respect the region's autonomy while still allowing for some degree of central oversight on critical national issues.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202986,
+      "question": "The ideals of liberty, equality and fraternity enshrined in the preamble of the Constitution of India were adopted under inspiration from the",
+      "options": [
+        "American Declaration of Independence",
+        "French Revolution",
+        "Russian Revolution",
+        "UN Charter"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ideals of liberty, equality, and fraternity in the preamble of the Constitution of India were significantly inspired by the French Revolution. The French Revolution, which began in 1789, emphasized the principles of individual rights and collective responsibility, advocating for the rights of citizens and the importance of equality among them. These concepts resonated with the Indian freedom struggle, where leaders sought to establish a democratic framework that upheld these values. The adoption of these ideals in the Indian Constitution reflects a commitment to creating a just society, drawing from the revolutionary spirit that emerged during the French Revolution, which sought to dismantle oppressive structures and promote social justice.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202987,
+      "question": "Which one of the following is not correct related to the distinctions between the grants under Article 275 and Article 282 of the Constitution of India?",
+      "options": [
+        "The grants-in-aid under Article 275 are statutory whereas under Article 282 they are discretionary",
+        "Under Article 282, the union has the power to provide grants-in-aid even for non-plan expenditure",
+        "Under Article 275, the union has the right to give grants in accordance with the decision taken on the basis of recommendation of Finance Commission",
+        "Allocation of Grants under Article 282 is based on the recommendation of Cabinet Committee"
+      ],
+      "correctIndex": 3,
+      "explanation": "The statement \"Allocation of Grants under Article 282 is based on the recommendation of Cabinet Committee\" is incorrect. Article 282 of the Constitution allows the Union or State governments to make grants for any public purpose, and these grants are discretionary rather than statutory. The allocation does not specifically require a recommendation from a Cabinet Committee; instead, it is based on the government's discretion to address various needs. In contrast, Article 275 provides for statutory grants-in-aid to states based on the recommendations of the Finance Commission, primarily aimed at supporting states in financial distress. Thus, the distinction lies in the nature of the grants and the processes involved in their allocation.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202988,
+      "question": "Match and-select the correct answer using the code given below :\n(A) P.A. Sangma\n(B) G.M.C. Balayogi\n(C) Manohar Joshi\n(D) Somnath Chatterjee",
+      "options": [
+        "(A) Congress - I, (B) Telugu Desam party, (C) Shiv Sena, (D) CPI(m)",
+        "(A) Telugu Desam party, (B) Congress - I, (C) CPI(m), (D) Shiv Sena",
+        "(A) Shiv Sena, (B) CPI(m), (C) Congress - I, (D) Telugu Desam party",
+        "(A) CPI(m), (B) Shiv Sena, (C) Telugu Desam party, (D) Congress - I"
+      ],
+      "correctIndex": 0,
+      "explanation": "P. A. Sangma — Prominent Congress(I) leader from Meghalaya who rose through the Indian National Congress and served as Union Minister and later as Speaker of the Lok Sabha.\n\nG. M. C. Balayogi — Leader of the Telugu Desam party who served as Speaker of the 12th Lok Sabha representing TDP interests.\n\nManohar Joshi — Senior Shiv Sena leader from Maharashtra who served as Chief Minister of Maharashtra and later as Speaker of the Lok Sabha.\n\nSomnath Chatterjee — Veteran CPI(M) parliamentarian who served as Speaker of the Lok Sabha representing the Communist Party of India (Marxist).",
+      "type": "MATCH"
+    },
+    {
+      "id": 202989,
+      "question": "Kaviko Arakkattalai Award given to __________during the year 2017.",
+      "options": [
+        "Poet Muthulingam",
+        "Poet Vairamuthu",
+        "Poet Vaali",
+        "Poet Vijay"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Kaviko Arakkattalai Award is a prestigious recognition in the Tamil literary community, awarded to individuals for their significant contributions to Tamil poetry and literature. In 2017, the award was bestowed upon Poet Muthulingam, acknowledging his impactful work and influence in the field. Muthulingam is known for his unique style and ability to resonate with readers through his poetry, making him a deserving recipient of this honor. The award not only highlights his literary achievements but also serves to inspire other poets and writers in the Tamil language.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202990,
+      "question": "What percentage of downtrodden students enrolment in private schools as per Right to Education Act?",
+      "options": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Right to Education Act mandates that a certain percentage of seats in private schools be reserved for students from economically weaker sections and disadvantaged groups. According to the provisions of this act, 25% of the total seats in private schools are to be allocated for downtrodden students. This initiative aims to promote inclusivity and ensure that children from all backgrounds have access to quality education, thereby reducing educational disparities. The correct answer is therefore 25%.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202991,
+      "question": "Find out the total votes of the electoral college for the Indian Presidential Election, 2017.",
+      "options": [
+        "11,00,346 votes",
+        "11,04,546 votes",
+        "12,06,232 votes",
+        "13,00,346 votes"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the Indian Presidential Election of 2017, the total votes of the electoral college amounted to 11,04,546 votes. This figure is derived from the combined votes of the elected members of both houses of Parliament and the elected members of the Legislative Assemblies of the States and Union territories. The electoral college plays a crucial role in electing the President of India, and the total votes reflect the representation of various states and the central government in this significant democratic process. The correct answer, B - 11,04,546 votes, highlights the precise count that was established during the election.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202992,
+      "question": "Which one of the following is the objective of perspective plan 2023?",
+      "options": [
+        "Create Employment Opportunity",
+        "Digital Technology",
+        "Award",
+        "Reward"
+      ],
+      "correctIndex": 0,
+      "explanation": "The objective of the perspective plan 2023 is to create employment opportunities. This plan aims to address the growing need for jobs in various sectors, particularly in the context of economic development and population growth. By focusing on employment generation, the plan seeks to enhance the livelihoods of individuals and contribute to overall economic stability. While digital technology, awards, and rewards may play supportive roles in achieving this goal, the primary focus remains on establishing a robust framework for job creation, which is essential for sustainable development and improving the quality of life for citizens.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202993,
+      "question": "Which of the following objectives regarding Skill India Mission is incorrect?",
+      "options": [
+        "Its objective is to achieve skilling of the youth across the country",
+        "Its aim is to remove financial constraints in accessing skill training programmes",
+        "Under the mission, loans from Rs. 50,000 to 1.5 lakh will be available to more the 34 lakh Youth of India",
+        "The tagline of this mission is Kaushal Bharat"
+      ],
+      "correctIndex": 2,
+      "explanation": "The incorrect objective regarding the Skill India Mission is related to the provision of loans. While the mission aims to enhance skill development among the youth, the specific claim that loans ranging from Rs. 50,000 to 1.5 lakh will be available to more than 34 lakh youth is not accurate. The Skill India Mission primarily focuses on providing skill training and enhancing employability rather than directly offering financial loans. The other options correctly reflect the mission's goals, such as achieving widespread skilling of youth and addressing financial barriers to access training programs. Additionally, the tagline \"Kaushal Bharat\" emphasizes the mission's commitment to skill development in India.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202994,
+      "question": "Which country physicists created a new form of Hydrogen? (Negatively charged hydrogen cluster)",
+      "options": [
+        "India",
+        "Austria",
+        "Australia",
+        "China"
+      ],
+      "correctIndex": 1,
+      "explanation": "Physicists in Austria have made significant advancements in the field of hydrogen research by creating a new form of hydrogen known as negatively charged hydrogen clusters. This innovative development involves the manipulation of hydrogen atoms to form clusters that carry a negative charge, which could have implications for various scientific and technological applications. The research highlights Austria's contributions to the field of physics and materials science, showcasing the country's role in exploring the fundamental properties of matter and the potential for new materials.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202995,
+      "question": "Rajiv Gandhi School of Intellectual Property Rights Law is located in _______(city) of state.",
+      "options": [
+        "Chennai - Tamil Nadu",
+        "Ujaini - Madhya Pradesh",
+        "Cochin - Kerala",
+        "Kharagpur - West Bengal"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Rajiv Gandhi School of Intellectual Property Rights Law is situated in Kharagpur, West Bengal. This institution is part of the Indian Institute of Technology Kharagpur (IIT Kharagpur), which is renowned for its engineering and technology programs. The school focuses on the study and research of intellectual property rights, providing students with a comprehensive understanding of legal frameworks and practices related to intellectual property. Kharagpur, being home to one of the premier IITs in India, offers a vibrant academic environment that fosters innovation and legal scholarship in the field of intellectual property.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202996,
+      "question": "Which one of the following is not correctly matched?",
+      "options": [
+        "Varishtha Pension Bima Yojana - Social security for old age",
+        "Pravasi Kaushal Vikas Yojana - Seeking employment in abroad",
+        "PM Fasal Bima Yojana -Insurance coverage to farmers",
+        "PM Gram Sadak Yojana - Empowerment of rural women"
+      ],
+      "correctIndex": 3,
+      "explanation": "The PM Gram Sadak Yojana is primarily focused on providing all-weather road connectivity to unconnected villages in India, thereby enhancing rural infrastructure and accessibility. It aims to improve the socio-economic conditions of rural areas by facilitating better transportation and access to markets, education, and healthcare. In contrast, the empowerment of rural women is not the main objective of this scheme. The other options are correctly matched: the Varishtha Pension Bima Yojana provides social security for the elderly, the Pravasi Kaushal Vikas Yojana aims to enhance the skills of individuals seeking employment abroad, and the PM Fasal Bima Yojana offers insurance coverage to farmers against crop loss. Thus, the incorrect match is D.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202997,
+      "question": "When BSE's sensex has reached its maximum 30,000 - mark for the first time in the history?",
+      "options": [
+        "26 December 2016",
+        "26 January 2017",
+        "26 April 2017",
+        "26 May 2017"
+      ],
+      "correctIndex": 2,
+      "explanation": "The BSE Sensex, which is a key stock market index in India, reached the significant milestone of 30,000 points for the first time on April 26, 2017. This achievement marked a notable moment in the history of the Indian stock market, reflecting investor confidence and economic growth. The Sensex is composed of 30 of the largest and most actively traded stocks on the Bombay Stock Exchange, and crossing the 30,000 mark indicated a bullish trend in the market. The date is significant as it showcases the performance of the Indian economy and the stock market's response to various economic policies and global market conditions at that time.",
+      "type": "MCQ"
+    },
+    {
+      "id": 202998,
+      "question": "The Indian Space Research Organisation (ISRO) successfully tested indigenously developed cryogenic engine on",
+      "options": [
+        "January 25, 2017",
+        "January 30, 2017",
+        "April 1, 2017",
+        "March 30, 2017"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Indian Space Research Organisation (ISRO) successfully tested its indigenously developed cryogenic engine on January 25, 2017. This milestone was significant for India's space program as it marked a crucial step towards enhancing the capabilities of the country's launch vehicles. The cryogenic engine technology allows for greater payload capacity and efficiency in launching satellites into orbit. The successful test demonstrated ISRO's advancements in space technology and its ability to develop complex systems independently, contributing to India's growing reputation in the global space community.",
+      "type": "MCQ"
+    }
+  ]
+}
